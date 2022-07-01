@@ -1,0 +1,114 @@
+﻿l_russian:
+
+### Edicts ###
+edict_nsc_freebooter_leader_making:0 "§YКомната для тренировок с Великим Ханом§!"
+edict_nsc_freebooter_leader_making_desc:0 "Здесь Великий Хан лично обучает наших лидеров."
+nsc_freebooter_leader_making_tooltip:0 "Откроется специальный пользовательский интерфейс для создания настраиваемого лидера."
+
+### Technologies ###
+tech_nsc_freebooter_khan_training_improve:0 "Усовершенствованные учения Хана"
+tech_nsc_freebooter_khan_training_improve_desc:0 "Знание - это сила. Власть - это всё."
+tech_nsc_freebooter_khan_training_improve_tooltip:0 "§YВы можете выбрать ещё §G1§! черту в комнате для тренировок с Великим Ханом.§!"
+
+### Events ###
+#Нам не нужно добавлять описания здесь, так как они никому не будут видны
+nsc_freebooter_customgui.1.name:0 ""
+nsc_freebooter_customgui.1.desc:0 ""
+nsc_freebooter_customgui.1.a:0 ""
+
+### Custom GUI ###
+TEXT_NSC_FREEBOOTER_LEADER_MAKING:0 "Комната для тренировок с Великим Ханом"
+NSC_FREEBOOTER_LEADER_SKILL_LEVEL_HEADER:0 "Уровни навыков лидера"
+NSC_FREEBOOTER_LEADER_GOVERNOR_TRAIT_HEADER:0 "Черты §Yгубернатора§!"
+NSC_FREEBOOTER_LEADER_SCIENTIST_TRAIT_HEADER:0 "Черты §Bучёного§!"
+NSC_FREEBOOTER_LEADER_ADMIRAL_TRAIT_HEADER:0 "Черты §Rадмирала§!"
+NSC_FREEBOOTER_LEADER_GENERAL_TRAIT_HEADER:0 "Черты §Gгенерала§!"
+TEXT_NSC_FREEBOOTER_LEADER_MAKING_CUSTOM:0 "§YНачало обучения§!"
+TEXT_RESET_NSC_FREEBOOTER_LEADER_TRAIT_SKILL_LEVEL:0 "Сброс характеристик"
+tooltip_reset_nsc_freebooter_leader_trait:0 "Нажмите, чтобы §Yсбросить выбранные черты и уровень§!."
+
+nsc_freebooter_leader_making_should_pick_any_trait.fail:0 "£trigger_no£ Черта НЕ выбрана."
+nsc_freebooter_leader_making_should_pick_any_skill_level.fail:0 "£trigger_no£ Уровень квалификации НЕ выбран."
+nsc_freebooter_leader_making_already_set_skill_level.fail:0 "£trigger_no£ Этот уровень квалификации уже выбран."
+
+nsc_freebooter_leader_trait_cost.fail:0 "£trigger_no£ §RВам нужно 500 £energy£ и 500 £consumer_goods£, чтобы выбрать эту черту.§!"
+nsc_freebooter_leader_already_picked_trait.fail:0 "£trigger_no£ Вы уже выбрали эту черту."
+nsc_freebooter_leader_trait_points.fail:0 "£trigger_no£ Вы НЕ можете выбрать больше черт."
+nsc_freebooter_leader_already_picked_class.fail:0 "£trigger_no£ Вы НЕ можете одновременно выбирать черты разных классов лидеров.
+
+nsc_freebooter_leader_skill_level.fail.2:0 "£trigger_no£ §RУ вас должен быть сейчас или ранее лидер (исключая Хана) как минимум с 2 уровнями навыков.§!"
+nsc_freebooter_leader_skill_level.fail.3:0 "£trigger_no£ §RУ вас должен быть сейчас или ранее лидер (исключая Хана) как минимум с 3 уровнями навыков.§!"
+nsc_freebooter_leader_skill_level.fail.4:0 "£trigger_no£ §RУ вас должен быть сейчас или ранее лидер (исключая Хана) как минимум с 4 уровнями навыков.§!"
+nsc_freebooter_leader_skill_level.fail.5:0 "£trigger_no£ §RУ вас должен быть сейчас или ранее лидер (исключая Хана) как минимум с 5 уровнями навыков.§!"
+nsc_freebooter_leader_skill_level.fail.6:0 "£trigger_no£ §RУ вас должен быть сейчас или ранее лидер (исключая Хана) как минимум с 6 уровнями навыков.§!"
+
+nsc_freebooter_leader_skill_cost.fail.1:0 "£trigger_no£ §RВам нужно 200 £energy£, 200 £food£ и 50 £influence£, чтобы выбрать этот уровень навыка.§!"
+nsc_freebooter_leader_skill_cost.fail.2:0 "£trigger_no£ §RВам нужно 400 £energy£, 400 £food£ и 100 £influence£, чтобы выбрать этот уровень навыка.§!"
+nsc_freebooter_leader_skill_cost.fail.3:0 "£trigger_no£ §RВам нужно 600 £energy£, 600 £food£ и 150 £influence£, чтобы выбрать этот уровень навыка.§!"
+nsc_freebooter_leader_skill_cost.fail.4:0 "£trigger_no£ §RВам нужно 800 £energy£, 800 £food£ и 200 £influence£, чтобы выбрать этот уровень навыка.§!"
+nsc_freebooter_leader_skill_cost.fail.5:0 "£trigger_no£ §RВам нужно 1000 £energy£, 1000 £food£ и 250 £influence£, чтобы выбрать этот уровень навыка.§!"
+nsc_freebooter_leader_skill_cost.fail.6:0 "£trigger_no£ §RВам нужно 1200 £energy£, 1200 £food£ и 300 £influence£, чтобы выбрать этот уровень навыка.§!"
+
+tooltip_nsc_freebooter_leader_skill_level_set_1:0 "Стоимость: §Y200§! £energy£ §G200§! £food£ §M50§! £influence£"
+tooltip_nsc_freebooter_leader_skill_level_set_2:0 "Стоимость: §Y400§! £energy£ §G400§! £food£ §M100§! £influence£"
+tooltip_nsc_freebooter_leader_skill_level_set_3:0 "Стоимость: §Y600§! £energy£ §G600§! £food£ §M150§! £influence£"
+tooltip_nsc_freebooter_leader_skill_level_set_4:0 "Стоимость: §Y800§! £energy£ §G800§! £food£ §M200§! £influence£"
+tooltip_nsc_freebooter_leader_skill_level_set_5:0 "Стоимость: §Y1000§! £energy£ §G1000§! £food£ §M250§! £influence£"
+tooltip_nsc_freebooter_leader_skill_level_set_6:0 "Стоимость: §Y1200§! £energy£ §G1200§! £food£ §M300§! £influence£"
+
+### Custom GUI: Traits ###
+
+tooltip_nsc_freebooter_leader_trait_governor_1:0 "$tooltip_nsc_freebooter_leader_trait_general_1$"
+tooltip_nsc_freebooter_leader_trait_governor_2:0 "$tooltip_nsc_freebooter_leader_trait_general_2$"
+tooltip_nsc_freebooter_leader_trait_governor_3:0 "§H$leader_trait_iron_fist$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_planet_jobs_slave_produces_mult$: §G+10%§! \n-------------- \n§L$leader_trait_iron_fist_desc$§!"
+nsc_freebooter_leader_trait_governor_3.fail:0 "£trigger_no£ §R$policy_slavery$ должна быть установлена на '$slavery_allowed$', чтобы выбрать эту черту."
+tooltip_nsc_freebooter_leader_trait_governor_4:0 "§H$leader_trait_army_veteran$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_PLANET_ARMY_BUILD_SPEED_MULT$: §G+20%§! \n$MOD_PLANET_ARMY_BUILD_COST_MULT$: §G-20%§! \n-------------- \n§L$leader_trait_army_veteran_desc$§!"
+tooltip_nsc_freebooter_leader_trait_governor_5:0 "§H$leader_trait_architectural_interest$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_planet_buildings_cost_mult$: §G-10%§! \n$mod_planet_districts_cost_mult$: §G-10%§! \n-------------- \n§L$leader_trait_architectural_interest_desc$§!"
+tooltip_nsc_freebooter_leader_trait_governor_6:0 "§H$leader_trait_agrarian_upbringing$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_planet_jobs_food_produces_mult$: §G+10%§! \n-------------- \n§L$leader_trait_agrarian_upbringing_desc$§!"
+tooltip_nsc_freebooter_leader_trait_governor_7:0 "§H$leader_trait_intellectual$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_planet_jobs_physics_research_produces_mult$: §G+10%§! \n$mod_planet_jobs_society_research_produces_mult$: §G+10%§! \n$mod_planet_jobs_engineering_research_produces_mult$: §G+10%§! \n-------------- \n§L$leader_trait_intellectual_desc$§!"
+tooltip_nsc_freebooter_leader_trait_governor_8:0 "§H$leader_trait_environmental_engineer$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_deposit_blockers_cost_mult$: §G-25%§! \n$MOD_PLANET_CLEAR_BLOCKER_TIME_MULT$: §G-25%§! \n-------------- \n§L$leader_trait_environmental_engineer_desc$§!"
+tooltip_nsc_freebooter_leader_trait_governor_9:0 "§H$leader_trait_bureaucrat$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_planet_bureaucrats_produces_mult$: §G+10%§! \n-------------- \n§L$leader_trait_bureaucrat_desc$§!"
+tooltip_nsc_freebooter_leader_trait_governor_10:0 "§H$leader_trait_righteous$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_PLANET_CRIME_ADD$: §G-25§! \n-------------- \n§L$leader_trait_righteous_desc$§!"
+
+tooltip_nsc_freebooter_leader_trait_scientist_1:0 "$tooltip_nsc_freebooter_leader_trait_general_1$"
+tooltip_nsc_freebooter_leader_trait_scientist_2:0 "$tooltip_nsc_freebooter_leader_trait_general_2$"
+tooltip_nsc_freebooter_leader_trait_scientist_3:0 "§H$leader_trait_meticulous$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_SHIP_ANOMALY_GENERATION_CHANCE_MULT$: §G+10%§! \n-------------- \n§L$leader_trait_meticulous_desc$§!"
+tooltip_nsc_freebooter_leader_trait_scientist_4:0 "§H$leader_trait_spark_of_genius$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$: §G+10%§! \n-------------- \n§L$leader_trait_spark_of_genius_desc$§!"
+tooltip_nsc_freebooter_leader_trait_scientist_5:0 "§H$leader_trait_carefree$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_SHIP_ANOMALY_RESEARCH_SPEED$: §G+35%§! \n-------------- \n§L$leader_trait_carefree_desc$§!"
+tooltip_nsc_freebooter_leader_trait_scientist_6:0 "§H$leader_trait_roamer$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_SHIP_SCIENCE_SURVEY_SPEED$: §G+25%§! \n-------------- \n§L$leader_trait_roamer_desc$§!"
+tooltip_nsc_freebooter_leader_trait_scientist_7:0 "§H$leader_trait_archaeologist_ancrel$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_SHIP_ARCHAEOLOGICAL_SITE_EXCAVATION_SPEED_MULT$: §G+25%§! \n-------------- \n§L$leader_trait_archaeologist_ancrel_desc$§!"
+tooltip_nsc_freebooter_leader_trait_scientist_7_no_dlc:0 "§H$leader_trait_archaeologist$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$leader_trait_archaeologist_tooltip$ \n-------------- \n§L$leader_trait_archaeologist_desc$§!"
+tooltip_nsc_freebooter_leader_trait_scientist_8:0 "§H$leader_trait_maniacal$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$: §G+5%§! \n-------------- \n§L$leader_trait_maniacal_desc$§!"
+tooltip_nsc_freebooter_leader_trait_scientist_9:0 "§H$leader_trait_expertise_psionics$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_category_psionics_research_speed_mult$: §G+15%§! \n-------------- \n§L$leader_trait_expertise_psionics_desc$§!"
+tooltip_nsc_freebooter_leader_trait_scientist_10:0 "§H$leader_trait_expertise_field_manipulation$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_category_field_manipulation_research_speed_mult$: §G+15%§! \n-------------- \n§L$leader_trait_expertise_field_manipulation_desc$§!"
+tooltip_nsc_freebooter_leader_trait_scientist_11:0 "§H$leader_trait_expertise_particles$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_category_particles_research_speed_mult$: §G+15%§! \n-------------- \n§L$leader_trait_expertise_particles_desc$§!"
+tooltip_nsc_freebooter_leader_trait_scientist_12:0 "§H$leader_trait_expertise_computing$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_category_computing_research_speed_mult$: §G+15%§! \n-------------- \n§L$leader_trait_expertise_computing_desc$§!"
+tooltip_nsc_freebooter_leader_trait_scientist_13:0 "§H$leader_trait_expertise_new_worlds$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_category_new_worlds_research_speed_mult$: §G+15%§! \n-------------- \n§L$leader_trait_expertise_new_worlds_desc$§!"
+tooltip_nsc_freebooter_leader_trait_scientist_14:0 "§H$leader_trait_expertise_statecraft$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_category_statecraft_research_speed_mult$: §G+15%§! \n-------------- \n§L$leader_trait_expertise_statecraft_desc$§!"
+tooltip_nsc_freebooter_leader_trait_scientist_15:0 "§H$leader_trait_expertise_biology$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_category_biology_research_speed_mult$: §G+15%§! \n-------------- \n§L$leader_trait_expertise_biology_desc$§!"
+tooltip_nsc_freebooter_leader_trait_scientist_16:0 "§H$leader_trait_expertise_military_theory$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_category_military_theory_research_speed_mult$: §G+15%§! \n-------------- \n§L$leader_trait_expertise_military_theory_desc$§!"
+tooltip_nsc_freebooter_leader_trait_scientist_17:0 "§H$leader_trait_expertise_materials$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_category_materials_research_speed_mult$: §G+15%§! \n-------------- \n§L$leader_trait_expertise_materials_desc$§!"
+tooltip_nsc_freebooter_leader_trait_scientist_18:0 "§H$leader_trait_expertise_propulsion$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_category_propulsion_research_speed_mult$: §G+15%§! \n-------------- \n§L$leader_trait_expertise_propulsion_desc$§!"
+tooltip_nsc_freebooter_leader_trait_scientist_19:0 "§H$leader_trait_expertise_voidcraft$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_category_voidcraft_research_speed_mult$: §G+15%§! \n-------------- \n§L$leader_trait_expertise_voidcraft_desc$§!"
+tooltip_nsc_freebooter_leader_trait_scientist_20:0 "§H$leader_trait_expertise_industry$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_category_industry_research_speed_mult$: §G+15%§! \n-------------- \n§L$leader_trait_expertise_industry_desc$§!"
+
+tooltip_nsc_freebooter_leader_trait_admiral_1:0 "$tooltip_nsc_freebooter_leader_trait_general_1$"
+tooltip_nsc_freebooter_leader_trait_admiral_2:0 "$tooltip_nsc_freebooter_leader_trait_general_2$"
+tooltip_nsc_freebooter_leader_trait_admiral_3:0 "§H$leader_trait_trickster$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_SHIP_EMERGENCY_FTL$: §G-15%§! \n$MOD_SHIP_DISENGAGE_CHANCE_MULT$: §G+25%§! \n-------------- \n§L$leader_trait_trickster_desc$§!"
+tooltip_nsc_freebooter_leader_trait_admiral_4:0 "§H$leader_trait_fleet_logistician$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_ships_upkeep_mult$: §G-10%§! \n-------------- \n§L$leader_trait_fleet_logistician_desc$§!"
+tooltip_nsc_freebooter_leader_trait_admiral_5:0 "§H$leader_trait_engineer$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_SHIP_HULL_REGEN_ADD_PERC$: §G+0.5%§! \n$MOD_SHIP_ARMOR_REGEN_ADD_PERC$: §G+0.5%§! \n-------------- \n§L$leader_trait_engineer_desc$§!"
+tooltip_nsc_freebooter_leader_trait_admiral_6:0 "§H$leader_trait_aggressive$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_SHIP_FIRE_RATE_MULT$: §G+5%§! \n$MOD_SHIP_SPEED_MULT$: §G+10%§! \n-------------- \n§L$leader_trait_aggressive_desc$§!"
+tooltip_nsc_freebooter_leader_trait_admiral_7:0 "§H$leader_trait_cautious$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_SHIP_WEAPON_RANGE_MULT$: §G+20%§! \n-------------- \n§L$leader_trait_cautious_desc$§!"
+tooltip_nsc_freebooter_leader_trait_admiral_8:0 "§H$leader_trait_scout$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_SHIP_SENSOR_RANGE_ADD$: §G+1§! \n$MOD_SHIP_HYPERLANE_RANGE_ADD$: §G+2§! \n$MOD_SHIP_SPEED_MULT$: §G+10%§! \n-------------- \n§L$leader_trait_scout_desc$§!"
+tooltip_nsc_freebooter_leader_trait_admiral_9:0 "§H$leader_trait_unyielding$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_SHIP_HULL_MULT$: §G+10%§! \n$MOD_SHIP_WEAPON_DAMAGE$: §G+5%§! \n$MOD_SHIP_DISENGAGE_CHANCE_MULT$: §R-33%§! \n-------------- \n§L$leader_trait_unyielding_desc$§!"
+tooltip_nsc_freebooter_leader_trait_admiral_10:0 "§H$leader_trait_gale_speed$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_SHIP_EVASION_MULT$: §G+5%§! \n$MOD_SHIP_SPEED_MULT$: §G+20%§! \n-------------- \n§L$leader_trait_gale_speed_desc$§!"
+tooltip_nsc_freebooter_leader_trait_admiral_11:0 "§H$leader_trait_mercenary_warrior$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_SHIP_EVASION_MULT$: §G+10%§! \n$MOD_SHIP_FIRE_RATE_MULT$: §G+10%§! \n-------------- \n§L$leader_trait_mercenary_warrior_desc$§!"
+
+tooltip_nsc_freebooter_leader_trait_general_1:0 "§H$leader_trait_resilient$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_LEADER_AGE$: §G+25§! \n-------------- \n§L$leader_trait_resilient_desc$§!"
+tooltip_nsc_freebooter_leader_trait_general_2:0 "§H$leader_trait_adaptable$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_LEADER_SPECIES_EXP_GAIN$: §G+25%§! \n-------------- \n§L$leader_trait_adaptable_desc$§!"
+tooltip_nsc_freebooter_leader_trait_general_3:0 "§H$leader_trait_restrained$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_ARMY_DISENGAGE_CHANCE_MULT$: §G+20%§! \n$MOD_ARMY_COLLATERAL_DAMAGE_MULT$: §Y+33%§! \n-------------- \n§L$leader_trait_restrained_desc$§!"
+tooltip_nsc_freebooter_leader_trait_general_4:0 "§H$leader_trait_charismatic$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_ARMY_MORALE$: §G+25%§! \n$MOD_ARMY_COLLATERAL_DAMAGE_MULT$: §Y+33%§! \n-------------- \n§L$leader_trait_charismatic_desc$§!"
+tooltip_nsc_freebooter_leader_trait_general_5:0 "§H$leader_trait_butcher$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_ARMY_DAMAGE_MULT$: §G+10%§! \n$MOD_ARMY_COLLATERAL_DAMAGE_MULT$: §Y+33%§! \n-------------- \n§L$leader_trait_butcher_desc$§!"
+tooltip_nsc_freebooter_leader_trait_general_6:0 "§H$leader_trait_glory_seeker$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_ARMY_MORALE$: §G+10%§! \n$MOD_ARMY_DAMAGE_MULT$: §G+5%§! \n-------------- \n§L$leader_trait_glory_seeker_desc$§!"
+tooltip_nsc_freebooter_leader_trait_general_7:0 "§H$leader_trait_army_logistician$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$mod_armies_upkeep_mult$: §G-20%§! \n-------------- \n§L$leader_trait_army_logistician_desc$§!"
+tooltip_nsc_freebooter_leader_trait_general_8:0 "§H$leader_trait_general_mercenary_warrior$§! \nСтоимость: £energy£§R500§! £consumer_goods£§R500§! \n$MOD_ARMY_DAMAGE_MULT$: §G+10%§! \n-------------- \n§L$leader_trait_general_mercenary_warrior_desc$§!"

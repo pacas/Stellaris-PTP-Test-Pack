@@ -1,0 +1,135 @@
+﻿l_russian:
+# l_spanish:
+# l_german:
+# l_french:
+# l_polish:
+# l_russian:
+# l_braz_por:
+# l_simp_chinese:
+# l_korean:
+# l_japanese:
+ 
+ #### In this file localisation for ####
+ # Relics
+ # Precursor Relics
+ #######################################
+
+
+
+ #######################################
+ #### Relics
+ #######################################
+ gpm_r_time_displacer:0 "Устройство искажения времени"
+ gpm_r_time_displacer_desc:0 "Это устройство, по-видимому, может оказывать релятивистские временные эффекты на другие объекты рядом с ним."
+ gpm_relic_time_displacer_sci_effectTT:0 "§GЭтот эффект со временем усиливается.§!"
+ gpm_time_displacer_relic_bonus:0 "Устройство искажения времени"
+ gpm_time_displacer_relic_bonus_desc:0 "Время, в конце концов, относительно."
+
+ gpm_r_alien_eggs:0 "Королева чужих"
+ gpm_r_alien_eggs_desc:0 "НЕ ВЫПУСКАТЬ"
+ gpm_r_alien_eggs_active_effect:0 "Производит несколько §Yармий ксеноморфов§! вблизи столицы.\n"
+
+ gpm_r_machine_world_core:0 "Ядро машинного мира"
+ gpm_r_machine_world_core_desc:0 "Бездействующее ядро машинного мира, ожидающее подзарядки."
+ gpm_r_machine_world_core_active_tooltip:0 "Сверхзаряженное §HЯдро Мира Машин§! позволит преобразовать §Yбезжизненный мир§!, §Yгазовый гигант§! или §Yрасколотый мир§! в §HМир Машин§!\n\nОткрывает планетарное решение §YПреобразовать мир§! для любой безжизненной планеты в наших границах.\n\n§RЭто действие удалит реликвию.§!\n"
+
+ gpm_r_mars_rover:0 "Восстановленный «Opportunity»"
+ gpm_r_mars_rover_desc:0 "«Opportunity» был полностью восстановлен и счастливо вновь колесит по Марсу."
+ gpm_r_mars_rover_active_tooltip:0 "Подзарядка батарей «Opportunity» стоит £energy£ 10 (Это ничего не даст)."
+
+ #######################################
+ #### Precursor Relics
+ #######################################
+ gpm_r_encyclopedia_galactica:0 "Галактическая энциклопедия"
+ gpm_r_encyclopedia_galactica_desc:0 "Большинство поврежденных ячеек памяти в галактической энциклопедии использовались для хранения коллективных знаний древней цивилизации."
+ gpm_r_encyclopedia_galactica_active_effect_tooltip:0 "Вы временно улучшите отношения с угасшими империями."
+
+ gpm_r_zero_energy_generator:0 "Генератор нулевой энергии"
+ gpm_r_zero_energy_generator_desc:0 "Относительно небольшое устройство вытягивает нулевую энергию из подпространства и преобразует её в небольшие объёмы материи. После некоторых модификаций это устройство можно будет подключить к нашей энергосистеме."
+ gpm_r_zero_energy_generator_active_effect:0 "$gpm_r_zero_energy_generator$"
+
+ gpm_r_quantum_sphere:0 "Кванто-Сфера"
+ gpm_r_quantum_sphere_desc:0 "Невообразимо сложная сфера, которая позволяет заглядывать в другие солнечные системы. Похоже, что сама сфера квантово связана с самой галактикой."
+ gpm_r_quantum_sphere_active_effect:0 "$gpm_r_quantum_sphere$"
+
+ gpm_r_ai_architect:0 "ИИ-архитектор"
+ gpm_r_ai_architect_desc:0 "Этот капризный ИИ продолжает настаивать на использовании его треугольных проектов. Потребуется немало усилий, чтобы заставить его согласиться на создание чего-то привычного."
+ gpm_r_ai_architect_active_effect:0 "$gpm_r_ai_architect$"
+
+ gpm_r_encrypted_sct:0 "Зашифрованная SCT"
+ gpm_r_encrypted_sct_desc:0 "128b42 - viO9oo96eSf0AlyFelwIkGgMrs8LYTtecfV6aN33qjQ="
+ gpm_r_encrypted_sct_active_effect:0 "$gpm_r_encrypted_sct$"
+
+ gpm_r_experimental_weapon:0 "Экспериментальное оружие"
+ gpm_r_experimental_weapon_desc:0 "Экспериментальное оружие, разработанное в последние дни древней империи. Однако оно не смогло предотвратить её падение..."
+ gpm_r_experimental_weapon_active_effect:0 "$gpm_r_experimental_weapon$"
+
+ gpm_r_fallout_emergency_replicator:0 "Аварийный репликатор"
+ gpm_r_fallout_emergency_replicator_desc:0 "Автономное устройство, которое может использовать даже грязь. Оно может изготовить всё, что вам необходимо для выживания."
+
+ gpm_r_power_core:0 "Энергоядро"
+ gpm_r_power_core_desc:0 "Это энергоядро, извлечённое из древнего реактора, способно вырабатывать энергию в течение долгих тысячелетий."
+ gpm_r_power_core_active_effect:0 "$gpm_r_power_core$"
+
+ gpm_r_mysterious_shield_generator:0 "Археотехнический генератор щита"
+ gpm_r_mysterious_shield_generator_desc:0 "Этот относительно малый генератор щитов был способен создавать небольшое энергетическое поле для блокирования энергетических атак. Он мог бы стать основой для огромной сети генераторов щитов, потенциально охватывающих целый мир!"
+ gpm_r_mysterious_shield_generator_active_effect_tooltip:0 "Позволяет создать с помощью планетарного решения §H$decision_gpm_shield_generator_arrays$§! множество массивов щитов, защищающих целый обитаемый мир."
+
+ gpm_r_gravity_engine:0 "Гравитационный манипулятор"
+ gpm_r_gravity_engine_desc:0 "Это устройство способно манипулировать гравитационным полем, усиливая или ослабляя его, в очень локальной области, либо расширяя поле. Это позволяет устройству менять силу тяжести."
+ gpm_r_gravity_engine_active_effect_tooltip:0 "Позволяет создать с помощью планетарного решения §H$decision_gpm_Floating_Island_Housing$§! огромные парящие города на каком-либо обитаемом мире."
+
+ gpm_r_codex_administratum:0 "Кодекс Администратум"
+ gpm_r_codex_administratum_desc:0 "Этот древний том содержит множество правил по расширению в космосе. Его кожаная обложка и тончайшие страницы изготовлены из неизвестного биологического материала и заполнены микроскопическим текстом."
+ gpm_r_codex_administratum_active_effect:0 "$gpm_r_codex_administratum$"
+
+ gpm_r_enigmatic_advisor:0 "Загадочный советник"
+ gpm_r_enigmatic_advisor_desc:0 "Этот болтливый советник-ИИ, обладающий обширными знаниями о древних империях, а также их возвышениях и последующих падениях, потенциально может стать бесценным помощником в дипломатических вопросах."
+ gpm_r_enigmatic_advisor_active_effect:0 "$gpm_r_enigmatic_advisor$"
+
+ gpm_r_positronic_microchip:0 "Позитронный микрочип"
+ gpm_r_positronic_microchip_desc:0 "Позитронные металлические провода, превращённые в микрочип. Это устройство поможет достигнуть ранее неслыханной эффективности при расчётах."
+ gpm_r_positronic_nervious_system_active_effect:0 "$gpm_r_positronic_microchip$"
+
+ gpm_r_venerable_dreadnaught:0 "Древний дредноут"
+ gpm_r_venerable_dreadnaught_desc:0 "Древняя боевая машина, способная повернуть ход любой битвы вспять."
+ gpm_r_venerable_dreadnaught_passive_effect_tooltip:0 "Открывает: §Hармию дредноутов§!"
+ gpm_r_venerable_dreadnaught_active_effect_tooltip:0 "Добавит одну армию §Hдревних дредноутов§!. Содержание армии стоит £energy£10 £alloys£5."
+
+ gpm_r_sentinel_queen:0 "Королева-Страж"
+ gpm_r_sentinel_queen_desc:0 "Этот автономный ИИ способен контролировать миллиарды дронов-стражей, которые могут поддерживать порядок и безопасность в любом мире."
+ gpm_r_sentinel_queen_active_effect:0 "$gpm_r_sentinel_queen$"
+
+ gpm_r_earthquake_engine:0 "Сейсмический двигатель"
+ gpm_r_earthquake_engine_desc:0 "Это странное парящее устройство способно создавать локализованные и узконаправленные землетрясения в форме конуса под собой. Некоторые считают, что оно использовалось для размягчения планетарной коры, что облегчает добычу полезных ископаемых."
+
+ gpm_r_manufactorium_ship:0 "Рухнувший корабль-мануфакториум"
+ gpm_r_manufactorium_ship_desc:0 "Этот почти неповрежденная рухнувший корабль является древним мануфакториумом. Его бортовые заводы могут производить различные ценные материалы."
+
+ gpm_r_datacube:0 "Датакуб"
+ gpm_r_datacube_desc:0 "Этот куб светится жутковатым светом. При прикосновении он раскрывается, открывая взорам ещё более странный предмет. Когда его спрашивают, датакуб иногда раскрывает некоторые из своих секретов."
+ gpm_r_datacube_active_effect_tooltip:0 "Добавит 5 случайных технологий для исследования с прогрессом 50%"
+
+ gpm_r_self_assembly_hub:0 "Самособирающийся хаб"
+ gpm_r_self_assembly_hub_desc:0 "Этот автономный хаб способен воспроизводить части своих строительных усиков, что позволяет ему практически самостоятельно заниматься строительством в любом масштабе."
+ gpm_r_self_assembly_hub_active_effect:0 "$gpm_r_self_assembly_hub$"
+
+ gpm_r_banner_of_the_fallen:0 "Знамя угасших"
+ gpm_r_banner_of_the_fallen_desc:0 "Это загадочное знамя, похоже, оказывает положительное и вдохновляющее воздействие на всех, кто стоит рядом. Судя по показаниям приборов, сама ткань создает некое псионическое поле."
+ gpm_r_banner_of_the_fallen_active_effect:0 "$gpm_r_banner_of_the_fallen$"
+
+ gpm_r_cloaking_device:0 "Маскировочное устройство"
+ gpm_r_cloaking_device_desc:0 "Это маскировочное устройство способно скрывать большие объекты, искривляя само пространство-время вокруг себя."
+ gpm_r_cloaking_device_active_effect:0 "$gpm_r_cloaking_device$"
+ gpm_r_cloaking_device_passive_effect_tooltip:0 "Позволит вашим адмиралам иногда получать черту §HСкрытный тактик§!."
+
+ gpm_r_q_storage_compressor:0 "Компрессор К-хранилища"
+ gpm_r_q_storage_compressor_desc:0 "К-хранилище, или квантовое хранилище теоретически способно хранить бесконечное количество материи. Получение доступа к его содержимому потребует огромного количества энергии. В соответствии с природой квантовой механики мы можем либо знать, что находится внутри, либо местонахождение этого предмета, но никогда обе вещи одновременно! Только после того, как предмет покинет К-хранилище, мы сможем понять, что же мы достали."
+
+ gpm_r_soul_gem:0 "Призма древней души"
+ gpm_r_soul_gem_desc:0 "Этот странный камень, похоже, содержит в себе мощные души с пси способностями. Если внимательно прислушаться, то можно услышать их крики..."
+ gpm_r_soul_gem_active_effect:0 "Вы получите случайного бессмертного лидера 5-го уровня с общей душой"
+
+ gpm_r_self_repairing_obelisk:0 "Самовосстанавливающийся обелиск"
+ gpm_r_self_repairing_obelisk_desc:0 "Полностью функционирующее устройство, способное самостоятельно восстанавливать любые повреждения. Это устройство, похоже, покрыто тонкой пленкой из нанитов."
+ gpm_r_self_repairing_obelisk_active_effect:0 "$gpm_r_self_repairing_obelisk$"

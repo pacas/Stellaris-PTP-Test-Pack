@@ -1,0 +1,51 @@
+﻿l_russian:
+# l_spanish:
+# l_german:
+# l_french:
+# l_polish:
+# l_russian:
+# l_braz_por:
+# l_simp_chinese:
+# l_korean:
+# l_japanese:
+
+ #### In this file localisation for ####
+ # Deathworld
+ # Rebirth
+ # Lost Project
+ #######################################
+
+
+
+ #######################################
+ #### Deathworld
+ #######################################
+ origin_gpm_death_world:0 "Мир смерти"
+ origin_gpm_death_world_desc:0 "Начните игру на смертоносном и очень негостеприимном мире. Мире, который заставил ващу расу эволюционировать в очень гибкий и сильный вид."
+ gpm_origin_death_world_mod:0 "$origin_gpm_death_world$"
+
+ origin_tooltip_gpm_death_world_effects:0 "§R - ВНИМАНИЕ: происхождение повышенной сложности§!\n§YРодной мир§!:\n - Начать на §RМире Смерти§!:\n - Отток иммиграции: §R-100%§!\n - Старт с §G3§! §Rособо проблемными§! планетарными особенностями.\n - Старт с большим количеством §Rне пригодных квадратов.§!\n\n§YВид§!:\n - Получает черту §YСмертомирцы§!, дающий:\n   £discovery_planet  Приспособленность: §G+10%§!\n   £minerals  Минералы от шахтёров: §G+20%§!\n   £food  Пища от фермеров: §G+20%§!"
+
+ gpm_death_world:0 "Столица - мир смерти"
+ gpm_death_world_desc:0 "Почти все существа и растения в этом мире, в той или иной степени смертельно опасны для разумной жизни. Жизнь в этом мире невообразимо сурова; почти половина населения планеты не переживает раннее детство, а половина тех кто уцелел не доживает и до десяти лет. Те, кто действительно достигают совершеннолетия, неизменно входят в число самых стойких, непреклонных и находчивых воинов, мастеров выживания в одной из самых негостеприимных сред Галактики."
+
+ #######################################
+ #### Rebirth
+ #######################################
+ origin_gpm_precursor_world:0 "Возрождение"
+ origin_gpm_precursor_world_machine:0 "$origin_gpm_precursor_world$"
+ origin_gpm_precursor_world_desc:0 "Ваш вид пробуждается внутри древней криосистемы через десятки тысяч лет после тотальной войны. Войну, которую вы, несомненно, проиграли. Планета, на которой вы оказались, пришла в упадок. Вы смотрите вверх, задаваясь вопросом, сколько времени прошло и остался ли там ещё кто-нибудь."
+ # origin_gpm_precursor_world_machine_desc:0 "Your species awakens from an ancient backup system after tens of thousands years of war and destruction. A war you have most certainly lost. The planet you find yourself on has fallen in disrepair. You try to calculate how long it has been, and if anyone, or anything else is still left out there."
+ gpm_origin_precursor_world_mod:0 "$origin_gpm_precursor_world$"
+
+ origin_tooltip_gpm_precursor_world_effects:0 "§R - ВНИМАНИЕ: не сбалансировано для мультиплеера§!\n§YИмперия§!:\n - Скорость изучения: §R-50%§!\n\n§YРодной мир§!:\n - Получает особенность §EДревние руины.§!\n - Имеет §EДревний планетарный щит§!, всё ещё защищающий этот мир.\n - Получает §Y2§! случайные §EДревние§! планетарные особенности.\n\n§YВид§!:\n - Получает черту §YЗабытые§!, дающая:\n - Прирост опыта лидера: §G+50%§!\n  £pop  Использование благ поселениями: §R+25%§!"
+
+ #######################################
+ #### Lost Project
+ #######################################
+ origin_gpm_fallen_empire_colony:0 "Последний проект"
+ origin_gpm_fallen_empire_colony_desc:0 "Начните на забытой где-то в Галактике планете §HУгасшей империи§!. О вашем древнем виде хорошо заботились ныне пропавшие опекуны. Сама планета полна утопических автономных систем, готовых к взятию под контроль"
+ # origin_gpm_fallen_empire_colony_machine_desc:0 "Starts on a forgotten §HFallen Empire§! planet somewhere in the galaxy. Your specifications are ancient and part of the world's many autonomous caretaker systems. That is, until you somehow gained sentience. The planet itself is full of utopian autonomous systems ready for assimilation."
+ gpm_origin_fallen_empire_colony_mod:0 "$origin_gpm_fallen_empire_colony$"
+
+ origin_tooltip_gpm_fallen_empire_colony_effects:0 "§R - ВНИМАНИЕ: не сбалансировано для мультиплеера§!\n§YИмперия§!:\n - Дипломатический вес: §G+10%§!\n - Скорость исследований: §R-15%§!\n - Бонус к отношению с §HУгасшими империями§!: §G+40§!\n§YРодной мир§!:\n - Получает §Y3§! случайные §EДревние§! планетарные особенности.\n\n§YВид§!:\n - Получает черту §YЗнатные§!:\n дающая: £unity£ Единство от £pop£ видов деятельности: §G+15%§!"

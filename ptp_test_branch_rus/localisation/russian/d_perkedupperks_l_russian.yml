@@ -1,0 +1,25 @@
+﻿l_russian:
+ d_pup_minimum_level_plus_2: "Минимальный уровень лидера: §G+2§!"
+
+ d_give_all_blocker_tech: "Даёт все §Yтехнологии для расчистки препятствий§!."
+
+ mod_planet_telepaths_produces_mult: "Производство ресурсов £job_telepath£ телепатами"
+
+ requires_ascension_perks_4: "$TRIGGER_FAIL$Требуется, чтобы сначала были выбраны четыре других бонуса за стремление."
+
+ d_defender_of_the_galaxy_desc: "Количество послов: §G+2§!\n$ap_defender_of_the_galaxy_modifier_desc$"
+
+ mod_planet_priests_physics_research_produces_add: "£physics_research£ $physics_research$ от £job_priest£ [GetPriestPlural]"
+ mod_planet_priests_society_research_produces_add: "£society_research£ $society_research$ от £job_priest£ [GetPriestPlural]"
+ mod_planet_priests_engineering_research_produces_add: "£engineering_research£ $engineering_research$ от £job_priest£ [GetPriestPlural]"
+
+ mod_planet_researchers_physics_research_produces_add: "£physics_research£ $physics_research$ от £job_researcher£ [GetResearcherPlural]"
+ mod_planet_researchers_society_research_produces_add: "£society_research£ $society_research$ от £job_researcher£ [GetResearcherPlural]"
+ mod_planet_researchers_engineering_research_produces_add: "£engineering_research£ $engineering_research$ от £job_researcher£ [GetResearcherPlural]"
+
+
+ ap_shared_destiny_feudal: "Общая судьба"
+ ap_shared_destiny_feudal_desc: "По мере достижения всё больших высот нам нельзя забывать о тех, кто верно служил нам. Славное будущее нашей империи всегда имело смысл, только если оно разделено с другими."
+
+ ap_nihilistic_acquisition_barbaric: "Нигилистическое овладение"
+ ap_nihilistic_acquisition_barbaric_desc: "Понятие самоопределения не может быть нравственным абсолютом. Глобальные цели явно перевешивают индивидуальные проблемы."

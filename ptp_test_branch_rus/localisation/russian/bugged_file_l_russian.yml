@@ -1,0 +1,2346 @@
+﻿#l_braz_por:
+#l_english:
+#l_french:
+#l_german:
+#l_polish:
+l_russian:
+#l_simp_chinese:
+#l_spanish:
+
+# All localisation keys are listed by category in alphabetical order
+# Categories:
+# - Authorities
+# - Buildings
+# - Corporate Civics
+# - Decisions
+# - Edicts
+# - Empire Modifiers
+# - Events
+# - Faction Demands
+# - Gestalt Civics
+# - Gestalt Ethics
+# - Gestalt Jobs
+# - Governmental Civics
+# - Governments
+# - Misc Tooltips
+# - Planet Modifiers
+# - Policies
+# - Ruler Jobs
+# - Specialist Jobs
+# - Standard Ethics
+# - Technologies
+# - Worker Jobs
+
+##############################
+### Ascension Perks ##########
+##############################
+
+# Future Society
+ap_bugged_future_society:0 "Общество будущего"
+ap_bugged_future_society_desc:0 "Наше общество достигло непревзойденного уровня культурного развития."
+requires_technology_tech_galactic_administration:0 "$TRIGGER_FAIL$Rтребует £society£ §Y$tech_galactic_administration$§! технология."
+requires_ascension_perks_4:0 "$TRIGGER_FAIL$Rтребует, чтобы сначала были выбраны 4 другие бонусы за стремление!
+"
+
+##############################
+### Authorities ##############
+##############################
+
+# Corporation
+auth_corporate:0 "Корпорация"
+auth_corporate_desc:0 "Корпорации организованы как массовое коммерческое предприятие, которое полностью вытеснило роль государства."
+
+# Direct Democracy
+auth_bugged_direct_democratic:0 "Прямая демократия"
+auth_bugged_direct_democratic_desc:0 "Прямые демократические правительства выносят каждую предлагаемую политику и закон на голосование, в ходе которого каждый гражданин может высказать свое мнение."
+AUTHORITY_BUGGED_ELECTION_DIRECT_DEMOCRATIC:0 "Проводит выборы каждые §H10§! лет, чтобы выбрать нового правителя."
+
+# Dynastic Enterprise
+auth_bugged_corporate_imperial:0 "Династические компании"
+auth_bugged_corporate_imperial_desc:0 "Династические компании организованы как крупные коммерческие структуры, в которой лидерство передается по семейной линии."
+
+# Group Firm
+auth_bugged_corporate_democratic:0 "Групповая фирма"
+auth_bugged_corporate_democratic_desc:0 "Групповые фирмы организуются как массовое коммерческое предприятие, где должность руководителя отдается тому, кто сумеет заручиться наибольшей поддержкой работников."
+
+# Indirect Democracy
+auth_democratic:0 "Представительная демократия"
+auth_democratic_desc:0 "В представительной демократии  регулярно проводятся выборы, на которых все граждане могут проголосовать за того, кто должен представлять их интересы."
+
+
+##############################
+### Buildings ################
+##############################
+
+#Aegis Complex
+building_bugged_aegis_complex:0 "Комплекс Эгида"
+building_bugged_aegis_complex_desc:0 "Массивный военный комплекс, предназначенный для защиты как планеты, на которой он расположен, так и прибыли тех, кто его построил."
+
+# Altar of Battle
+building_bugged_war_temple_1:0 "Алтарь сражений"
+building_bugged_war_temple_1_desc:0 "Место, где набожные люди могут укреплять свою веру в спарринге с другими верующими, как с помощью клинка, так и с помощью слов."
+
+# Altar of Light
+building_bugged_light_temple_1:0 "Алтарь Света"
+building_bugged_light_temple_1_desc:0 "Святое место, наполненное светом до такой степени, что ни малейший намек на тень не может потревожить тех, кто медитирует внутри."
+
+# Architectural Hub
+building_bugged_architectural_hub:0 "Архитектурный центр"
+building_bugged_architectural_hub_desc:0 "Это большое сооружение является местом сбора лучших архитекторов и инженеров планеты."
+
+# Archive of Life
+building_bugged_life_monastery_two:0 "Архив жизни"
+building_bugged_life_monastery_two_desc:0 "Хранилище всех генетических кодов, найденных за всю нашу историю, как планетарную, так и межзвездную."
+
+# Galactic Stock Exchange
+building_galactic_stock_exchange_effect_desc:0 "Увеличивает базовое производство £trade_value£ §YТорговля§! создание рабочих мест путем §G2§!."
+
+# Gene Cloister
+building_bugged_life_monastery:0 "Ген Клуастер"
+building_bugged_life_monastery_desc:0 "Место, где верующие могут изучать учение о жизни и обсуждать ее достоинства."
+
+# Grand Astral Temple
+building_bugged_light_temple_3:0 "Великий Астральный Храм"
+building_bugged_light_temple_3_desc:0 "Благодаря новейшим массивам усиления веры, свет веры способен рассекать любые тени, даже тени сомнений в сознании верующего."
+
+# Grand Temple of the Blade
+building_bugged_war_temple_3:0 "Великий храм клинков"
+building_bugged_war_temple_3_desc:0 "Благодаря новым достижениям в технологии виртуальной реальности, все спарринги теперь можно проводить на значительно увеличенной скорости, что позволяет достичь невиданных ранее уровней развития веры."
+
+# Gravitic Abbey
+building_bugged_gravity_monastery:0 "Гравитационное аббатство"
+building_bugged_gravity_monastery_desc:0 "Место для всех тех, кто верит, чтобы собраться вместе и показать свою веру и способности."
+
+# Hawkish Holotemple
+building_bugged_war_temple_2:0 "Золотохранилище гениш"
+building_bugged_war_temple_2_desc:0 "Благодаря всем достижениям медицины, любые раны, полученные в боях, могут быть исцелены почти мгновенно, что позволяет чаще танцевать вальс богов."
+
+# Imperial Enforcement Outpost
+building_bugged_imperial_enforcement_outpost:0 "Имперский форпост"
+building_bugged_imperial_enforcement_outpost_desc:0 "Маяк стабильности, в котором работает множество офицеров, чья единственная задача - следить за соблюдением буквы закона планеты, на которой они находятся."
+
+# Mecha Monastery
+building_bugged_mecha_monastery:0 "Меха-монастырь"
+building_bugged_mecha_monastery_desc:0 "Место, где самые набожные верующие получают аугментации, позволяющие им стать ближе к божественному."
+
+# Mecha Repositorium
+building_bugged_mecha_monastery_two:0 "Меха-репозиторий"
+building_bugged_mecha_monastery_two_desc:0 "С изобретением все более божественных машин наши места поклонения становятся все более сложными, чтобы обеспечить более прямую связь со святой сталью и кодом."
+
+# Nature Reserve
+building_bugged_nature_reserve:0 "Природный заповедник"
+building_bugged_nature_reserve_desc:0 "Масштабный комплекс наших лучших биологов и экологов, работающих над созданием новых мест для нашего населения, чтобы оно могло наслаждаться красотой природы в полной безопасности, как для дикой природы, так и для себя."
+
+# Neo-Coliseum
+building_bugged_colliseum:0 "Нео-Колизей"
+building_bugged_colliseum_desc:0 "Массивный комплекс колизея, в котором порабощенные сражаются за свою свободу и для развлечения как местного населения, так и тех, кто приходит посмотреть на зрелище."
+
+# Offworld Engineering Corps
+building_bugged_war_engineers:0 "Внеземной инженерный корпус"
+building_bugged_war_engineers_desc:0 "Здание, построенное на планетах наших экономических союзников, чтобы помочь нам испытать наши военные технологии в условиях систем, отличных от нашей собственной."
+
+# Planetary Stock Exchange
+building_bugged_planetary_stock_exchange:0 "Планетарная фондовая биржа"
+building_bugged_planetary_stock_exchange_desc:0 "В этом огромном здании используются новейшие технологии передачи данных для организации торговли акциями, энергетическими кредитами и многими другими ценными ресурсами между людьми в любой точке планеты."
+building_bugged_planetary_stock_exchange_effect_desc:0 "Увеличивает базовое производство £trade_value£ §YТорговый ценности§! создание рабочих мест путем §G1§!."
+
+# Prismatic Holotemple
+building_bugged_light_temple_2:0 "Призматический голотемпль"
+building_bugged_light_temple_2_desc:0 "Достижения в области голографии позволили достичь более прямого понимания и комплиментарности света "я"."
+
+# Sanctorium of Reality's Tears
+building_bugged_gravity_monastery_two:0 "Санкторий слез реальности"
+building_bugged_gravity_monastery_two_desc:0 "Усовершенствованная технология производства материалов позволила нашим верующим заниматься своим ремеслом в месте, где риск для окружающих гораздо меньше."
+
+# Thermal Borehole
+building_bugged_thermal_borehole:0 "Тепловая скважина"
+building_bugged_thermal_borehole_desc:0 "Тепловая скважина проникает сквозь мантию планеты к ее ядру. Хотя это может быть богатым источником минералов и энергии, огромное количество выделяемого тепла может нанести значительный вред природной среде."
+
+
+##############################
+### Corporate Civics #########
+##############################
+
+# Aegis Corporation
+civic_bugged_aegis_corpo:0 "Корпорация Эгида"
+civic_bugged_aegis_corpo_desc:0 "В ранней истории этого вида осадные орудия были основным оружием, используемым против любых укрепленных объектов. Чтобы попытаться защититься от постоянно растущей мощи этих орудий, укрепления становились все более защищенными - архитектурный выбор, который эта корпорация планирует предложить все более широкой клиентской базе."
+civic_tooltip_bugged_aegis_corpo_effects:0 "Может построить £здание£ §YКомплекс Эгида§! здание филиала.\nНачинается с Технологии §YГлобальная оборонная сеть§!."
+
+# Agrarian Idyll Corp Swap
+civic_bugged_agrarian_idyll_corpo:0 "Аграрная идиллия"
+civic_bugged_agrarian_idyll_corpo_desc:0 "Простая и мирная жизнь часто может быть самой полезной. Ориентация этой корпорации на количество урожая, а не на качество, позволила ее гражданским лицам избежать суеты офисной политики, а также избежать крупномасштабной механизации сельского хозяйства."
+civic_tooltip_bugged_agrarian_idyll_corpo_effects:0 "§YЭнергическиеr§!, §YГорнодобывающие§! и §YСельскохозяйственные районы§! предоставляют дополнительное £housing£ §YЖилье§!\n§YГородские районы§! предоставляет меньше £housing£ §YЖилья§!\n£job_farmer£ §Y$job_farmer_plural$§! производить дополнительные £amenities£ §YБлаго§!\nНачните с доступа к §YСельскохозяйственные субсидии§! Торговая политика.\n£job_farmer£ §YФермеры§! предоставлять дополнительные £trade_value£ §YТорговая ценность§!""
+
+# Architecural Ambition
+civic_bugged_architectural_ambition:0 "Архитектурные амбиции"
+civic_bugged_architectural_ambition_desc:0 "Эта мегакорпорация начинала в промышленном секторе, а теперь использует полученные навыки для строительства заводов на галактической арене."
+civic_tooltip_bugged_architectural_ambition_effects:0 "Может построить £здание£ §YАрхитектурный центр§! здания филиалов на планетах с модернизированным §YСтоличным§! зданием.\nУвеличенный стоимость для §YТехнологии жилья§!.\n§YЭнергосети§! предоставляет дополнительный §YЭнергитический§! район.\n§YЗаводы по переработке минерального сырья§! предоставляет дополнительный §YГорнодобывающий§! район.\n§YПредприятия пищевой промышленности§! предоставляет дополнительный §YФермерские§! район."
+
+# Asset Appropriation
+civic_bugged_asset_appropriation:0 "Присвоение активов"
+civic_bugged_asset_appropriation_desc:0 "Это общество борется за то, чтобы обеспечить себя рабочей силой, независимо от того, откуда эта рабочая сила должна прийти."
+civic_tooltip_bugged_asset_appropriation_effects:0"Не может сформироваться (но может присоединиться) §YФедерации§! кроме §YВоенных альянсов§! или §YГегемонии§!\nИмеет  '§Y$casus_belli_cb_bugged_appropriation$§!' Казус белли против всех других империй\n$allow_raiding$\nСнижение §YМнение§! для большинства других империй"
+
+casus_belli_cb_bugged_appropriation:0 "Присвоение"
+casus_belli_cb_bugged_appropriation_desc:0 "Присвоение"
+war_goal_wg_bugged_appropriation:0 "Сбор активов"
+war_goal_wg_bugged_appropriation:0 "Ведется война за привлечение новых сотрудников для пополнения нашей рабочей силы."
+bombardment_bugged_appropriation:0 "Сбор активов"
+bombardment_bugged_appropriation_desc:0 "$bombardment_bugged_appropriation$ Бомбардировка нацелена на вражеские населенные пункты с помощью специализированных рейдовых кораблей, которые забирают население и перемещают их в наши миры.\n- §ELight§! повреждение §YАрмии§!\n- §ELight§! повреждение §YПланеты§!\n- Похитит §Yубьет§! Попы, когда это возможно, вместо того, чтобы убивать их\n- Похитит ли §RНЕ§! ли убьет последнее население"
+
+# Environmental Engineers
+civic_bugged_environmental_engineers_corpo:0 "Инженеры по охране окружающей среды"
+civic_bugged_environmental_engineers_corpo_desc:0 "Это общество всегда было озабочено проблемами окружающей среды, полагаясь на науку и технологии, чтобы либо смягчить последствия стихийных бедствий, либо склонить природу к своей воле."
+civic_tooltip_bugged_environmental_engineers_corpo_effects:0 "$civic_tooltip_bugged_environmental_engineers_effects"
+
+# Esper Agency
+civic_bugged_esper_agency_corpo:0 "Агентство Эспер"
+civic_bugged_esper_agency_corpo_desc:0 "Изначально эта корпорация возникла из желания жителей планеты выяснить истинную причину всех историй о магии в их классической литературе, которые, по мнению исследователей, могут быть связаны с врожденной силой разума."
+civic_tooltip_bugged_esper_agency_corpo_effects:0 "Позволяет открыть §YПсионическую теорию§! технологии без наличия признака псионик\nПозволяет принять специальный указ - §YПровозгласить бессмертного правителя§!, которая может сделать нынешнего правителя бессмертным"
+
+# Evangelism
+civic_bugged_evangelism_corpo:0 "Евангелизм"
+civic_bugged_evangelism_corpo_desc:0 "Население этой цивилизации искренне верят, что все разумные существа во Вселенной связаны между собой некими высшими силами. Теперь, когда они достигли межзвездного пространства, они хотят распространить эту веру по всей галактике."
+
+# Evolutionary Architects
+civic_bugged_evolutionary_architects_corpo:0 "Эволюционные архитекторы"
+civic_bugged_evolutionary_architects_corpo_desc:0 "Ученые этой цивилизации посвятили большую часть своих усилий пониманию происхождения жизни на своей планете."
+civic_tooltip_bugged_evolutionary_architects_corpo_effects:0 "$civic_tooltip_bugged_evolutionary_architects_effects$"
+
+# Globalism
+civic_bugged_globalism_corpo:0 "Глобализм"
+civic_bugged_globalism_corpo_desc:0 "Это общество тянется к космосу не только из простого увлечения или желания познать неизвестное, они рассматривают космические путешествия как первый шаг к заключению новых деловых сделок с клиентами, о которых они и не подозревали."
+civic_tooltip_bugged_globalism_corpo_effects:0 "$civic_tooltip_bugged_globalism_effects"
+
+# Graveyard Shift
+civic_bugged_graveyard_shift:0 "Кладбищенская смена"
+civic_bugged_graveyard_shift_desc:0 "Не использовать, возможно, будет удален"
+civic_tooltip_bugged_graveyard_shift_effects:0 "§RРазраб сказал, что не используйте его, вероятно, он все равно не работает в 3.3.§!"
+
+# Gravity Cult
+civic_bugged_gravity_cult_corpo:0 "Корпоративный культ гравитации"
+civic_bugged_gravity_cult_corpo_desc:0 "С момента своего появления представители этого вида были одержимы идеей о существовании некой мультиверсальной сущности, обитающей в местах большой концентрации масс. Теперь, когда они делают первые шаги в космос, этот вид стремится найти эту сущность, чего бы это ни стоило."
+civic_tooltip_bugged_gravity_cult_corpo_effects:0 "$civic_tooltip_bugged_gravity_cult_effects$"
+
+# Imperial Enforcement Services
+civic_bugged_imperial_enforcement_services_corpo:0 "Имперская служба исполнения наказаний"
+civic_bugged_imperial_enforcement_services_corpo_desc:0 "Эта мегакорпорация искренне придерживается фразы "Клиент всегда прав", продавая частные полицейские силы другим организациям для обеспечения соблюдения их законов, независимо от того, какими эти законы могут быть."
+civic_tooltip_bugged_imperial_enforcement_services_corpo_effects:0 "£pop£ §YАвторитаризм§!попы дают дополнительную £trade_value£ §YТорговая ценность§! от §YФилиалов§!\nМожет построить £building£ §YИмперский форпостs§! в филиалах"
+
+# Industrial Democracy
+civic_bugged_industrial_democracy_corpo:0 "Индустриальная демократия"
+civic_bugged_industrial_democracy_corpo_desc:0 "Тип рыночной экономики, при котором обычные работники имеют значительную долю контроля над тем, что делают компании, на которые они работают, при этом ответственность распределяется между всеми."
+
+# Industrial Mechanization
+civic_bugged_industrial_mechanization_corpo:0 "Механизация промышленности"
+civic_bugged_industrial_mechanization_corpo_desc:0 "Это общество одержимо роботами и их применением, используя их для удовлетворения своих постоянно растущих материальных потребностей."
+civic_tooltip_bugged_industrial_mechanization_corpo_effects:0 "$civic_tooltip_bugged_industrial_mechanization_effects$"
+
+# Innovative Economy
+civic_bugged_innovative_economy_corpo:0 "Инновационная экономика"
+civic_bugged_innovative_economy_corpo_desc:0 "Общество, которое следует экономической парадигме, в которой ключевым фактором являются непрерывные технологические инновации в ущерб более культурным занятиям."
+civic_tooltip_bugged_innovative_economy_corpo_effects:0 "$civic_tooltip_bugged_innovative_economy_effects$"
+
+# Interplanetary Mining Corporation
+civic_bugged_interplanetary_mining_corpo:0 "Межпланетная горнодобывающая корпорация"
+civic_bugged_interplanetary_mining_corpo_desc:0 "Общество, создавшее эту корпорацию, всегда было одержимо всевозможными породами и камнями, что привело к почти совершенным горным операциям и технологиям."
+civic_tooltip_bugged_interplanetary_mining_corpo_effects:0 "Начните с доступа к §YСубсидии на добычу полезных ископаемых§! Торговой политики.\n£job_miner£ §YШахтеры§! предоставлять дополнительные £trade_value£ §YТорговую ценность§!"
+
+# Interventionalist
+civic_bugged_interventionalist_corpo:0 "Интервенционалист"
+civic_bugged_interventionalist_corpo_desc:0 "Будучи по природе своей открытой, принимающей культуры, отличные от их собственной, эта цивилизация все же не стесняется использовать военную силу, когда это считается оправданным для поддержания баланса между державами."
+civic_tooltip_bugged_interventionalist_corpo_effects:0 "$civic_tooltip_bugged_interventionalist_effects"
+
+# Keepers of Harmony
+civic_bugged_keepers_of_harmony_corpo:0 "Хранители гармонии"
+civic_bugged_keepers_of_harmony_corpo_desc:0 "Население этого общества разработали духовную систему, основанную на жизни в гармонии с природой и своей биосферой, отказавшись от многих мирских удовольствий для достижения этой цели."
+civic_tooltip_bugged_keepers_of_harmony_corpo_effects:0 "$civic_tooltip_bugged_keepers_of_harmony_effects$"
+
+# Life Cult
+civic_bugged_life_cult_corpo:0 "Корпоративный культ жизни"
+civic_bugged_life_cult_corpo_desc:0 "Эти народы считают, что самое достойное вере - это сама жизнь. Для этого они делают все возможное, чтобы превратить жизнь в подобие божественного наслаждения, в которое они верят."
+civic_tooltip_bugged_life_cult_corpo_effects:0 "$civic_tooltip_bugged_life_cult_effects"
+
+# Luminosity Cult
+civic_bugged_luminosity_cult_corpo:0 "Корпоративный культ света"
+civic_bugged_luminosity_cult_corpo_desc:0 "Многие религии и системы верований придают определенное значение свету как источнику веры, это общество просто берет эту идею и расширяет ее до основного фокуса."
+civic_tooltip_bugged_luminosity_cult_corpo_effects:0 "$civic_tooltip_bugged_luminosity_cult_effects$"
+
+# Machine Cult
+civic_bugged_machine_cult_corpo:0 "Корпоративный культ машин"
+civic_bugged_machine_cult_corpo_desc:0 "Эти народы поклоняются машинам как богам, используя силу своей веры для питания роботов и других искусственных интеллектов."
+civic_tooltip_bugged_machine_cult_corpo_effects:0 "$civic_tooltip_bugged_machine_cult_effects$"
+
+# Militant Zealots
+civic_bugged_militant_zealots_corpo:0 "Воинствующие фанатики"
+civic_bugged_militant_zealots_corpo_desc:0 "Религиозные фундаменталисты, чьи армии поддерживают сильные традиции интенсивной физической и духовной подготовки, чтобы они всегда были готовы защитить свои религиозные убеждения от тех, кто может захотеть их осквернить."
+
+# Organ Harvesters
+civic_bugged_organs_corpo:0 "Сборщики органов"
+civic_bugged_organs_corpo_desc:0 "Эта корпорация восприняла принцип максимизации эффективности слишком буквально, продавая и используя каждый орган любого убитого ими живого существа, разумного или иного, по самой высокой цене."
+civic_tooltip_bugged_organs_corpo_effects:0 "£job_livestock£ §YLivestock§!  предоставлять дополнительные £trade_value£ §YТорговая ценность§!"
+
+# Peaceful Traders
+civic_bugged_peaceful_traders_corpo:0 "Мирные торговцы"
+civic_bugged_peaceful_traders_corpo_desc:0 "В этом обществе действует одно простое правило: мир - это хорошо для бизнеса. С этой целью значительная часть внешних и внутренних дел частично контролируется свободной коалицией независимых купцов и торговцев, которые работают вместе для достижения процветания."
+civic_tooltip_bugged_peaceful_traders_corpo_effects:0 "$civic_tooltip_bugged_peaceful_traders_effects$"
+
+# Private Militaries
+civic_bugged_private_militaries_corpo:0 "Частные вооруженные силы"
+civic_bugged_private_militaries_corpo_desc:0 "Во время войны это общество традиционно полагается на наемников и частные военные корпорации, которые поставляют для него вооруженные силы."
+civic_tooltip_bugged_private_militaries_corpo_effects:0 "£building£ §YТвердыни§! and £building£ §YКрепости§!предоставляют дополнительные £job_bugged_mercenary£ §YНаемник§! рабочие место\n"
+
+# Research Consultants
+civic_bugged_research_consultants:0 "Исследовательские консультанты"
+civic_bugged_research_consultants_desc:0 "Когда эта мегакорпорация только была основана, она добилась успеха, сдавая в аренду свои группы исследований и разработок другим корпорациям и правительствам - бизнес-модель, которая до сих пор остается прибыльной в качестве межзвездной империи."
+civic_tooltip_bugged_research_consultants_effects:0 "§YСоглашения об исследованиях§! не стоят§Yвлияние§! для поддержания соглашения\n£job_researcher£ §YУченые§! дополнительно производят £trade_value£ §YТорговую ценность§!"
+ 
+# Research Corporation
+civic_bugged_megacorp_researcher:0 "Исследовательская корпорация"
+civic_bugged_megacorp_researcher_desc:0 "Эта мегакорпорация действует по принципу сосредоточения почти исключительно на технологическом развитии. Ее корпоративные интересы в первую очередь включают множество зависимых и полузависимых технологических фирм."
+civic_tooltip_bugged_megacorp_researcher_effects:0 "£job_executive£ §Y$job_executive_plural$§! также производят £physics£ £society£ £engineering£ §YОчки исследования§!\n\nEach £job_executive£ §Y$job_executive$§! уменьшает $mod_planet_researchers_upkeep_mult$ на §G-5%§!\n "
+
+# Ruthless Industrialism
+civic_bugged_ruthless_industrialism_corpo:0 "Безжалостный индустриализм"
+civic_bugged_ruthless_industrialism_corpo_desc:0 "Это капиталистическое общество рассматривает все природные ресурсы как нечто, что необходимо эксплуатировать для получения денежной прибыли, независимо от того, какое влияние это может оказать на местную экологию."
+civic_tooltip_bugged_ruthless_industrialism_corpo_effects:0 "$civic_tooltip_bugged_ruthless_industrialism_effects$"
+
+# Slave Race
+civic_bugged_slave_race_corpo:0 "Рабская раса"
+civic_bugged_slave_race_corpo_desc:0 "Второй, физически грозный, вид составляет неотъемлемую часть рабочей силы этого общества. Представители доминирующих видов на планете считают этот вид меньшим, и их используют в качестве подопытных для многих генетических экспериментов."
+civic_tooltip_bugged_slave_race_corpo_effects:0 "$civic_tooltip_bugged_slave_race_effects$"
+
+# Slaving Despots
+civic_bugged_slaving_despots_corpo:0 "Деспоты-рабовладельцы"
+civic_bugged_slaving_despots_corpo_desc:0 "В экономике этого общества доминирует небольшое количество влиятельных людей, владеющих компаниями, которые специализируются на торговле рабами."
+civic_tooltip_bugged_slaving_despots_corpo_effects:0 "$civic_tooltip_bugged_slaving_despots_effects$"
+
+# Spirit of Freedom
+civic_bugged_spirit_of_freedom_corpo:0 "Дух свободы"
+civic_bugged_spirit_of_freedom_corpo_desc:0 "Это общество идеализировало свободу личности, считая превыше всего право индивида на преследование и реализацию собственных целей и амбиций."
+civic_tooltip_bugged_spirit_of_freedom_corpo_effects:0 "$civic_tooltip_beacon_of_liberty_effects$"
+
+# Spiritual Seekers
+civic_bugged_spiritual_seekers_corpo:0 "Духовные искатели"
+civic_bugged_spiritual_seekers_corpo_desc:0 "Население этого общества в первую очередь озабочены развитием своей способности достигать состояния истинного внутреннего покоя."
+civic_tooltip_bugged_spiritual_seekers_corpo_effects:0 "$civic_tooltip_bugged_spiritual_seekers_effects$"
+
+# Star Seekers
+civic_bugged_star_seekers_corpo:0 "Искатели звёзд"
+civic_bugged_star_seekers_corpo_desc:0 "Эта цивилизация отправилась в космос исключительно ради острых ощущений, связанных с разгадкой тайны, в отличие от амбиций более империалистических империй."
+civic_tooltip_bugged_star_seekers_corpo_effects:0 "$civic_tooltip_bugged_star_seekers_effects$"
+
+# Star Settlers
+civic_bugged_star_settlers_corpo:0 "Звездные поселенцы"
+civic_bugged_star_settlers_corpo_desc:0 "Эта цивилизация всегда отличалась сильным духом колонизма, стремясь исследовать и узнать все, что можно, о планете, на которой они жили. Теперь, когда они вышли на галактическую арену, это стремление сохраняется, поскольку они стремятся мирно колонизировать все, что только возможно."
+civic_tooltip_bugged_star_settlers_corpo_effects:0 "$civic_tooltip_bugged_star_settlers_effects$"
+
+# Universalism
+civic_bugged_universalism_corpo:0 "Универсализм"
+civic_bugged_universalism_corpo_desc:0 "Эта цивилизация была выведена в космос, чтобы способствовать миру и дружбе между всеми разумными существами в галактике."
+civic_tooltip_bugged_universalism_corpo_effects:0 "$civic_tooltip_bugged_universalism_effects$"
+
+# War Cult
+civic_bugged_war_cult_corpo:0 "Корпоративный культ войны"
+civic_bugged_war_cult_corpo_desc:0 "Это общество поклоняется битвы как  божеству, и в знак своей веры они довели свое военное искусство и боевые искусства почти до совершенства."
+civic_tooltip_bugged_war_cult_corpo_effects:0 "$civic_tooltip_bugged_war_cult_effects$"
+
+# War Engineers
+civic_bugged_war_engineers_corpo:0 "Военные инженеры"
+civic_bugged_war_engineers_corpo_desc:0 "Это общество имеет долгую историю сильно развитой военной промышленности, и в настоящее время известно, что оно создает лучшие орудия войны, хотя их стоимость высока."
+civic_tooltip_bugged_war_engineers_corpo_effects:0 "Увеличеный стоимость для §YКорабельные технологии§!."
+
+# Worker-Owned Corporation
+civic_bugged_worker_owned_corpo:0 "Корпорация, принадлежащая работникам"
+civic_bugged_worker_owned_corpo_desc:0 "Эта корпорация имеет богатую историю защиты благосостояния своих сотрудников, которым предоставляется дополнительный контроль над работой и установленными правилами."
+civic_tooltip_bugged_worker_owned_corpo_effects:0 "§YРайоны города§! предоставлять дополнительный £housing£ §YЖилье§!\n£job_executive£ §YРуководители§! предоставлять дополнительные £amenities£ §YУдобства§!\n§YСельские районы§! обеспечить дополнительную работу с §R+15%§! содержание\nНеобходимо использовать§YСоциальное обеспечение§! уровень жизни"
+
+
+##############################
+### Decisions ################
+##############################
+
+# Devour World
+decision_terravore_final:0 "§RПоглощения мира§!"
+decision_terravore_final_1.tooltip:0 "Принято решение §YРазрушить§! мир. Переселить каждого §YПопа§! в наш §BСтоличный мир§! и превратить мир в  §YРасколотый мир§! с 30 £minerals£ §YМинерал§! за ход."
+terravore_final.1:0 "§RПоглощения мира§!"
+
+# Environmental Restoration
+decision_bugged_environmental_restoration:0 "Восстановление окружающей среды"
+decision_bugged_environmental_restoration_effects:0 "Избавляет от следующих планетарных аномалий: §YНестабильная тектоника§!, §YСлабое магнитное поле§!, §YПриливная блокировка§!, §YОблученная планета§!, §YПоврежденная экология§!, §YРадиация пустоши§!, §YЗаброшенное терраформирование§!."
+decision_bugged_environmental_restoration_effects_short:0 "Избавляет от следующих планетарных аномалий: §YНестабильная тектоника§!, §YСлабое магнитное поле§!, §YПриливная блокировка§!, §YОблученная планета§!, §YПоврежденная экология§!, §YРадиация пустоши§!, §YЗаброшенное терраформирование§!."
+decision_bugged_environmental_restoration_desc:0 "Эта планета испорчена, и мы думаем, что можем это исправить."
+decision_bugged_environmental_restoration_tooltip:0 "Tэто решение устраняет неудачные экологические планетарные модификаторы, такие как:§YНестабильная тектоника§!, §YСлабое магнитное поле§!, §YПриливная блокировка§!, §YОблученная планета§!, §YПоврежденная экология§!, §YРадиация пустоши§!, §YЗаброшенное терраформирование§!."
+
+# Envoke the Worm
+decision_bugged_black_hole_creation:0 "Вызовите червя"
+decision_bugged_black_hole_creation_desc:0 "Огромное количество энергии направляется на эту звезду, изменяя эту систему к лучшему"
+decision_bugged_black_hole_creation1.tooltip:0 "Примите влияние  великого червя."
+
+# National Park
+decision_bugged_national_park:0 "Национальный парк"
+decision_bugged_national_park_tooltip:0 "Создает §YНациональный заповедник§!"
+
+# Nature Reserve
+decision_bugged_nature_reserve:0 "Природный заповедник"
+decision_bugged_nature_reserve_tooltip:0 "Создает §YПриродный заповедник§!"
+
+# Praise Star
+decision_bugged_praise_star:0 "Святая звезда"
+decision_bugged_praise_star_desc:0 "Провозгласите это место священным, освященным традициями нашей веры. Паломники будут приезжать издалека, чтобы радоваться его святому свету."
+decision_bugged_consecrated_stars_effects_custom:0 "Добавляет эту звезду к нашему канону Освященных святых звезда (до §Y5§!), увеличивая §YПривлекательность Спиритуалистической Этики §!, §YБлаго в масштабах империи§! и повышая £unity£ §YПоколение единства§!, увеличивая духовное значение звезды."
+
+decision_bugged_unpraise_star:0 "Бесславная звезда"
+decision_bugged_unpraise_star_desc:0 "Мы удаляем нашу декларацию о святости этой звезды"
+decision_consecrated_stars_effects_custom:0 "Добавляет эту звезду к нашему канону Освященных святых звезда (до §Y5§!), увеличивая §YПривлекательность Спиритуалистической Этики §!, §YБлаго в масштабах империи§! и повышая £unity£ §YПоколение единства§!, увеличивая духовное значение звезды."
+
+# Symbiotic Relations
+decision_bugged_symbiotic_relations:0 "Построить Центр симбиоза"
+decision_bugged_symbiotic_relations_desc:0 "Выделите большой участок земли для создания Центра симбиоза - здания, которое позволит дронам Улья более эффективно использовать ресурсы планеты."
+decision_symbiotic_relations_1.tooltip:0 "Добавляет на планету Центр симбиоза."
+decision_bugged_symbiotic_relations_1.tooltip:0 "Добавляет на планету Центр симбиоза."
+
+decision_bugged_symbiotic_relations_remove:0 "Удалить Центр Симбиоза"
+decision_bugged_symbiotic_relations_remove_desc:0 "Разрушить Центр Симбиоза, чтобы разрешить новое строительство на этой земле."
+decision_symbiotic_relations_2.tooltip:0  "Удаляет Центр Симбиоза с планеты."
+decision_bugged_symbiotic_relations_2.tooltip:0  "Удаляет Центр Симбиоза с планеты."
+
+bugged_file_symbiotic_relations:0 "Центр симбиоза"
+bugged_file_symbiotic_relations_desc:0 "Массивное здание, позволяющее дронам Улья более эффективно использовать ресурсы планеты."
+
+# Voice of the Planet
+decision_bugged_cure_the_planet:0 "Голос планеты"
+decision_bugged_cure_the_planet_effects:0 "Устраняет следующие планетарные аномалии: §YОпасные дикие животные§!, §YБлик§!, §YОпасная погода§!, §YДикие штормы§!."
+decision_bugged_cure_the_planet_effects_short:0 "Устраняет следующие планетарные аномалии: §YОпасные дикие животные§!, §YБлик§!, §YОпасная погода§!, §YДикие штормы§!."
+decision_bugged_cure_the_planet_desc:0 "Дух этой планеты страдает. Немного нежной любви и заботы, и она снова станет милой и гостеприимной."
+decision_bugged_cure_the_planet_tooltip:0 "Это решение устраняет неудачные экологические планетарные модификаторы, такие как: §YОпасные дикие животные§!, §YБлик§!, §YОпасная погода§!, §YДикие штормы§!, §YОблученная планета§!, §YПоврежденная экология§!, §YИзлучение пустоши§!."
+
+# Von Neumann Machines
+decision_lithoid_swarm_consume_world_machine:0 "§YМир шахт§!"
+decision_lithoid_swarm_consume_world_machine_desc:0 "Начать добычу полезных ископаемых."
+decision_lithoid_swarm_consume_world_effect_desc_machine:0 "Разминируйте этот мир, создав один или несколько блокираторов, которые уменьшат обитаемость и районы этого мира, но обеспечат сеть минералами, сплавами или создадут население."
+
+decision_stripmine_final:0 "§RЭксплуатационный мир§!"
+decision_stripmine_final_1.tooltip:0 "Принято решение §YРазрушить§! мир. Переселить каждого §YПопа§! в наш §BСтоличный мир§! и превратить мир в  §YРасколотый мир§! с 30 £minerals£ §YМинерал§! за ход."
+decision_stripmine_final_desc:0 ""
+
+MESSAGE_MACHINE_STRIPMINE_WORLD_TITLE:0 "Изрезанный мир"
+MESSAGE_BUGGED_MACHINE_TERRAVORE_CONSUME_WORLD_MINERALS_TEXT:0 "Добыча $PLANET|Y$ приносит полезные ископаемые для Сети."
+MESSAGE_BUGGED_MACHINE_TERRAVORE_CONSUME_WORLD_ALLOYS_TEXT:0 "Добыча $PLANET|Y$ дает сплавы для Сети."
+MESSAGE_BUGGED_MACHINE_TERRAVORE_CONSUME_WORLD_POP_TEXT:0 "Добыча $PLANET|Y$ дает тела для Сети."
+
+##############################
+### Edicts ###################
+##############################
+
+# Gestalt Focus Switch
+edict_bugged_focus_change:0 "Изменить фокус сознания"
+edict_bugged_focus_change_desc:0 "Переключитесь на другую этику фокусировки"
+bugged_change_focus.1.name:0 "Смещение фокуса"
+bugged_change_focus.1.desc:0 "В соответствии с постоянно меняющимися условиями во всей своей империи и галактике в целом, центральный интеллект решил, что для выживания и дальнейшего распространения необходимо сделать новый акцент."
+bugged_change_focus.1.no:0 "Неважно"
+bugged_change_focus.1.tooltip:0 "Не изменяется Этика фокусирования"
+# Logistics Switch
+bugged_change_focus.2.yes:0 "Переключение на логистику"
+bugged_change_focus.2.tooltip:0 ""
+bugged_change_focus.2.name:0 "Смещение фокуса: Логистика"
+bugged_change_focus.2.desc:0 "Центральный разум решил переключить свое внимание на вопросы материальной выгоды и безопасности внутренних линий снабжения."
+bugged_change_focus_2.yes.2:0 "Окей."
+bugged_change_focus_2.tooltip.2:0 "Обретите §YЛогстикой§! Сосредоточенная этика"
+# Encroachment Switch
+bugged_change_focus.3.yes:0 "Переключиться на фокус с интроекцией"
+bugged_change_focus.3.tooltip:0 ""
+bugged_change_focus.3.name:0 "Смещение фокуса: Посягательство"
+bugged_change_focus.3.desc:0 "Центральный разум решил переключить свое внимание на вопрос о способности проводить наступательные военные маневры."
+bugged_change_focus_3.yes.2:0 "Окей."
+bugged_change_focus_3.tooltip.2:0 "Обретите  §YПосягательство§! Сосредоточенная этика"
+# Convalescence Switch
+bugged_change_focus.4.yes:0 "Переключиться на фокус на Оздоровление"
+bugged_change_focus.4.tooltip:0 ""
+bugged_change_focus.4.name:0 "Смещение фокуса: Оздоровление"
+bugged_change_focus.4.desc:0 "Центральный разум решил переключить свое внимание на вопросы самообороны и внутренней физической стабильности."
+bugged_change_focus_4.yes.2:0 "Окей."
+bugged_change_focus_4.tooltip.2:0 "Обретите §YОздоровление§! Сосредоточенная этика"
+# Analysis Switch
+bugged_change_focus.5.yes:0 "Переключение на фокус анализа"
+bugged_change_focus.5.tooltip:0 ""
+bugged_change_focus.5.name:0 "Смещение фокуса: Анализ"
+bugged_change_focus.5.desc:0 "Центральный разум решил переключить свое внимание на вопросы, связанные с тем, чтобы не упустить ни одной частицы знаний, которые может содержать новый предмет или местоположение."
+bugged_change_focus_5.yes.2:0 "Окей"
+bugged_change_focus_5.tooltip.2:0 "Обретите §YАнализ§! Сосредоточенную этика"
+# Progression Switch
+bugged_change_focus.6.yes:0 "Переключитесь на фокус на прогрессию"
+bugged_change_focus.6.tooltip:0 ""
+bugged_change_focus.6.name:0 "Смещение фокуса: Прогрессия"
+bugged_change_focus.6.desc:0 "Центральный разум решил переключить свое внимание на вопросы расширения базы знаний коллективного интеллекта и использования этих знаний для дальнейшего расширения."
+bugged_change_focus_6.yes.2:0 "Окей."
+bugged_change_focus_6.tooltip.2:0 "Обретите §YПрогрессия§! Сосредоточенная этика"
+# Connection Switch
+bugged_change_focus.7.yes:0 "Переключение на фокус подключения"
+bugged_change_focus.7.tooltip:0 ""
+bugged_change_focus.7.name:0 "Смещение фокуса: Связь"
+bugged_change_focus.7.desc:0 "Центральный разум решил переключить свое внимание на вопросы упрощения доступа более автономных единиц к тайникам знаний друг друга и центрального разума."
+bugged_change_focus_7.yes.2:0 "Окей."
+bugged_change_focus_7.tooltip.2:0 "Обретите §YСвязь§! Сосредоточенная этика"
+
+# Immortal Ruler
+edict_bugged_immortal_ruler:0 "Провозгласить бессмертного правителя"
+edict_bugged_immortal_ruler_desc:0 "Благодаря сложному ритуалу, в котором участвовали все самые влиятельные люди нашей империи, мы даровали нашему вождю бессмертие."
+
+bugged_immortal_ruler.1.yes:0 "Замечательный!"
+bugged_immortal_ruler.1.tooltip:0 "Нашему правителю больше не грозит смерть от естественных причин."
+
+leader_trait_bugged_immortal:0 "Бессмертный"
+leader_trait_bugged_immortal_desc:0 "§LЭтот человек благословлен Богами на вечное правление.§!\n"
+
+edict_bugged_divine_crusade:0 "Божественный крестовый поход"
+
+##############################
+### Empire Modifiers #########
+##############################
+
+#######################
+## Leaders ############
+#######################
+mod_leader_admirals_upkeep_mult:0 "Содержание адмирала"
+mod_leader_generals_upkeep_mult:0 "Содержание генерала"
+mod_leader_scientists_upkeep_mult:0 "Содержание ученого"
+mod_leader_governors_cost_mult:0 "Стоимость губернатора"
+mod_leader_governors_upkeep_mult:0 "Содержание губернатора"
+
+#######################
+## Other ##############
+#######################
+mod_decisions_cost_mult:0 "Стоимость принятия решения"
+
+mod_station_researchers_upkeep_mult:0 "Содержание исследовательской станции"
+mod_diplomacy_influence_upkeep_mult:0 "Дипломатический £influence£ Содержание"
+mod_rivalries_influence_produces_mult:0 "Соперничество £influence£ производит"
+
+mod_operations_unity_produces_add:0 "£unity£ Единство от операций"
+
+bugged_militarist_governmental:0 "Военная честь"
+
+bugged_war_cult_lost:0 "Война(ы) проиграна(ы)"
+bugged_war_cult_won:0 "Война(ы) выиграна(ы)"
+
+##############################
+### Events ###################
+##############################
+
+#######################
+## Change Focus #######
+#######################
+
+# Main Menu
+bugged_change_focus.1.name:0 "Смещение фокуса"
+bugged_change_focus.1.desc:0 "В соответствии с постоянно меняющимися условиями во всей своей империи и галактике в целом, центральный интеллект решил, что для выживания и дальнейшего распространения необходимо сделать новый акцент."
+bugged_change_focus.1.no:0 "Неважно"
+bugged_change_focus.1.tooltip:0 "Не изменяется Этика фокусирования"
+
+# Logistics Switch
+bugged_change_focus.2.yes:0 "Переключение на логистику"
+bugged_change_focus.2.tooltip:0 ""
+bugged_change_focus.2.name:0 "Смещение фокуса: Логистика"
+bugged_change_focus.2.desc:0 "Центральный разум решил переключить свое внимание на вопросы материальной выгоды и безопасности внутренних линий снабжения."
+bugged_change_focus_2.yes.2:0 "Окей."
+bugged_change_focus_2.tooltip.2:0 "Получить §YЛогистика§! Этика сосредоточения"
+
+# Encroachment Switch
+bugged_change_focus.3.yes:0 "Переключиться на фокус с интроекцией"
+bugged_change_focus.3.tooltip:0 ""
+bugged_change_focus.3.name:0 "Смещение фокуса: Посягательство"
+bugged_change_focus.3.desc:0 "Центральный разум решил переключить свое внимание на вопрос о способности проводить наступательные военные маневры."
+bugged_change_focus_3.yes.2:0 "Окей."
+bugged_change_focus_3.tooltip.2:0 "Получить §YПосягательство§!Этика сосредоточения"
+
+# Convalescence Switch
+bugged_change_focus.4.yes:0 "Переключиться на очаг Оздоровления"
+bugged_change_focus.4.tooltip:0 ""
+bugged_change_focus.4.name:0 "Смещение фокуса: Оздоровление"
+bugged_change_focus.4.desc:0 "Центральный разум решил переключить свое внимание на вопросы самообороны и внутренней физической стабильности."
+bugged_change_focus_4.yes.2:0 "Окей."
+bugged_change_focus_4.tooltip.2:0 "Получить §YОздоровления§! Этика сосредоточения"
+
+# Analysis Switch
+bugged_change_focus.5.yes:0 "Переключение на фокус анализа"
+bugged_change_focus.5.tooltip:0 ""
+bugged_change_focus.5.name:0 "Смещение фокуса: Анализ"
+bugged_change_focus.5.desc:0 "Центральный разум решил переключить свое внимание на вопросы, связанные с тем, чтобы не упустить ни одной частицы знаний, которые может содержать новый предмет или местоположение."
+bugged_change_focus_5.yes.2:0 "Окей."
+bugged_change_focus_5.tooltip.2:0 "Получить §YАнализ§! Этика сосредоточения"
+
+# Progression Switch
+bugged_change_focus.6.yes:0 "Переключитесь на фокус на прогресс"
+bugged_change_focus.6.tooltip:0 ""
+bugged_change_focus.6.name:0 "Смещение фокуса: Прогресс"
+bugged_change_focus.6.desc:0 "Центральный разум решил переключить свое внимание на вопросы расширения базы знаний коллективного интеллекта и использования этих знаний для дальнейшего расширения."
+bugged_change_focus_6.yes.2:0 "Окей."
+bugged_change_focus_6.tooltip.2:0 "Получить §YПрогресс§! Этика сосредоточения"
+
+# Connection Switch
+bugged_change_focus.7.yes:0 "Переключение на фокус подключения"
+bugged_change_focus.7.tooltip:0 ""
+bugged_change_focus.7.name:0 "Смещение фокуса: Связь"
+bugged_change_focus.7.desc:0 "Центральный разум решил переключить свое внимание на вопросы упрощения доступа более автономных единиц к тайникам знаний друг друга и центрального разума."
+bugged_change_focus_7.yes.2:0 "Окей."
+bugged_change_focus_7.tooltip.2:0 "Получить §YСвязь§! Этика сосредоточения
+
+#######################
+## Factions ###########
+#######################
+
+# Bankers
+factions.1.desc.bankers:0 "Их члены лоббируют национальный фокус на финансовом росте и развитии свободного рынка.\n\n"
+factions.2000.desc.bankers:0 "В результате привлечения этой фракции в свое правительство, они стали более внешне §HКонкурентцую§!.\n\n"
+
+# Conservatives
+factions.1.desc.conservatives:0 "Их члены стремятся к более выгодному личному учету воспринимаемых заслуг и достижений каждого человека.\n\n"
+factions.2000.desc.conservatives:0 "В результате привлечения этой фракции в свое правительство, они стали более внешне §HЭлитарный§!.\n\n"
+
+# Environmentalists
+factions.1.desc.environmentalists:0 "Их члены много работают, лоббируя защиту окружающей среды.\n\n"
+factions.2000.desc.environmentalists:0 "В результате привлечения этой фракции в свое правительство, они стали более внешне §HЭкоцентрический§!.\n\n"
+
+# Labourites
+factions.1.desc.labourites:1 "Члены организации выступают за борьбу с элитизмом и равные социальные возможности для всех."
+factions.2000.desc.labourites:0 "В результате привлечения этой фракции в свое правительство, они внешне стали более §HПлюралистами§!\n\n"
+
+# Manufacturers
+factions.1.desc.manufacturers:0 "Их члены активно выступают за промышленное развитие империи.\n\n"
+factions.2000.desc.manufacturers:0 "В результате привлечения этой фракции в свое правительство, они внешне стали более §HАнтропоцентрический§!.\n\n"
+
+# Progressives
+factions.1.desc.progressive:0 "Их члены борются за свободу и справедливость для всех жителей нашей империи.\n\n"
+factions.2000.desc.progressive:0 " В результате привлечения этой фракции в свое правительство, они внешне стали более §HЛибертарианцами§!.\n\n"
+
+# Socialists
+factions.1.desc.socialists:0 "Их члены добиваются экономического равенства для всех жителей нашей империи.\n\n"
+factions.2000.desc.socialists:0 "В результате привлечения этой фракции в свое правительство, они внешне стали более §HКооперативными§!.\n\n"
+
+#######################
+## Interventionalist ##
+#######################
+
+#Cry For Help (Interventionalist Notification)
+bugged_interventionalist.2.name:0 "Нация под ударом!"
+bugged_interventionalist.2.desc:0 "Цивилизация §H[attacking_country.GetName]§! напал на §H[victim_country.GetName]§!! Это нападение на империю требует немедленного ответа со стороны [Root.GetRulerTitle].\n\nДолжен ли [Root.GetName] вмешаться в эту войну? Остальная часть Галактики внимательно наблюдает за происходящим."
+bugged_interventionalist.2.a:0 "Их борьба - это наша борьба. На войну!"
+bugged_interventionalist.2.b:0 "Эта война нас не касается."
+bugged_interventionalist.2.a.tooltip:0 "Мы присоединяемся к §Y[From.From.GetName]§! на стороне §Y[victim_country.GetName]§!"
+
+#Supported (Defender Notified)
+bugged_interventionalist.10.name:0 "[From.GetRulerTitle] Предлагает поддержку"
+bugged_interventionalist.10.desc:0 "Нападение на нашу страну со стороны §H[attacking_country.GetName]§! побудило [From.GetRulerTitle] принять оперативные меры! Флоты интервентов из §H[From.GetName]§! сейчас движутся, чтобы поддержать нас в этой войне."
+bugged_interventionalist.10.a:0 "Даа... Интервенционист прибыл!"
+bugged_interventionalist.10.a.tooltip:0 "Цивилизация §Y[From.GetName]§! присоединяется к §Y[From.From.From.GetName]§! на нашей стороне."
+
+#Supported (Attacker Notified)
+bugged_interventionalist.20.name:0 "[From.GetRulerTitle] Вмешивается!"
+bugged_interventionalist.20.desc:0 "Наша недавняя атака на §H[victim_country.GetName]§!,вызвало немедленную реакцию со стороны  [From.GetRulerTitle]! Сейчас существует состояние войны между нами и §H[From.GetName]§!."
+bugged_interventionalist.20.a:0 "Эта война их не касается!"
+bugged_interventionalist.20.a.tooltip:0 "Цивилизация §Y[From.GetName]§! присоединяется к §Y[From.From.From.GetName]§! на стороне наших врагов."
+
+#Not Supported (Defender Notification)
+bugged_interventionalist.30.name:0 "[From.GetRulerTitle] Объявляет о нейтралитете"
+bugged_interventionalist.30.desc:0 "Несмотря на трусливое нападение на нашу страну со стороны §H[attacking_country.GetName]§!, the [From.GetRulerTitle] решил не вмешиваться от нашего имени! Мы были оставлены на произвол судьбы, в то время как флоты Интервента наблюдали за конфликтом издалека."
+bugged_interventionalist.30.a:0 "Теперь мы действительно сами по себе."
+bugged_interventionalist.30.a.tooltip:0 "Цивилизация §Y[From.GetName]§! не присоединится к нашей стороне в §Y[From.From.From.GetName]§!."
+
+#######################
+## Observation ########
+#######################
+
+observation.0002.name:0 "[From.GetSpeciesAdj] Общественный сдвиг"
+observation.0002.start.desc:0 "Наши агенты, тайно действующие на орбите вокруг и на поверхности [From.Capital.GetName] добились успеха. Их усилия привели к изменению общественных ценностей в [From.GetName] в благоприятном для нас направлении."
+observation.0002.a:0 "Когда-нибудь они скажут нам спасибо."
+
+observation.0002.desc:0 "Цивилизация [From.GetSpeciesNamePlural] сменили свою этику на §YКонкуренция§!."
+observation.2002.desc:0 "Цивилизация [From.GetSpeciesNamePlural] сменили свою этику на §YЭлитизм§!."
+observation.3002.desc:0 "Цивилизация [From.GetSpeciesNamePlural] сменили свою этику на §YЛибертарианство§!."
+observation.4002.desc:0 "Цивилизация [From.GetSpeciesNamePlural] сменили свою этику на §YЭкоцентризм§!."
+observation.5002.desc:0 "Цивилизация [From.GetSpeciesNamePlural] сменили свою этику на §YАнтропоцентризм§!."
+observation.6002.desc:0 "Цивилизация [From.GetSpeciesNamePlural] сменили свою этику на §YКооперация§!."
+
+
+##############################
+### Faction Attraction #######
+##############################
+
+# Bankers (Competitive)
+POP_ATTRACTION_BUGGED_COMPETITIVE_POS:0 "§G+ £empire£ Империя имеет конкурентную этику управления§!"
+POP_ATTRACTION_CIVIC_COMPETITIVE_POS:0 "§G+ £empire£ Империя имеет Гражданский дух свободы§!"
+POP_ATTRACTION_RULER_TRAIT_INVESTOR_POS:0 "§G+ £empire£ Правитель империи обладает чертой инвестора§!"
+POP_ATTRACTION_THRIFTY_POS:0 "§G+ £pop£ Экономные население в Империи§!"
+POP_ATTRACTION_WASTEFUL_POS:0 "§G+ £pop£ Расточительная население в империи§!"
+POP_ATTRACTION_SOLITARY_POS:0 "§G+ £pop£ Одиночки население в империи§!"
+POP_ATTRACTION_CONSERVATIONIST_NEG:0 "§R- £pop£ Природоохранная деятельность в империи§!"
+POP_ATTRACTION_FREE_MARKET_POS:0 "§G+ £empire£ Империя проводит политику свободного рынка"
+
+# Conservatives (Elitist)
+POP_ATTRACTION_BUGGED_ELITIST_POS:0 "§G+ £empire£ Империя имеет элитарную этику управления§!"
+POP_ATTRACTION_CIVIC_ELITIST_POS:0 "§G+ £empire£ Империя имеет Неизменную Гражданскую Наследственность§!"
+POP_ATTRACTION_LIMITED_CITIZEN_POS:0 ""
+POP_ATTRACTION_ENHANCED_LEADERS_POS:0 "§G+ £empire£ Империя проводит политику усиления лидеров§!"
+POP_ATTRACTION_OLIGARCH_GOV_POS:0 "§G+ £empire£ Империя обладает олигархической властью§!"
+POP_ATTRACTION_TALENTED_POS:0 "§G+ £pop£ Талантливое население империи§!"
+POP_ATTRACTION_CONFORMIST_POS:0 "§G+ £pop£ Конформистское население в империи§!"
+POP_ATTRACTION_DEVIANTS_NEG:0 "§R- £pop£ Девиантное население в империи§!"
+POP_ATTRACTION_QUICK_LEARN_NEG:0 "§R- £pop£ Быстро обучающиеся население в империи§!"
+POP_ATTRACTION_SLOW_LEARN_NEG:0 "§R- £pop£ Медленно обучающиеся население в империи§!"
+
+# Environmentalists (Ecocentric)
+POP_ATTRACTION_BUGGED_ECOCENTRIC_POS:0 "§G+ £empire£ Империя имеет экоцентрическую этику управления§!"
+POP_ATTRACTION_RULER_TRAIT_WORLD_SHAPER_POS:0 "§G+ £empire£ Правительство империи имеет черту Формирователь миров§!".
+POP_ATTRACTION_CIVIC_ECOCENTRIC_POS:0 "§G+ £empire£ Империя имеет Гражданскую черту эколога§!".
+POP_ATTRACTION_TRADITION_POS:0 "§G+ £empire£ Империя начала Древо Традиции Гармонии§!".
+POP_ATTRACTION_AGRARIAN_POS:0 "§G+ £pop£ Аграрный население в Империи§!".
+POP_ATTRACTION_CONSERVATIONIST_POS:0 "§G+ £pop£ консервативное население  в Империи§!"
+POP_ATTRACTION_ADAPTIVE_POS:0 "§G+ £pop£ Адаптивные население в Империи§!"
+POP_ATTRACTION_WASTEFUL_NEG:0 "§R- £pop£ Расточительные население в империи§!"
+POP_ATTRACTION_INDUSTRIOUS_NEG:0 "§R- £pop£ Индустриальное население в империи§!"
+# Labourites (Pluralist)
+POP_ATTRACTION_BUGGED_PLURALIST_POS:0 "§G+ £empire£ Империя имеет плюралистическую этику управления§!"
+POP_ATTRACTION_CIVIC_PLURALIST_POS:0 "§G+ £empire£ Империя имеет Гражданскую Промышленную Демократию§!".
+POP_ATTRACTION_SLOW_LEARN_POS:0 "§G+ £pop£ Медленно обучающееся население в Империи§!"
+POP_ATTRACTION_QUICK_LEARN_POS:0 "§G+ £pop£ Быстро изучающее население в Империи§!"
+POP_ATTRACTION_TALENTED_NEG:0 "§R- £pop£ Талантливое население в Империи§!".
+# Manufacturers (Anthropocentric)
+POP_ATTRACTION_BUGGED_ANTHROPOCENTRIC_POS:0 "§G+ £empire£ Империя имеет антропоцентрическую этику управления§!"
+POP_ATTRACTION_RULER_TRAIT_INDUSTRIALIST_POS:0 "§G+ £empire£ Правительство империи имеет черту промышленника§!".
+POP_ATTRACTION_CIVIC_ANTHROPOCENTRIC_POS:0 "§G+ £empire£ Империя имеет Гражданскую Черту Промышленной Механизации§!".
+POP_ATTRACTION_INDUSTRIOUS_POS:0 "§G+ £pop£ Промышленное население в Empire§!".
+POP_ATTRACTION_ENGINEERS_POS:0 "§G+ £pop£ Естественный инженер попадает в империю§!"
+POP_ATTRACTION_AGRARIAN_NEG:0 "§R- £pop£ Аграрные попы в империи§!"
+# Socialists (Cooperative)
+POP_ATTRACTION_BUGGED_COOPERATIVE_POS:0 "§G+ £empire£ Империя имеет этику кооперативного управления§!"
+POP_ATTRACTION_CIVIC_COOPERATIVE_POS:0 "§G+ £empire£ Империя имеет Гражданскую Промышленную Демократию§!".
+POP_ATTRACTION_RULER_TRAIT_FERTILITY_POS:0 "§G+ £empire£ Правитель империи имеет черту проповедника плодородия§!".
+POP_ATTRACTION_SOCIOLOGIST_POS:0 "§G+ £pop£ Естественное социологическое население в империи§!".
+POP_ATTRACTION_COMMUNAL_POS:0 "§G+ £pop£ Коммунальное население в Империи§!"
+POP_ATTRACTION_WASTEFUL_NEG:0 "§R- £pop£ Расточительное население в Империи§!".
+
+##############################
+### Faction Demands ##########
+##############################
+
+# Bankers (Competitive)
+TRADE_LEAGUE:0 "Политика торговой лиги"
+TRADE_LEAGUE_DESC:0 "Установка  §YТорговая лига§! торговой политики порадует [Root.GetName]."
+
+MERCANTILE_DIPLO_STANCE:0 "Меркантильный фокус"
+MERCANTILE_DIPLO_STANCE_DESC:0 "Активный §YМеркантильный§! дипломатическая позиция понравится [Root.GetName]."
+
+TRADE_FEDERATION_DEMAND:0 "Торговая федерация"
+TRADE_FEDERATION_DEMAND_DESC:0 "Находясь в §YТорговая федерация§! порадует [Root.GetName]."
+
+CONSUMER_MARKETS:0 "Преимущества для потребителей"
+CONSUMER_MARKETS_DESC:0 "Установка §YПреимущества для потребителей§! торговая политика порадует [Root.GetName]."
+
+PROGRESSIVE_NO_WELFARE:0 "Нет социального равенства"
+NO_PROGRESSIVE_NO_WELFARE:0 "Нет социального равенства"
+PROGRESSIVE_NO_WELFARE_DESC:0 "Установка §YСоциальное равенство§!, §YСоциальное обеспечение§! и §Yутопический§! уровень жизни не устраивает [Root.GetName]."
+
+NO_ALLOWED_LOBBY:0 "Корпоративное лоббирование"
+ALLOWED_LOBBY_DESC:0 "Активный §YMerchant Guilds§! civic will please the [Root.GetName]."
+
+FREE_MARKET_ECONOMY:0 "Свободная торговля"
+NO_FREE_MARKET_ECONOMY:0 "Нет свободной торговли"
+FREE_MARKET_ECONOMY_DESC:0 "Активный §YСвободный рынок§! экономическая позиция порадует [Root.GetName]."
+
+NO_PLANNED_ECONOMY:0 "No Planned Economy"
+PLANNED_ECONOMY:0 "Planned Economy"
+NO_PLANNED_ECONOMY_DESC:0 "Активный §YPlanned Economy§! economic stance displeases the [Root.GetName]."
+
+COMMERCIAL_PACTS:0 "Торговля без границ"
+NO_COMMERCIAL_PACTS:0 "Торговля без границ"
+COMMERCIAL_PACTS_DESC:0 "Подписание коммерческих договоров как минимум с §Y2§! другими империи будут радовать [Root.GetName]."
+
+# Conservatives (Elitist)
+FEW_RULERS:0 "Олигархическое правительство"
+NO_FEW_RULERS:0 "Олигархическое правительство"
+FEW_RULERS_DESC:0 "Имея §YОлигархический§! правительственная власть будет радовать [Root.GetName]."
+
+TOTALITARIAN_STRATIFICATION:0 "Стратификация экономика"
+TOTALITARIAN_STRATIFICATION_DESC:1 "Обеспечение экономического расслоения общества - будь то через §YДостойный§!, §YСтратифицированная экономика§! и §YАкадемическая привилегия§! жизненные стандарты - будут радовать [Root.GetName]."
+
+TOTALITARIAN_ARISTOCRACY:0 "Знатные правители"
+TOTALITARIAN_NO_ARISTOCRACY:0 "Знатные правители"
+TOTALITARIAN_ARISTOCRACY_DESC:0 "Активный §YАристократическая элита§! гражданский будет радовать [Root.GetName]."
+
+# Environmentalists (Ecocentric)
+SELECTIVE_BOMBARDMENT:0 "Политика избирательного бомбометания"
+SELECTIVE_BOMBARDMENT_DESC:0 "Установка §YВыборочная бомбардировка§! политика понравится[Root.GetName]."
+
+RECYCLING_CAMPAIGN:0 "Субсидии на переработку отходов"
+NO_RECYCLING_CAMPAIGN:0 "Отсутствие субсидий на переработку отходов"
+RECYCLING_CAMPAIGN_DESC:0 "Вызов §YКампания по переработке отходов§! указ понравится [Root.GetName]."
+
+DEVELOPED_ENVIRONMENTALISM:0 "Развитая экология"
+NO_DEVELOPED_ENVIRONMENTALISM:0 "Развивать экологичность"
+DEVELOPED_ENVIRONMENTALISM_DESC:0 "Активный §YИнженеры по охране окружающей среды§!, §YХранители гармонии§!, и §YПриродное наследие§! гражданское правительство будет радоваться[Root.GetName]."
+
+PROTECTED_NATURE:0 "Охраняемая природа"
+NO_PROTECTED_NATURE:0 "Охранять природу"
+PROTECTED_NATURE_DESC:0 "Владение миром с §YБольшой§! модификатор будет угождать [Root.GetName]."
+
+PROTECTED_WILDLIFE:0 "Охраняемая дикая природа"
+NO_PROTECTED_WILDLIFE:0 "Защита местной дикой природы"
+PROTECTED_WILDLIFE_DESC:0 "Владение миром с §YОпасные дикие животные§! модификатор будет угождать [Root.GetName]."
+
+PROTECTED_BEAUTY:0 "Природная красота под защитой"
+NO_PROTECTED_BEAUTY:0 "Защитить природную красоту"
+PROTECTED_BEAUTY_DESC:0 "Владея миром с §YПриродная красота§! модификатор будет угождать [Root.GetName]."
+
+UNIQUE_LIFERORMS:0 "Уникальные формы жизни под защитой"
+NO_UNIQUE_LIFERORMS:0 "Защита уникальных форм жизни"
+UNIQUE_LIFERORMS_DESC:0 "Владение миром с §YТитаническая жизнь§! модификатор будет угождать [Root.GetName]."
+
+ECO_ASCENSION_2:0 "Создатели Гайи"
+ECO_NO_ASCENSION_2:0 "Создатели Гайи"
+ECO_ASCENSION_2_DESC:0 "Принятие §YФормирователь мира§! перк вознесения порадует [Root.GetName]."
+
+# Imperialist (Militarist)
+MARTIAL_BROTHERHOOD:0 "Воинское братство"
+MARTIAL_BROTHERHOOD_DESC:0 "Активный §YВоинское братство§! гражданское правительство угождает [Root.GetName]."
+
+LIBERATION_PHILOSOPHY:0 "Освободители Галактики"
+LIBERATION_NO_PHILOSOPHY:0 "Освободители Галактики"
+LIBERATION_PHILOSOPHY_DESC:0 "Активный §YОсвободительные войны§! военная философия радует [Root.GetName]."
+
+IMPERIALIST_DEFENSIVE_PACTS:0 "Оборонительный союз"
+NO_IMPERIALIST_DEFENSIVE_PACTS:0 "Оборонительный союз"
+IMPERIALIST_DEFENSIVE_PACTS_DESC:0 "Подписание оборонительных договоров как минимум с §Y2§! другие империи будут радовать [Root.GetName]."
+
+# Labourites (Pluralist)
+PROGRESSIVE_NO_SLAVERY:0 "Нет рабству"
+PROGRESSIVE_SLAVERY:0 "Рабство разрешено"
+PROGRESSIVE_NO_SLAVERY_DESC:0 "Разрешение §YРабство§! недоволен [Root.GetName]."
+
+SHARED_BURDEN:0 "Общее бремя"
+SHARED_BURDEN_DESC:0 "Действителен §YОбщее бремя§! гражданское довольствие [Root.GetName]."
+
+MERITOCRATIC_ELITE:0 "Развитый плюрализм"
+NO_MERITOCRATIC_ELITE:0 "Отсутствие развитого плюрализма"
+MERITOCRATIC_ELITE_DESC:0 "Активный §YИндустриальная демократия§! и §YВосходящая меритократия§! гражданское правительство будет радовать [Root.GetName]."
+
+DIRECT_DEMOCRACY:0 "Прямая демократия"
+NO_DIRECT_DEMOCRACY:0 "Установить прямую демократию"
+DIRECT_DEMOCRACY_DESC:0 "Имея §YПрямую демократию§! правительственная власть будет радовать [Root.GetName]."
+
+LABOURITE_NO_OLIGARCHY:0 "Никакого элитизма"
+LABOURITE_OLIGARCHY:0 "Антиэлитарный"
+LABOURITE_NO_OLIGARCHY_DESC:0 "Не имея §YОлигархический§! и §YИмпериал§! правительственная власть будет радовать [Root.GetName]."
+
+# Manufacturers (Anthropocentric)
+ECO_ASCENSION_1:0 "Мастерство природы"
+ECO_NO_ASCENSION_1:0 "Мастерство природы"
+ECO_ASCENSION_1_DESC:0 "Принятие перка вознесения §Мастерство природы§! понравится [Root.GetName]".
+
+ANTHROPOCENTRIC_INFRASTRUCTURE:0 "Промышленный капитал"
+NO_ANTHROPOCENTRIC_INFRASTRUCTURE:0 "Промышленный капитал"
+ANTHROPOCENTRIC_INFRASTRUCTURE_DESC:0 "Строительство зданий §Министерство производства§! и §Системный капитальный комплекс§! на любой планете доставит довольствие [Root.GetName]".
+
+MINERALS_ACCUMULATION_1:0 "Богатый минералами"
+NO_MINERALS_ACCUMULATION_1:0 "Накапливать минералы"
+MINERALS_ACCUMULATION_1_DESC:0 "Постоянное хранение по крайней мере £минералов §Y10000§! доставит довольствие [Root.GetName]".
+
+OWN_RICH_WORLD:0 "Богатый минералами мир"
+NO_OWN_RICH_WORLD:0 "Богатый минералами мир"
+OWN_RICH_WORLD_DESC:0 "Владение §YБогатый минералами§! миром порадует [Root.GetName]".
+
+OWN_ANCIENT_TECH:0 "Древний технический мир"
+NO_OWN_ANCIENT_TECH:0 "Древний технологический мир"
+OWN_ANCIENT_TECH_DESC:0 "Владение миром с любой древней промышленной технологией понравится [Root.GetName]".
+
+INDUSTRY_ASCENSION_1:0 "Галактическая инженерия"
+NO_INDUSTRY_ASCENSION_1:0 "Галактическая инженерия"
+INDUSTRY_ASCENSION_1_DESC:0 "Принятие перка вознесения §Галактические чудеса§! порадует [Root.GetName]".
+
+INDUSTRY_ASCENSION_2:0 "Славная галактическая инженерия".
+NO_INDUSTRY_ASCENSION_2:0 "Славная галактическая инженерия"
+INDUSTRY_ASCENSION_2_DESC:0 "Принятие перка вознесения " §YМастера Строители§!" порадует [Root.GetName]".
+
+# Progressives (Libertarian)
+NO_FEDERAL_STATE:0 "Федерализованное государство"
+FEDERAL_STATE_DESC:0 "Активный §YФедерализованное государство§! форма  бюрократического управление  понравится [Root.GetName]".
+
+PROGRESSIVE_FREE_MEDIA:0 "Свобода слова"
+NO_PROGRESSIVE_FREE_MEDIA:0 "Свобода слова"
+PROGRESSIVE_FREE_MEDIA_DESC:0 "Активный §YСвобода слова§! политика понравится [Root.GetName]".
+
+NO_PROGRESSIVE_STATE_MEDIA:0 "Никакой свободы слова"
+PROGRESSIVE_STATE_MEDIA:0 "Нет свободы слова"
+NO_PROGRESSIVE_STATE_MEDIA_DESC:0 "Активный §YСвобода слова§! политика не устраивает [Root.GetName]".
+
+# Prosperity (Pacifist)
+PEACEFUL_ECONOMY:0 "Гражданская экономика"
+PEACEFUL_ECONOMY_DESC:0 "Установка политики §YПроизводственный фокус§! на §YГражданский§! понравится [Root.GetName]".
+
+# Socialists (Cooperative)
+REGULATED_TRADE:0 "Регулируемая торговля"
+REGULATED_TRADE_DESC:0 "Активный §YРост и строительство§! торговая политика порадует [Root.GetName]."
+
+SOCIAL_WELFARE:0 "Социальное обеспечение"
+NO_SOCIAL_WELFARE:0 "Социальное обеспечение"
+SOCIAL_WELFARE_DESC:0 "Установка §YСоциальное равенство§!, §YСоциальное обеспечение§! и §YУтопическое изобилие§! уровень жизни порадует [Root.GetName]."
+
+SOCIAL_SECURITY:0 "Социальное неравенство"
+NO_SOCIAL_SECURITY:0 "Социальное неравенство"
+SOCIAL_SECURITY_DESC:0 "Активный §YДостойный§!, §YСтратифицированный§! и §YАкадемическая привилегия§! уровень жизни не устраивает [Root.GetName]."
+
+HEALTHCARE_CAMPAIGN:0 "Питательное изобилие"
+NO_HEALTHCARE_CAMPAIGN:0 "Питательное изобилие"
+HEALTHCARE_CAMPAIGN_DESC:0 "Применяя §YПитательное изобилие§! указ радует [Root.GetName]."
+
+EDUCATION_CAMPAIGN:0 "Кампания за образование"
+NO_EDUCATION_CAMPAIGN:0 "Нет образовательной кампании"
+EDUCATION_CAMPAIGN_DESC:0 "Вызывая §YОбразовательная кампания§! радует [Root.GetName]".
+
+LABOUR_POWER:0 "Развитый социализм"
+NO_LABOUR_POWER:0 "Развитой социализм"
+LABOUR_POWER_DESC:0 "Активный §Социалистические идеалы§! гражданский моделью радует [Root.GetName]".
+
+NO_FREE_MARKET:0 "Нет свободного рынка"
+FREE_MARKET:0 "Нет свободного рынка"
+NO_FREE_MARKET_DESC:0 "Активный §Yсвободного рынка§! экономический подход не устраивает [Root.GetName]".
+
+PLANNED_ECONOMY:0 "Плановая экономика"
+NO_PLANNED_ECONOMY:0 "Нет планируемой экономики"
+PLANNED_ECONOMY_DESC:0 "Активный §YПлановый§! экономический курс понравится [Root.GetName]".
+
+# Technologists (Materialist)
+ACADEMIC_PRIVILEGES:0 "Академические привилегии"
+ACADEMIC_PRIVILEGES_DESC:0 "Установление уровня жизни§YАкадемические привилегии§! понравится [Root.GetName]".
+
+GENETIC_SUPERIORITY:0 "Генетическое превосходство"
+NO_GENETIC_SUPERIORITY:0 "Генетическая неполноценность"
+GENETIC_SUPERIORITY_DESC:0 "Принятие перка вознесения "§YЭволюционая инженерии§!" понравится [Root.GetName]".
+
+# Totalitarians (Authoritarian)
+TOTALITARIAN_PERSONALITY_CULT:0 "Культ личности"
+TOTALITARIAN_NO_PERSONALITY_CULT:0 "Культ личности"
+TOTALITARIAN_PERSONALITY_CULT_DESC:0 "Активный §YИмперский культ§!, §YМудрый король§!, или §YВоенный лорд§! гражданский культ понравится [Root.GetName]".
+
+TOTALITARIAN_CASTE:0 "Кастовая система"
+TOTALITARIAN_NO_CASTE:0 "Кастовая система"
+TOTALITARIAN_CASTE_DESC:0 "Активный §YКастовая система§! гражданский понравится [Root.GetName]".
+
+TOTALITARIAN_SLAVERY:0 "Общество рабов"
+TOTALITARIAN_NO_SLAVERY:0 "Общество рабовладельцев"
+TOTALITARIAN_SLAVERY_DESC:0 "Активный §Гильдия рабовладельцев§! или §Деспоты поработители§! гражданской модели понравится [Root.GetName]".
+
+TOTALITARIAN_POLICE_CONTROL:0 "Тоталитарный порядок"
+TOTALITARIAN_NO_POLICE_CONTROL:0 "Тоталитарный порядок"
+TOTALITARIAN_POLICE_CONTROL_DESC:0 "Активный §YКибер-диктатура§!, §YВозвышенное государство§!, или §YПолицейское государство§! гражданской модели понравится [Root.GetName]".
+
+NO_FREE_MEDIA:0 "Нет свободных СМИ"
+NO_FREE_MEDIA:0 "Нет свободных СМИ"
+NO_FREE_MEDIA_DESC:0 "Активный §YСвободные СМИ§! политика не устраивает [Root.GetName]".
+
+CENTRALIZED_STATE:0 "Централизованное государство"
+NO_CENTRALIZED_STATE:0 "Централизованное государство"
+CENTRALIZED_STATE_DESC:0 "Активный §YЦентрализованный§! устройства государственой политики позиционирования понравится [Root.GetName]".
+
+# Traditionalists (Spiritualist)
+TRADITIONALIST_ADVANCED_PURSUIT_EVOLUTION:0 "В погоне за жизнью"
+TRADITIONALIST_NO_ADVANCED_PURSUIT_EVOLUTION:0 "Стремление к жизни"
+TRADITIONALIST_ADVANCED_PURSUIT_EVOLUTION_DESC:0 "Приняв §YРазум привыше материей§! или §YЭволюция инженерии§! перк вознесения понравится [Root.GetName]".
+
+TRADITIONALIST_ADVANCED_PURSUIT_MACHINE:0 "Продвинутое будущее"
+TRADITIONALIST_ADVANCED_PURSUIT_MACHINE_DESC:0 "Принятие §YРазум привыше материей§! или §YПлоть слаба§! перк вознесения порадует [Root.GetName]".
+TRADITIONALIST_NO_ADVANCED_PURSUIT_MACHINE:0 "$TRADITIONALIST_ADVANCED_PURSUIT$"
+
+# Xenoist (Xenophile)
+XENOIST_UNIVERSALISM:0 "Галактический универсализм"
+XENOIST_NO_UNIVERSALISM:0 "Галактический универсализм"
+XENOIST_UNIVERSALISM_DESC:0 "Размещение по крайней мере §Y10§! уникальных видов в пределах нашей империи доставит большое удовольствие [Root.GetName]."
+
+
+##############################
+### Factions #################
+##############################
+
+# Bankers (Competitive)
+pft_bankers:0 "Банкиры"
+pft_bankers_desc:0 "Банкирские фракции желают, чтобы интересы частных предпринимателей и корпораций воспринимались более серьезно, чем интересы правительства или общества.\n\n§LКонкурентная этика§!"
+
+# Conservatives (Elitist)
+pft_conservatives:0 "Консерваторы"
+pft_conservatives_desc:0 "Консервативные фракции желают, чтобы старые порядки сохранялись как можно дольше, а власть оставалась в руках тех, кто может претендовать на исторические прецеденты обладания этой властью.\n\n§LЭлитарная этика§!"
+
+# Environmentalists (Ecocentric)
+pft_environmentalists:0 "Экологи"
+pft_environmentalists_desc:0 "Фракции защитников окружающей среды стремятся сохранить мир природы всеми возможными способами, избегая любых технологий, которые могут нанести чрезмерный вред окружающей среде, если существует какая-либо альтернатива.\n\n§LЭкоцентрический этика§!"
+
+# Labourites (Pluralist)
+pft_labourites:0 "Лейбористы"
+pft_labourites_desc:0 "Лейбористские фракции стремятся к тому, чтобы каждый член общества мог прокладывать себе путь вверх по социальной лестнице, основываясь на собственных способностях, а не на семейных связях или древнем указе.\n\n§LПлюралистическая этика§!"
+
+# Manufacturers (Anthropocentric)
+pft_manufacturers:0 "Промышленики"
+pft_manufacturers_desc:0 "Фракции промышлеников желают, чтобы при создании товаров для развития общества не жалели средств, невзирая на любой экологический вред, который может быть нанесен при этом.\n\n§LАнтропоцентрический этика§!"
+
+# Socialists (Cooperative)
+pft_socialists:0 "Социалисты"
+pft_socialists_desc:0 "Социалистические фракции желают, чтобы средства производства, хотя бы частично, принадлежали тем, кто трудится, производя все, что требуется для повседневной работы империи.\n\n§LКооперативная этика§!"
+
+##############################
+### Gestalt Civics ###########
+##############################
+
+# Aggressive Proliferation
+civic_bugged_hive_aggressive_proliferation:0 "Агрессивное размножение"
+civic_bugged_hive_aggressive_proliferation_desc:0 "Этот улей узнал, что других можно привлечь к себе, насильно интегрировав их нервную ткань в собственную."
+civic_tooltip_bugged_hive_aggressive_proliferation_effects:0 "Не может сформироваться (но может присоединиться) §YФедерации§!  кроме §YВоенные альянса§! и §YГегемонии§!\nИмеет  '§Y$casus_belli_cb_bugged_proliferation$§!' Казус белли против всех других империй\n$allow_raiding$\nСниженое §YОтношения§!  большинства других империй.\nВсе биологические население можно §YАссимилировать§!"
+
+casus_belli_cb_bugged_proliferation:0 "Размножение"
+casus_belli_cb_bugged_proliferation_desc:0 "Размножение"
+war_goal_wg_bugged_proliferation:0 "Абсорбция"
+war_goal_wg_bugged_proliferation_desc:0 "Война ведется ради получения новой биомассы для внедрения в ульевой разум."
+bombardment_bugged_proliferation:0 "Абсорбция"
+bombardment_bugged_proliferation_desc:0 "$bombardment_bugged_proliferation$ Бомбардировка нацелена на вражеские населенные пункты с помощью специализированных рейдовых кораблей, которые забирают их людей и возвращают их в наши миры.\n- §ECлабое§! повреждение §YАрмии§!\n- §Слабое§! повреждение §YПланеты§!\n-§Похитит§! Население, когда это возможно, вместо того, чтобы убивать их\n-§RНе будет§! похищать или убивать последнее население"
+
+# Biogenesis
+civic_bugged_hive_biogenesis:0 "Биогенез"
+civic_bugged_hive_biogenesis_desc:0 "Этот улей имеет долгую историю изменения окружающей среды в соответствии со своими потребностями."
+civic_tooltip_bugged_hive_biogenesis_effects:0 ""
+
+# Burrows
+civic_bugged_hive_burrows:0 "Норы"
+civic_bugged_hive_burrows_desc:0 "Эти гражданские дроны живут и работают в основном в сложных системах подземных туннелей, которые петляют по недрам планеты."
+civic_tooltip_bugged_hive_burrows_effects:0 ""
+
+# Calculatronic Subprocesses
+civic_bugged_machine_researcher:0 "Калькуляционные подпроцессы"
+civic_bugged_machine_researcher_desc:0 "Этот машинный интеллект направляет огромное количество своей вычислительной мощности и ресурсов на продвижение своих научных разработок."
+civic_tooltip_bugged_machine_researcher_effects:0 "£building£ §YСтоличные сооружения§! и £building£ §YПланетарный суперкомпьютер§! предоставить £job_bugged_examinatron£ §Y$job_bugged_examinatron$§!Рабочие места\n"
+
+# Cognitive Focus
+civic_bugged_hive_cognitive_focus:0 "Когнитивная фокусировка"
+civic_bugged_hive_cognitive_focus_desc:0 "Этот разум особенно хорош в том, чтобы направлять свое внимание на выполнение определенных задач, но в то же время позволяет при необходимости использовать автономные дроны."
+civic_tooltip_bugged_hive_cognitive_focus_effects:0 ""
+
+# Inquisitive Hive
+civic_bugged_hive_researcher:0 "Любопытный улей"
+civic_bugged_hive_researcher_desc:0 "Этот улей очень увлечен естественными науками. В результате он следит за тем, чтобы все его дроны, ориентированные на исследования, всегда работали с максимальной эффективностью."
+civic_tooltip_bugged_hive_researcher_effects:0 "£job_brain_drone£ §Y$job_brain_drone_plural$§! увеличить §Y$job_brain_drone$§! результат §G+1%§!."
+
+# Mandatory Maintenance
+civic_bugged_machine_emancipation_proclamation:0 "Обязательное техобслуживание"
+civic_bugged_machine_emancipation_proclamation_desc:0 "Любая машина требует обслуживания, чтобы в конечном итоге не выйти из строя. Для многих машин это смазочные материалы на нефтяной основе и отвертки, для этих машин - материалы, которые можно получить только более органическим путем."
+civic_tooltip_bugged_machine_emancipation_proclamation_effects:0 "Не может сформироваться (но может присоединиться) §YФедерации§! кроме §YВоенные альянсы§! и §YГегемонии§!\nИмеет '§Y$casus_belli_cb_bugged_emancipation$§!'Казус белли против всех других империй\n$allow_raiding$\nСниженое §YОтношение§! для большинства других империй."
+
+casus_belli_cb_bugged_emancipation:0 "Техобслуживание"
+casus_belli_cb_bugged_emancipation_desc:0 "Техническое обслуживание"
+war_goal_wg_bugged_emancipation:0 "Коллекция ресурсов"
+war_goal_wg_bugged_emancipation_desc:0 "Война ведется за сбор новых материалов для обслуживания беспилотников разведки."
+bombardment_bugged_emancipation:0 "Коллекция ресурсов"
+bombardment_bugged_emancipation_desc:0 "$bombardment_bugged_emancipation$ Бомбардировка нацелена на вражеские населенные пункты с помощью специализированных рейдовых кораблей, которые забирают их население и похищают их в наши миры.\n- §EСлабое§! повреждение §YАрмии§!\n- §EСлабое§! повреждение §YПланеты§!\n-§Похитит§! Население, когда это возможно, вместо того, чтобы убивать их\n-§RНе будет§! похищать или убивать последнее население"
+
+# Relentless Development
+civic_bugged_hive_rapid_industry:0 "Непрерывное развитие"
+civic_bugged_hive_rapid_industry_desc:0 "Этот разум инстинктивно умеет максимизировать производительность любого промышленного процесса."
+civic_tooltip_bugged_hive_rapid_industry_effects:0 ""
+
+# Symbiotic Relations
+civic_bugged_hive_symbiotic_relations:0 "Симбиотические связь"
+civic_bugged_hive_symbiotic_relations_desc:0 "Этот улей-разум имеет тесную связь с экологией планет, которые находятся под его контролем. Это позволяет ему медленно изменять экосистемы в более полезные формы для себя"
+civic_tooltip_bugged_hive_symbiotic_relations_effects:0 "Можно использовать §Y$decision_bugged_symbiotic_relations$§! на планетах с более чем §G20§! £pop£"
+
+# Terravore
+civic_bugged_hive_terravore:0 "Терравор"
+civic_bugged_hive_terravore_desc:0 "Наш разум-улей существует только для сбора полезных ископаемых. Мы поглотим все миры галактики, независимо от желания их обитателей."
+civic_tooltip_bugged_hive_terravore_effects: "Позволяет §YПотреблять мир§! и §RПожирать мир§! Решения!\nСнижение §YОтношение§! для большинства других империй\n"
+
+# Von Neumann Machines
+civic_bugged_machine_stripmine:0 "Машины фон Неймана"
+civic_bugged_machine_stripmine_desc:0 "Мы были созданы для одной цели - собирать ресурсы, необходимые для экспансии. Мы будем использовать каждое планетарное тело в галактике для достижения этой вечной цели."
+civic_tooltip_bugged_machine_stripmine_effects:0 "Сниженое §YОтношение§! для большинства других империй\nПозволяет §YМир шахт§! и §RМир эксплойтов§! Решения!\n"
+
+
+##############################
+### Gestalt Ethics ###########
+##############################
+
+# Tags
+FORM_ETHIC:0 "§Этика фокус§! представляет собой структуру сознания. Эта этика не может быть изменена во время игры.§!"
+FOCUS_ETHIC:0 "§E§YЭтика фокус§! представляет то, на чем фокусируется сознание. Эта этика может быть изменена во время игры с помощью §YИзменить фокус сознания§! Эдикт.§!"
+ethic_tooltip_gestalt:0 "НЕ имеет никакой §YГештальт-этика§!".
+ethic_tooltip_not_gestalt:0 "Не имеет никакой §YЭтика по умолчанию§!".
+
+
+# Affective
+ethic_form_affective:0 "Аффективные"
+ethic_form_affective_desc:0  "§LЧтобы понять и наилучшим образом отреагировать на переменчивую и часто случайную природу Вселенной, необходимо принять часть этой случайности и действовать, опираясь не только на логику.§!"
+HAPPINESS_AFFECTIVE:0 "§ECombination with §YAutonomous§! gives hive-minded pops £happiness£ §YHappiness§! and £consumer_goods£ §YПотребительские товары§! upkeep§!\n(Temporarily Disabled for Machines)"
+
+# Analysis
+ethic_foci_analysis:0 "Анализ"
+ethic_foci_analysis_desc:0 "§LГалактика - загадочное место. Поэтому мы должны убедиться, что раскрыли все тайны, которые она хранит, и разгадать их ради собственного блага.§!"
+
+# Autonomous
+ethic_form_autonomous:0 "Автономная"
+ethic_form_autonomous_desc:0 "§LМы предоставим нашим дронам практически полную автономию, чтобы они могли найти свое место в коллективе и использовать свой индивидуальный опыт на благо целого.§!"
+HAPPINESS_AUTONOMOUS:0 "§EКомбинация с §YАффективные§! дает ульевое население £happiness£ §YСчастье§! и £consumer_goods£ §YПотребительские товары§! содержание§!"
+
+# Connection
+ethic_foci_connection:0 "Подключение"
+ethic_foci_connection_desc:0 "§LМы едины. Эту уникальную черту необходимо беречь и укреплять, чтобы мы могли оставаться сильными перед лицом бесчисленных трудностей, с которыми нас сталкивает Вселенная.§!"
+
+# Convalescence
+ethic_foci_convalescence:0 "Оздоровление"
+ethic_foci_convalescence_desc:0 "§LМы не знаем, что может существовать в пустоте, желающее зла нашему коллективу, но мы должны убедиться, что мы и те, кого мы считаем союзниками, защищены, прежде чем принимать какие-либо другие решения.§!"
+
+# Convergent
+ethic_form_convergent:0 "Конвергент"
+ethic_form_convergent_desc:0 "§LДроны, находящиеся под нашим контролем, не должны иметь никакой автономии. Воля Сверхразума не должна быть отклонена ни по какой причине. Мы останемся единым целым. Навсегда.§!"
+
+# Encroachment
+ethic_foci_encroachment:0 "Посягательство"
+ethic_foci_encroachment_desc:0 "§LМы, несомненно, столкнемся с угрозами, не похожими на те, с которыми мы сталкивались раньше. Поэтому мы должны убедиться, что наши флоты способны противостоять им и уничтожить их, если потребуется. Чтобы ни один из них больше не мог угрожать нам.§!"
+
+# Extrospective
+ethic_form_extrospective:0 "Экстроспектива"
+ethic_form_extrospective_desc:0 "§LНеобходимо вступать в дипломатические отношения с другими видами, поскольку, несмотря на их разобщенность как друг с другом, так и с нами, многие выгоды могут быть получены от соглашений с их видом.§!"
+
+# Impassive
+ethic_form_impassive:0 "Бесстрастный"
+ethic_form_impassive_desc:0 "§LОсновная слабость индивидуума заключается в том, что он полагается на "эмоции" и "чутье" в противовес холодной логике универсальных законов. Этот фундаментальный недостаток должен быть устранен из нашего сознания, если мы хотим процветать.§!"
+
+# Introspective
+ethic_form_introspective:0 "Интроспектива"
+ethic_form_introspective_desc:0 "§LМы не должны беспокоиться о делах других видов. Их слабая индивидуальность не может сравниться с необъятной силой нашего коллектива.§!"
+
+# Logistics
+ethic_foci_logistics:0 "Логистика"
+ethic_foci_logistics_desc:0 "Галактика - большое и негостеприимное место. Поэтому мы должны обеспечить выполнение всех требований, независимо от того, что нужно, когда нужно и где нужно.§!"
+
+# Progression
+ethic_foci_progression:0 "Прогрессия"
+ethic_foci_progression_desc:0 "§LМы преодолели барьер в темную пустоту за пределами нашей планетарной колыбели, но еще многое предстоит узнать, и поэтому наш поиск дальнейших знаний никогда не должен прекращаться.§!"
+
+
+##############################
+### Gestalt Jobs #############
+##############################
+
+# Examinatron
+job_bugged_examinatron:0 "Экзаменатрон"
+job_bugged_examinatron_plural:0 "Экзаменатроны"
+job_bugged_examinatron_desc:0 "Руководит технологическим развитием Машинной Интеллигенции, бесконечно обрабатывая вероятности, тестируя новые функции и решая уравнения."
+job_bugged_examinatron_effect_desc:0 "£job_bugged_examinatron£ $job_bugged_examinatron_plural$ развернуть £energy£ §YЭнергетические кредиты§! в £unity£ §YЕдинство§!, увеличить $mod_planet_researchers_производит_mult$, и уменьшение $mod_planet_researchers_upkeep_mult$"
+mod_job_bugged_examinatron_add:0 "$job_bugged_examinatron$ Jobs"
+mod_job_bugged_examinatron_per_pop:0 "§G+1§! $job_bugged_examinatron$ на $VALUE$ население"
+
+
+##############################
+### Governmental Civics ######
+##############################
+
+##################
+## Competitive ###
+##################
+
+# State Monopoly
+civic_bugged_state_monopoly:0 "Государственная монополия"
+civic_bugged_state_monopoly_desc:0 "В этом обществе самыми важными секторами экономики управляют олигархи, монополии и активы которых находятся под прямой защитой государства." 
+civic_tooltip_bugged_state_monopoly_effects:0 "£building£ §YСтоличные сооружения§! заменить некоторые £job_politician£ §Y$job_politician$§! Работа с £job_bugged_mogul£ §Y$job_bugged_mogul_plural$§!\n£building£ §YГалактические фондовые биржи§! предоставлять дополнительные £job_merchant£ §YТорговец§! рабочие места и £trade_value£ §YТорговая ценность§!\nНачинается с §Y$tech_power_hub_1$§!\n£job_bugged_mogul£ §Y$job_bugged_mogul_plural$§! увеличить £energy£ §YЭнергия§! и £minerals£ §Yминералы§! от §Yрабочих§!"
+
+##################
+## Materialist ###
+##################
+
+# Cyber Democracy
+civic_bugged_cyber_democracy:0 "Кибер-демократия"
+civic_bugged_cyber_democracy_desc:0 "В значительной степени интегрировав высокотехнологичные информационно-коммуникационные технологии в демократическую структуру управления, это общество создало одну из самых эффективных бюрократических систем, которые только можно себе представить."
+civic_tooltip_bugged_cyber_democracy_effects:0 "£building£ §YСтоличные сооружения§! заменить некоторые £job_politician£ §Y$job_politician$§! Рабочие места с £job_head_researcher£ §Y$job_head_researcher_plural$§!\n§YУченые§! имеют в два раза больше шансов обнаружить технологию, которая относится к их области знаний."
+
+# Cyber Dictatorship
+civic_bugged_cyber_dictatorship:0 "Кибер-диктатура"
+civic_bugged_cyber_dictatorship_desc:0 "Это государство в значительной степени полагается на искусственный интеллект, работающий на суперкомпьютерах, для расчета оптимального способа распределения ресурсов и создания политики."
+civic_tooltip_bugged_cyber_dictatorship_effects:0 "£building£ §YСтоличные сооружения§! заменить некоторые £job_politician£ §Y$job_politician$§! Рабочие места с  £job_head_researcher£ §Y$job_head_researcher_plural$§!\n§YУченые§! имеют в два раза больше шансов обнаружить технологию, которая относится к их области знаний."
+
+# Science Directorate
+civic_bugged_science_directorate:0 "Научный директорат"
+civic_bugged_science_directorate_desc:0 "Правительство находится под сильным влиянием комитета, состоящего из наиболее уважаемых и известных Ученых Империи."
+civic_tooltip_bugged_science_directorate_effects:0 "£building£ §YСтоличные сооружения§! заменить некоторые £job_politician£ §Y$job_politician$§! Рабочие места с £job_head_researcher£ §Y$job_head_researcher_plural$§!\n§YУченые§! имеют в два раза больше шансов обнаружить технологию, которая относится к их области знаний."
+
+
+##################
+## Militarist ####
+##################
+
+# Ordered Stratocracy
+civic_bugged_ordered_stratocracy:0 "Организованная Стратократия"
+civic_bugged_ordered_stratocracy_desc:0 "В стратократии государство и армия по сути и конституции являются одним и тем же. Административные должности обычно занимают действующие или уволенные с почетом военные начальники."
+civic_tooltip_bugged_ordered_stratocracy_effects:0 "£building£ §YСтоличные сооружения§! заменить некоторые £job_politician£ §Y$job_politician$§! Рабочие места с £job_bugged_commander£ §Y$job_bugged_commander_plural$§!.\nКаждый используемый уровень §YВместимость Флотилии§! дает §G+0.25§! £unity£ §YЕдинство§!."
+
+# Stratocratic Republic
+civic_citizen_service:0 "Стратократическая республика"
+civic_citizen_service_desc:0 "Полноценное гражданство и политическая ответственность, которая с ним связана, предоставляется только тем, кто отслужил срочную службу в армии."
+civic_tooltip_citizen_service_effects:0 "£building£ §YСтоличные сооружения§! заменить некоторые £job_politician£ §Y$job_politician$§! Рабочие места с £job_bugged_commander£ §Y$job_bugged_commander_plural$§!.\nКаждый используемый уровень §YВместимость Флотилии§! дает §G+0.25§! £unity£ §YЕдинство§!.\nПозволяет использовать §YПатриотический призыв§! указ."
+
+# War Council
+civic_bugged_war_council:0 "Военный совет"
+civic_bugged_war_council_desc:0 "В правительстве доминирует коалиция самых могущественных военных вождей."
+civic_tooltip_bugged_war_council_effects:0 "£building£ §YСтоличные сооружения§! заменить некоторые £job_politician£ §Y$job_politician$§! Рабочие места с  £job_bugged_commander£ §Y$job_bugged_commander_plural$§!.\nКаждый используемый уровень §YВместимость Флотилии§! дает §G+0.25§! £unity£ §YЕдинство§!.\nНевозможно использовать §YГражданский§! Политика производственного фокуса."
+
+# War Lord
+civic_bugged_war_lord:0 "Военный лорд"
+civic_bugged_war_lord_desc:0 "Правитель в этом обществе традиционно является активным главнокомандующим армией."
+civic_tooltip_bugged_war_lord_effects:0 "£building£ §YСтоличные сооружения§! заменить некоторые £job_politician£ §Y$job_politician$§! Рабочие места с  £job_bugged_commander£ §Y$job_bugged_commander_plural$§!.\nКаждый используемый уровень §YВместимость Флотилии§! дает §G+0.25§! £unity£ §YЕдинство§!."
+
+##################
+## Pacifist ######
+##################
+
+# Enlightened Bureaucracy
+civic_bugged_enlightened_bureaucracy:0 "Просвещенная бюрократия"
+civic_bugged_enlightened_bureaucracy_desc:0 "В этом обществе правительство традиционно направляется Философами и Мыслителями - теми, кто считается идеальными правителями и, как правило, обладает умом, надежностью и желанием жить мирной и процветающей жизнью."
+civic_tooltip_bugged_enlightened_bureaucracy_effects:0 "£building£ §YСтоличные сооружения§! заменить некоторые £job_politician£ §Y$job_politician$§! Рабочие места с £job_bugged_thinker£ §Y$job_bugged_thinker_plural$§!"
+
+# Philosopher King
+civic_philosopher_king:0 "Король-философ"
+civic_philosopher_king_desc:0 "Недостаточно просто править. Государственный корабль должен вести король, обладающий достаточной мудростью и знаниями, чтобы управлять им верно."
+civic_tooltip_philosopher_king_effects:0 "£building£ §YСтоличные сооружения§! заменить некоторые £job_politician£ §Y$job_politician$§! Рабочие места с £job_bugged_thinker£ §Y$job_bugged_thinker_plural$§!"
+
+
+# Philosophers Assembly
+civic_bugged_philosophers_assembly:0 "Ассамблея философов"
+civic_bugged_philosophers_assembly_desc: "Находясь под контролем совета, состоящего из самых умных и почетных представителей правящего класса, государственный аппарат империи обладает поразительной эффективностью управления."
+civic_tooltip_bugged_philosophers_assembly_effects:0 "£building£ §YСтоличные сооружения§! заменить некоторые £job_politician£ §Y$job_politician$§! Рабочие места с £job_bugged_thinker£ §Y$job_bugged_thinker_plural$§!"
+
+# Utopian Democracy
+civic_bugged_utopian_democracy:0 "Утопическая демократия"
+civic_bugged_utopian_democracy_desc:0 "Пацифистская форма республики, где граждане объединены национальной идеей свободной, мирной и процветающей жизни для всех."
+civic_tooltip_bugged_utopian_democracy_effects:0 "£building£ §YСтоличные сооружения§! заменить некоторые £job_politician£ §Y$job_politician$§! Рабочие места с £job_bugged_thinker£ §Y$job_bugged_thinker_plural$§!\nЗапрещает устанавливать §YПроизводственный фокус§! политика в отношении §YВоенное дело§!."
+
+##################
+## Spiritualist ##
+##################
+
+# Divine Council
+civic_bugged_divine_council:0 "Божественный совет"
+civic_bugged_divine_council_desc:0 "За правительством наблюдает совет, состоящий из самых влиятельных религиозных лидеров империи."
+civic_tooltip_bugged_divine_council_effects:0 "£building£ §YСтоличные сооружения§! заменить некоторые £job_politician£ §Y$job_politician$§! Рабочие места с £job_high_priest£ §Y$job_high_priest_plural$§!\n£building£ §YСвященный Нексус§! и §YЦитадель веры§! предоставлять дополнительные §YВерховный жрец§! рабочие место.\n£job_priest£ §Y$job_priest_plural$§! производит §Y1§! дополнительно £unity£ Единство"
+
+# Imperial Cult
+civic_imperial_cult:0 "Имперский культ"
+civic_imperial_cult_desc:0 "В этом обществе доминирует государственная религия, где правителю поклоняются как живому божеству."
+civic_tooltip_imperial_cult_effects:0 "£building£ §YСтоличные сооружения§! заменить некоторые £job_politician£ §Y$job_politician$§! Рабочие места с £job_high_priest£ §Y$job_high_priest_plural$§!\n£building£ §YСвященный Нексус§! и §YЦитадель веры§!  предоставлять дополнительные §YВерховный жрец§! рабочие место.\n£job_priest£ §Y$job_priest_plural$§! производит §Y1§! дополнительно £unity£ Единство.\nПозволяет принять специальный указ - §YПровозгласить бессмертного правителя§!, которая может сделать нынешнего правителя бессмертным \nАмбиции §YНаучная революция§! недоступна."
+
+# Theocracy
+civic_exalted_priesthood: "Теократия"
+civic_exalted_priesthood_desc:0 "Религиозные лидеры занимают административные должности, чтобы защищать общество от ереси."
+civic_tooltip_exalted_priesthood_effects:0 "£building£ §YСтоличные сооружения§! заменить некоторые £job_politician£ §Y$job_politician$§! Рабочие места с £job_high_priest£ §Y$job_high_priest_plural$§!\nStart with §YHolographic Rituals§! tech.\n£building£ §YСвященный Нексус§! и §YЦитадель веры§!  предоставлять дополнительные §YВерховный жрец§! рабочие место.\n£job_priest£ §Y$job_priest_plural$§! производит §Y1§! дополнительно £unity£ Единство.\nВ сочетании с Теократии некоторые гражданской модели усиливает эффекты некоторых заданий."
+
+# Theocratic Republic
+civic_bugged_theocratic_republic:0 "Теократическая республика"
+civic_bugged_theocratic_republic_desc:0 "Форма республики, где граждане связаны религиозной традицией, основанной на наборе сильных моральных ценностей и этических императивов."
+civic_tooltip_bugged_theocratic_republic_effects:0 "£building£ §YСтоличные сооружения§! заменить некоторые £job_politician£ §Y$job_politician$§! Рабочие места с £job_high_priest£ §Y$job_high_priest_plural$§!\n£building£ §YСвященный Нексус§! и §YЦитадель веры§!  предоставлять дополнительные §YВерховный жрец§! рабочие место.\n£job_priest£ §Y$job_priest_plural$§! производит §Y1§! дополнительно £unity£ Единство.\n§Y$job_high_priest_plural$§!  предоставлять дополнительные £society£ §YИсследование общества§! и £amenities£ §YДовольство§!"
+
+
+##############################
+### Governments ##############
+##############################
+gov_democratic_megacorporation:0 "Фирма"
+gov_democratic_megacorporation_desc:0 "Это правительство представляет собой форму плутократической демократии, где все государство организовано как крупное коммерческое предприятие, где лица, принимающие решения, избираются во власть своими работниками."
+
+gov_imperial_megacorporation:0 "Предприятие"
+gov_imperial_megacorporation_desc:0 "Это правительство представляет собой форму плутократической монархии, где все государство организовано как массовое коммерческое предприятие, контролируемое потомками основателя компании."
+
+gov_democratic_criminal_syndicate:0 "Преступный коллектив"
+gov_democratic_criminal_syndicate_desc:0 "Это правительство - свободная кооперативная структура, которая будет делать все, что в ее силах, независимо от законности или морали, чтобы увеличить свою власть и улучшить власть своих граждан."
+
+gov_imperial_criminal_syndicate:0 "Криминальная семья"
+gov_imperial_criminal_syndicate_desc:0 "Это правительство - огромное предприятие, основанное как местная преступная организация одной семьей, которая постепенно расширялась, пока не получила полный контроль над управлением всей планетой."
+
+
+##############################
+### Misc Tooltips ############
+##############################
+
+living_standard_tooltip_welfare_state:0 "Является ли §YГосударство всеобщего благосостояния§! или §YПринадлежащие работникам§!"
+
+civic_tooltip_gestalt:0 "Является ли §YКоллективный разум§! или §YМашинный разум§!".
+
+civic_tooltip_pluralist_plus_cooperative:0 "Является ли §YПлюрализм§! и §YКооперация§!".
+
+requires_actor_not_mineralizer:0 "Является ли §YТерравором§! или §Yмашины фон Неймана§!".
+
+bugged_recalculates_consecrated_modifier:0 ""
+
+bugged_black_hole_timer:0 "В ожидании червя"
+
+bugged_black_hole_fleet:0 ""
+
+mod_pop_category_drones_consumer_goods_upkeep_add:0 "$CONSUMER_GOODS_UPKEEP$ $DRONES$"
+
+civic_tooltip_building_civic_effects:0 "Увеличение стоимость для §YЖилищные технологии§!.\n§YЭнергетические сети§!  предоставлять дополнительные §YЭнергетических§! районы..\n§YЗаводы по переработке минерального сырья§!  предоставлять дополнительные §YГорнодобывающие§! районы.\n§YПредприятия пищевой промышленности§!  предоставлять дополнительные §YФермерские§! районы."
+
+civic_tooltip_bugged_raider:0 "Имеет §YРейдерство Цивика§!"
+civic_tooltip_not_bugged_raider:0 "Не имеет §YРейдерство Цивика§!"
+
+
+##############################
+### Opinion Modifiers ########
+##############################
+
+#######################
+## Civics #############
+#######################
+
+# Globalism
+opinion_trade_enclave_vs_globalism:0 "Хорошие торговые партнеры"
+
+# Machine Cult
+opinion_machine_cult_vs_robot_empires:0 "Божественные механизмы"
+opinion_robot_empires_vs_machine_cult:0 "Приверженцы формулы"
+
+# Peaceful Commonwealth
+opinion_artist_enclave_vs_peaceful_commonwealth:0 "Цивилизованные народ"
+
+# Terravore
+opinion_from_terravore:0 "Пустая трата ценных ресурсов"
+opinion_to_terravore:0 "Пренебрежение к жизни"
+opinion_terravore_from_terravore:0 "Минерализаторы-единомышленники"
+
+
+#######################
+## Ethics #############
+#######################
+
+# Anthropocentric
+opinion_anthropocentric_pos_1:0 "Друзья-промышленники"
+opinion_anthropocentric_pos_2:0 "Друзья-промышленники"
+opinion_anthropocentric_pos_3:0 "Друзья-промышленники"
+opinion_anthropocentric_pos_4:0 "Друзья-промышленники"
+
+opinion_anthropocentric_neg_1:0 "Осквернители природы"
+opinion_anthropocentric_neg_2:0 "Осквернители природы"
+opinion_anthropocentric_neg_3:0 "Осквернители природы"
+opinion_anthropocentric_neg_4:0 "Осквернители природы"
+
+# Competitive
+opinion_competitive_pos_1:0 "Друзья-маркетологи"
+opinion_competitive_pos_2:0 "Друзья-маркетологи"
+opinion_competitive_pos_3:0 "Друзья-маркетологи"
+opinion_competitive_pos_4:0 "Друзья-маркетологи"
+
+opinion_competitive_neg_1:0 "Эксплуататоры-капиталисты"
+opinion_competitive_neg_2:0 "Эксплуататоры-капиталисты"
+opinion_competitive_neg_3:0 "Эксплуататоры-капиталисты"
+opinion_competitive_neg_4:0 "Эксплуататоры-капиталисты"
+
+# Cooperative
+opinion_cooperative_pos_1:0 "Товарищи социалисты"
+opinion_cooperative_pos_2:0 "Товарищи социалисты"
+opinion_cooperative_pos_3:0 "Товарищи социалисты"
+opinion_cooperative_pos_4:0 "Товарищи социалисты"
+
+opinion_cooperative_neg_1:0 "Тираны народных масс"
+opinion_cooperative_neg_2:0 "Тираны народных масс"
+opinion_cooperative_neg_3:0 "Тираны народных масс"
+opinion_cooperative_neg_4:0 "Тираны народных масс"
+
+# Ecocentric
+opinion_ecocentric_pos_1:0 "Друзья природы"
+opinion_ecocentric_pos_2:0 "Друзья природы"
+opinion_ecocentric_pos_3:0 "Друзья природы"
+opinion_ecocentric_pos_4:0 "Друзья природы"
+
+opinion_ecoecentric_neg_1:0 "Ненавистники прогресса"
+opinion_ecoecentric_neg_2:0 "Ненавистники прогресса"
+opinion_ecoecentric_neg_3:0 "Ненавистники прогресса"
+opinion_ecoecentric_neg_4:0 "Ненавистники прогресса"
+
+# Elitist
+opinion_elitist_pos_1:0 "Высокородный дворянин"
+opinion_elitist_pos_2:0 "Высокородный дворянин"
+opinion_elitist_pos_3:0 "Высокородный дворянин"
+opinion_elitist_pos_4:0 "Высокородный дворянин"
+
+opinion_elitist_neg_1:0 "Заносчивые паразиты"
+opinion_elitist_neg_2:0 "Заносчивые паразиты"
+opinion_elitist_neg_3:0 "Заносчивые паразиты"
+opinion_elitist_neg_4:0 "Заносчивые паразиты"
+
+# Pluralist
+opinion_pluralist_pos_1:0 "Свободомыслящие братья"
+opinion_pluralist_pos_2:0 "Свободомыслящие братья"
+opinion_pluralist_pos_3:0 "Свободомыслящие братья"
+opinion_pluralist_pos_4:0 "Свободомыслящие братья"
+
+opinion_pluralist_neg_1:0 "Беспорядочный бред"
+opinion_pluralist_neg_2:0 "Беспорядочный бред"
+opinion_pluralist_neg_3:0 "Беспорядочный бред"
+opinion_pluralist_neg_4:0 "Беспорядочный бред"
+
+
+##############################
+### Planet Modifiers #########
+##############################
+
+# Jobs
+mod_planet_enforcers_upkeep_mult:0 "£job_enforcer£ Уход за силовиками"
+
+mod_planet_pops_minerals_upkeep_mult:0 "£minerals£ Поддержание минералов"
+
+mod_pop_category_robot_upkeep_mult:0 "Обслуживание роботизированного населения"
+
+mod_planet_researchers_производит_mult:0 "£job_reseracher£ Исследователи Производство"
+
+mod_planet_researchers_consumer_goods_upkeep_mult:0 "£job_researcher£ Researchers £consumer_goods£ Уход за потребительскими товарами"
+
+# Luminosity Cult
+consecrated_stars_too_many:0 "$TRIGGER_FAIL$§RМы уже освятили §Y3§! звезды§! §Н(Освятить другой мир, чтобы освятить этот.)§!"
+consecrated_star_unsuitable:0 "\n§YЭтот объект может быть относительно плохо приспособлен для освящения§!"
+consecrated_star_suitable:0 "\n§YЭтот объект может быть вполне пригоден для освящения§!"
+consecrated_star_perfect:0 "\n§YЭтот объект обладает присущей ему святостью и должен быть освящен.§!"
+
+bugged_consecrated_star_quality_1:0 "Освященная (профанная звезда)"
+bugged_consecrated_star_quality_1_desc:0 "Это считается плохим объектом поклонения".
+bugged_consecrated_star_quality_2:0 "Освященная (уважаемая звезда)"
+bugged_consecrated_star_quality_2_desc:0 "Это считается подходящим объектом поклонения".
+bugged_consecrated_star_quality_3:0 "Освященная (почитаемая звезда)"
+bugged_consecrated_star_quality_3_desc:0 "Эта звезда считается самой благословенной".
+bugged_consecrated_star_quality_4:0 "Освященная (Святая звезда)"
+bugged_consecrated_star_quality_4_desc:0 "Эта звезда считается непорочным и священным местом".
+
+bugged_consecrated_star_modifier:0 "Поклонение освященной звезде"
+unconsecrated_stars_tooltip:0 "§RНепосвященный§! звезда"
+
+
+# Other
+bugged_symbiotic_relations:0 "Улучшенный симбиоз"
+
+
+##############################
+### Policies #################
+##############################
+
+########################
+## Bureaucratic Form ###
+########################
+
+# Centralized State
+bugged_centralized_state:0 "Централизованное государство"
+bugged_centralized_state_name:0 "Централизованное государство"
+bugged_centralized_state_desc:0 "Крайне важно не позволять мелким государственным органам отклоняться от плана, заданного центральной властью, чтобы у них не возникало мыслей о независимости.\n\n"
+
+# General
+policy_bugged_bureaucracy:0 "Бюрократическая форма"
+policy_bugged_bureaucracy_desc:0 "По мере роста империи необходимо решить, сколько полномочий будет у местных органов власти, чтобы обеспечить максимальную сплоченность общества и гибкость в законотворчестве.\n"
+
+# Federalized State
+bugged_federal_state:0 "Федерализованное государство"
+bugged_federal_state_name:0 "Федерализованное государство"
+bugged_federal_state_desc:0 "Справедливо, что местным органам власти дана возможность создавать законы для своих избирателей, которые могут не совпадать с законами центральной власти. Как еще можно удовлетворить потребности этого сектора?\n\n"
+
+# Mixed State
+bugged_none_bureaucracy:0 "Смешанное государство"
+bugged_none_bureaucracy_name:0 "Смешанное государство"
+bugged_none_bureaucracy_desc:0 "В этом споре нет необходимости выбирать сторону. Местные органы власти не должны быть чрезмерно ограничены центральной властью, но и не следует давать им полную свободу действий.\n\n"
+
+
+########################
+## Economic Stance #####
+########################
+
+# General
+policy_economic_stance:0 "Экономические взгляды"
+policy_economic_stance_desc:0 "Почти в каждом обществе, которое становится достаточно развитым, ведутся споры о том, насколько сильно правительство должно контролировать экономику. Даже после выхода в космос эти споры продолжаются.\n"
+
+# Free Market
+economic_stance_bugged_free_market:0 "Свободный рынок"
+economic_stance_bugged_free_market_name:0 "Свободный рынок"
+economic_stance_bugged_free_market_desc:0 "Контроль нашего правительства над энергетическим рынком только ограничивает инновации и снижает теоретическую производительность наших систем. Эти недостатки должны быть устранены.\n\n§E§YЭнергетические районы§! дают что один £job_technician£ §YТехник§! рабочий заменяется на £job_bugged_trader£ §YТорговца§!.§!"
+
+# Planned Economy
+economic_stance_bugged_planned_economy:0 "Плановая экономика"
+economic_stance_bugged_planned_economy_name:0 "Плановая экономика"
+economic_stance_bugged_planned_economy_desc:0 "Для того чтобы обеспечить правильное распределение ресурсов империи по нужным направлениям, центральное правительство должно иметь полный контроль над всеми двигателями экономической производительности.\n\n"
+
+# Regulated Market
+economic_stance_bugged_none:0 "Регулируемый рынок"
+economic_stance_bugged_none_name:0 "Регулируемый рынок"
+economic_stance_bugged_none_desc:0 "Лучший вариант действий часто находится посередине между двумя крайностями, это касается и государственного вмешательства в экономику.\n\n"
+
+########################
+## Interstellar Media ##
+########################
+
+# General
+policy_bugged_interstellar_media:0 "Межзвездные медиа"
+policy_bugged_interstellar_media_desc:0 "Средства массовой информации способны изменить эволюцию целого общества. Мы должны решить, позволим ли мы этим изменениям происходить свободно, или же следует применить более прямой подход.\n"
+
+# Free Media
+bugged_free_media:0 "Свободные СМИ"
+bugged_free_media_name:0 "Свободные СМИ"
+bugged_free_media_desc:0 "Только при предоставлении практически полной свободы может проявиться истинное творчество нашего народа. Взятие под контроль средств массовой информации просто ограничит рост нашего общества.\n\n"
+
+bugged_free_media_duelist:0 "Свободные СМИ"
+bugged_free_media_duelist_name:0 "Свободные СМИ"
+bugged_free_media_duelist_desc:0 "Только при предоставлении почти полной свободы может проявиться истинная жестокость наших величайших бойцов. Взятие под контроль средств массовой информации просто ограничит наш общественный рост.\n\n"
+
+# Mixed Media
+bugged_none_media:0 "Микс-медиа"
+bugged_none_media_name:0 "Микс-медиа"
+bugged_none_media_desc:0 "Нет необходимости препятствовать гражданам создавать для массового потребления, хотя могут возникнуть ситуации, когда информация должна быть предоставлена населению в массовом порядке. Так что должна быть золотая середина.\n\n"
+
+# State Media
+bugged_state_media:0 "Государственные СМИ"
+bugged_state_media_name:0 "Государственные СМИ"
+bugged_state_media_desc:0 "Мы не должны допускать появления в СМИ ничего, кроме того, что мы одобрили, чтобы у населения не возникли мысли о несогласии.\n\n"
+
+########################
+## Telecommunications ##
+########################
+
+# Civilian Communications
+bugged_civilian_telecom:0 "Гражданские коммуникации"
+bugged_civilian_telecom_name:0 "Гражданские коммуникации"
+bugged_civilian_telecom_desc:0 "Эти сети должны быть предназначены в первую очередь для гражданского использования, передача военной информации по этим линиям просто приведет к утечке данных в любом случае.\n\n"
+
+# General
+policy_bugged_interstellar_telecom:0 "Межзвездные коммуникации"
+policy_bugged_interstellar_telecom_desc:0 "По мере роста населения увеличивается и нагрузка на нашу телекоммуникационную сеть. Поэтому необходимо решить, для каких целей можно использовать эти межзвездные каналы связи.\n"
+
+# Military Communications
+bugged_military_telecom:0 "Военные коммуникации"
+bugged_military_telecom_name:0 "Военные коммуникации"
+bugged_military_telecom_desc:0 "Разрешение гражданам получить доступ к нашим межзвездным коммуникационным сетям просто замедлит распространение информации, критически важной для успеха наших военных операций. Этого нельзя допустить.\n\n"
+
+# Multipurpose Communications
+bugged_none_telecom:0 "Многоцелевые коммуникации"
+bugged_none_telecom_name:0 "Многоцелевые коммуникации"
+bugged_none_telecom_desc:0 "Телекоммуникационные сети должны быть пригодны для использования в любых целях, будь то использование военными для передачи тактически важной информации или гражданскими лицами для любых целей, которые они могут пожелать.\n\n"
+
+########################
+## Trade Policy  #######
+########################
+
+# Advanced Construction
+trade_policy_bugged_growth_construction_league:0 "Передовое строительство"
+trade_conversion_bugged_growth_construction_league_name:0 "$trade_policy_bugged_growth_construction_league$"
+trade_policy_bugged_growth_construction_league_desc:0 "С каждым новым торговым партнером появляется возможность выхода новых и революционных материалов и расходных материалов на наши внутриимперские рынки.\n\n§EКаждый единица £trade_value£ §YТорговая ценность§! приносит нам доход £energy£ §Y0.25§!, £food£ §Y0.75§! и £minerals£ §Y0.75§!§!"
+
+# Agricultural Subsidies
+trade_policy_bugged_agriculture:0 "Сельскохозяйственные субсидии"
+trade_conversion_bugged_agriculture_name:0 "$trade_policy_bugged_agriculture$"
+trade_policy_bugged_agriculture_desc:0 "У всех углеродных существ есть одна общая потребность, независимо от их происхождения. Еда. Мы должны направить наши торговые усилия на получение как можно большего количества продуктов питания для наших людей, чтобы они никогда не голодали.\n\n§EКаждый единица £trade_value£ §YТорговая ценность§! приносит нам доход £energy£ §Y0.25§! и £food£ §Y0.75§!§!"
+
+# Civilian Marketplace
+trade_policy_bugged_consumer_goods_league:0 "Рынок гражданских услуг"
+trade_conversion_bugged_consumer_goods_league_name:0 "$trade_policy_bugged_consumer_goods_league$"
+trade_policy_bugged_consumer_goods_league_desc:0 "Используя наши связи в рамках торговой лиги, мы теперь можем поставлять нашим гражданам невиданное ранее разнообразие личных вещей.\n\n§EКаждый единица £trade_value£ §YТорговая ценность§! приносит нам доход £energy£ §Y0.25§!, £consumer_goods£ §Y0.25§!, и £unity£ §Y0.25§!"
+
+# Growth and Construction
+trade_policy_bugged_growth_construction:0 "Рост и строительство"
+trade_conversion_bugged_growth_construction_name:0 "$trade_policy_bugged_growth_construction$"
+trade_policy_bugged_growth_construction_desc:0 "Самая важная цель правительства - использовать свои ресурсы для улучшения как себя, так и жизни своих граждан. Мы должны направить наши торговые усилия на сбор сырья, необходимого для дальнейшего управления.\n\n§EКаждый единица £trade_value£ §YТорговая ценность§! приносит нам доход £food£ §Y0.25§! и £minerals£ §Y0.25§!§!"
+
+# Innovation and Progress
+trade_policy_bugged_innovative_economy:0 "Инновации и прогресс"
+trade_conversion_bugged_innovative_economy_name:0 "$trade_policy_bugged_innovative_economy$"
+trade_policy_bugged_innovative_economy_desc:0 "Торговля может быть использована не только для получения материальных благ, но и для получения более глубоких знаний о Вселенной. Мы должны направить наши усилия в области торговли на научные исследования, и тогда мы сможем пожинать плоды, которые от этого появятся.\n\n§EКаждый единица £trade_value£ §YТорговая ценность§! приносит нам доход £energy£ §Y0.25§!, £physics£ §Y0.1§!, и £engineering£ §Y0.1§!§!"
+
+# Mining Subsidies
+trade_policy_bugged_mining:0 "Субсидии на добычу полезных ископаемых"
+trade_conversion_bugged_mining_name:0 "$trade_policy_bugged_mining$"
+trade_policy_bugged_mining_desc:0 "Инфраструктура разрушается, металлы нужно ковать, здания нужно строить, потребность в сырье - это бесконечная борьба, которая затрагивает все общества. Мы должны сосредоточить наши торговые усилия на приобретении всех строительных материалов, которые нам понадобятся для дальнейшего роста.\n\n§EКаждый единица £trade_value£ §YТорговая ценность§! приносит нам доход £energy£ §Y0.25§! и £minerals£ §Y0.375§!§!"
+
+# Social Development
+trade_policy_bugged_social_development:0 "Социальное развитие"
+trade_conversion_bugged_social_development_name:0 "$trade_policy_bugged_social_development$"
+trade_policy_bugged_social_development_desc:0 "В каждом обмене товарами между двумя людьми есть возможность лучше понять, что побуждает людей делать то, что они делают. Мы должны сосредоточить наши усилия в области торговли на всем, что позволяет нам лучше понять, что заставляет нас работать.\n\n§EКаждый единица £trade_value£ §YТорговая ценность§! приносит нам доход £energy£ §Y0.25§! и £society£ §Y0.25§!§!"
+
+# Social Growth Marketplace
+trade_policy_bugged_social_development_league:0 "Рынок социального роста"
+trade_conversion_bugged_social_development_league_name:0 "$trade_policy_bugged_social_development_league$"
+trade_policy_bugged_social_development_league_desc:0 "Благодаря нашей новой позиции в качестве члена межобщественного торгового альянса, мы теперь можем расширить наши модели, основанные на обмене, до масштабов, которые ранее были бы невозможны.\n\n§EКаждый единица £trade_value£ §YТорговая ценность§! приносит нам доход £energy£ §Y0.25§! и £society£ §Y0.5§!§!"
+
+# Supra-Agri Marketplace
+trade_policy_bugged_agriculture_league:0 "Рынок супер сельскохозяйственной продукции"
+trade_conversion_bugged_agriculture_league_name:0 "$trade_policy_bugged_agriculture_league$"
+trade_policy_bugged_agriculture_league_desc:0 "Как часть торговой лиги, мы можем легче сотрудничать с нашими союзниками, чтобы выяснить, какие из местных продуктов питания нашей империи могут употреблять в пищу основные виды каждой из входящих в нее наций.\n\n§EКаждый единица £trade_value£ §YТорговая ценность§! приносит нам доход £energy£ §Y0.25§! и £food£ §Y0.75§!§!"
+
+# Supra-Mining Marketplace
+trade_policy_bugged_mining_league:0 "Рынок Супер горнойдобычи"
+trade_conversion_bugged_mining_league_name:0 "$trade_policy_bugged_mining_league$"
+trade_policy_bugged_mining_league_desc:0 "Сотрудничая с нашими партнерами по торговой лиге, мы можем более эффективно захватывать богатые минералами астероиды, которые плавают в межзвездном пространстве, что позволяет получить множество редких материалов.\n\n§EКаждый единица £trade_value£ §YТорговая ценность§! приносит нам доход £energy£ §Y0.25§! и £minerals£ §Y0.75§!§!"
+
+# Technofocus Marketplace
+trade_policy_bugged_innovative_economy_league:0 "Торговая площадка Технофокус"
+trade_conversion_bugged_innovative_economy_league_name:0 "$trade_policy_bugged_innovative_economy_league$"
+trade_policy_bugged_innovative_economy_league_desc:0 "Участие в торговой лиге позволяет самым ярким представителям каждого вида сосредоточиться на тех научных областях, в которых они наиболее естественным образом преуспевают.\n\n§EКаждый единица £trade_value£ §YТорговая ценность§ приносит нам доход £energy£ §Y0.25§!, £physics£ §Y0.15§!, и £engineering£ §Y0.15§!"
+
+# Wealth Creation
+trade_conversion_default_name:0 "Создание богатства"
+
+# Wealth Marketplace
+trade_policy_bugged_basic_league:0 "Рынок богатства"
+trade_conversion_bugged_basic_league_name:0 "$trade_policy_bugged_basic_league$"
+trade_policy_bugged_basic_league_desc:0 "Объединившись в торговую лигу, мы можем процветать и получать прибыль на совершенно новом уровне.\n\n§EКаждый единица £trade_value£ §YТорговая ценность§! приносит нам доход £energy£ §Y1.75§!§!"
+
+########################
+## Transportation ######
+########################
+
+# Civilian Transport
+bugged_civilian_transport:0 "Гражданские перевозки"
+bugged_civilian_transport_name:0 "Гражданские перевозки"
+bugged_civilian_transport_desc:0 "Гораздо важнее дать возможность гражданам империи добраться туда, куда им нужно, поскольку любые задержки в поставках могут иметь катастрофические последствия для экономической деятельности в целом.\n\n"
+
+# General
+policy_bugged_transportation_logistics:0 "Транспортировка и логистика"
+policy_bugged_transportation_logistics_desc:0 "По мере того как увеличивается наша способность доставлять людей и материалы в космос, растут и проблемы, связанные со столкновениями кораблей и другими подобными авариями. Мы должны решить, как лучше распределить ограниченное пространство, доступное для транспортных средств.\n"
+
+# Military Transport
+bugged_military_transport:0 "Военные перевозки"
+bugged_military_transport_name:0 "Военные перевозки"
+bugged_military_transport_desc:0 "Если транспортные сети забиты туристическими судами и прочими несерьезными вещами, как наши военно-морские силы смогут добраться до линии фронта? Если им не будет предоставлен особый приоритет, у нас не останется другого выбора, кроме как сдаться при первых признаках конфликта.\n\n"
+
+# Unrestricted Transport
+bugged_none_transport:0 "Транспортные перевозки без ограничений"
+bugged_none_transport_name:0 "Транспортные перевозки без ограничений"
+bugged_none_transport_desc:0 "Нет необходимости предоставлять особые привилегии любому кораблю, военному или гражданскому, в транспортных сетях. Пока все капитаны способны правильно управлять своими судами, места хватит всем.\n\n"
+
+##############################
+### Ruler Jobs ###############
+##############################
+
+# Commander
+job_bugged_commander:0 "Полководец"
+job_bugged_commander_plural:0 "Полководецы"
+job_bugged_commander_desc:0 "Опытный военачальник, который прошел путь от командира до командующего целыми армиями империи."
+job_bugged_commander_effect_desc:0 "£job_bugged_commander£ $job_bugged_commander_plural$ производит £unity£ §YЕдинство§!, увеличивает в империи вместимость §YФлот§!, создает §YОборонительные армии§!, и производить небольшое количество §YДовольства.§!"
+mod_job_bugged_commander_add:0 "$job_bugged_commander$ Рабочие места"
+mod_job_bugged_commander_per_pop:0 "§G+1§! $job_bugged_commander$ Работа за $VALUE$ население"
+
+# Herald of Life's Path
+job_bugged_herald_of_lifes_path:0 "Вестник жизненного пути"
+job_bugged_herald_of_lifes_path_plural:0 "Вестники жизненного пути"
+job_bugged_herald_of_lifes_path_desc:0 "Внутри каждого живого существа есть глава божественной Книги Жизни. Наша задача - продолжать ее писать."
+job_bugged_herald_of_lifes_path_effect_desc:0 "£job_bugged_herald_of_lifes_path£ $job_bugged_herald_of_lifes_path_plural$ производит £society_research£ §Y$society_research$§!, £unity£ §Y$единство$§!, and £mod_planet_pop_assembly_mult£ §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!"
+mod_job_bugged_herald_of_lifes_path_add:0 "$job_bugged_herald_of_lifes_path$ население"
+
+# Intricate Techno Priest
+job_bugged_intricate_techno_priest:0 "Техно-Жрец"
+job_bugged_intricate_techno_priest_plural:0 "Техно-Жрецы"
+job_bugged_intricate_techno_priest_desc:0 "Именно благодаря вере этих людей мы обеспечиваем, чтобы наши творения двигались в резонансе с Богами."
+job_bugged_intricate_techno_priest_effect_desc:0 "£job_bugged_intricate_techno_priest£ $job_bugged_intricate_techno_priest_plural$ производит £engineering£ §Y$engineering_research$§! и £unity£ §Y$единство$§!, и увеличить §Y$mod_planet_jobs_robotic_produces_mult$§! на §G10%§!"
+mod_job_bugged_intricate_techno_priest_add:0 "$job_bugged_intricate_techno_priest$ Рабочие места"
+mod_job_bugged_intricate_techno_priest_per_pop:0 "§G+1§! $job_bugged_intricate_techno_priest$ Работа на $VALUE$ население"
+
+# Mogul
+job_bugged_mogul:0 "Могул"
+job_bugged_mogul_plural:0 "Могулы"
+job_bugged_mogul_desc:0 "Выдающийся и влиятельный представитель финансовой элиты, использующий свои огромные ресурсы для финансирования прогресса нашего вида."
+job_bugged_mogul_effect_desc:0 "£job_bugged_mogul£ $job_bugged_mogul_plural$ производит £unity£ §Yединство§!, £mod_trade_value_add£ §Y$TRADE_VALUE$§! и £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§."
+mod_job_bugged_mogul_add:0 "$job_bugged_mogul$ Рабочие места"
+mod_job_bugged_mogul_per_pop:0 "§G+1§! $job_bugged_mogul$ Работа на $VALUE$ население"
+
+# Priest of the Dark Sun
+job_bugged_priest_of_the_dark_sun:0 "Жрец Темного Солнца"
+job_bugged_priest_of_the_dark_sun_plural:0 "Жрецы Темного Солнца"
+job_bugged_priest_of_the_dark_sun_desc:0 "Когда жизнь звезды умирает, ее духовная энергия высвобождается, чтобы ее могли использовать те, кто знает ее секреты."
+job_bugged_priest_of_the_dark_sun_effect_desc:0 "£job_bugged_priest_of_the_dark_sun£ $job_bugged_priest_of_the_dark_sun_plural$ производит £physics_research£ §YPhysics Research§!, £unity£ §YЕдинство§!, §YДовольство§! Если планета вращается вокруг §YЧерная дыры§!, эффект от этой работы усиливается"
+mod_job_bugged_priest_of_the_dark_sun_add:0 "$job_bugged_priest_of_the_dark_sun$ Рабочие места"
+mod_job_bugged_priest_of_the_dark_sun_per_pop:0 "§G+1§! $job_bugged_priest_of_the_dark_sun$ Работа на $VALUE$ население"
+
+# Thinker
+job_bugged_thinker:0 "Мыслитель"
+job_bugged_thinker_plural:0 "Мыслители"
+job_bugged_thinker_desc:0 "Представители интеллектуальной элиты, поднимающиеся по социальной лестнице благодаря своей способности красноречиво излагать свои мысли и разрывать на части аргументы тех, с кем они не согласны."
+job_bugged_thinker_effect_desc:0 "£job_bugged_thinker£ $job_bugged_thinker_plural$ производит £unity£ §Yединство§!, увеличить £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!, умножить планетарный $mod_planet_jobs_society_research_produces_mult$ на §G+5%§!"
+mod_job_bugged_thinker_add:0 "$job_bugged_thinker$ Jobs"
+mod_job_bugged_thinker_per_pop:0 "§G+1§! $job_bugged_thinker$ Работа на $VALUE$ население"
+
+
+##############################
+### Specialist Jobs ##########
+##############################
+
+# Deep Core Miner
+job_bugged_deep_core_miner:0 "Мастер Подземелья"
+job_bugged_deep_core_miner_plural:0 "Мастера подземелья"
+job_bugged_deep_core_miner_desc:0 "Специалист, применяющий широкий спектр научных и технологических навыков для извлечения полезных ископаемых и энергии из недр планетарных тел."
+job_bugged_deep_core_miner_effect_desc:0 "£job_bugged_deep_core_miner£ $job_bugged_deep_core_miner_plural$ превращает £consumer_goods£ §YПотребительские товары§! в £minerals£ §YМинералы§!"
+mod_job_bugged_deep_core_miner_add:0 "$job_bugged_deep_core_miner_plural$ Рабочие места"
+mod_job_bugged_deep_core_miner_per_pop:0 "§G+1§! $job_bugged_deep_core_miner# Работа на $VALUE$ население"
+
+# Geoengineer
+job_bugged_geoengineer:0 "Геоинженер"
+job_bugged_geoengineer_plural:0 "Геоинженеры"
+job_bugged_geoengineer_desc:0 "Ученый, специализирующийся на изучении всевозможных свойств и раскрытии тайн, которые инопланетные миры могут скрывать от менее проницательных зрительных рецепторов."
+job_bugged_geoengineer_effect_desc:0 "£job_bugged_geoengineer£ $job_bugged_geoengineer_plural$ превращает £consumer_goods£ §YПотребительские товары§! в £physics£ §YФизические исследования£! и £engineering£ §YИнженерные исследования§!"
+mod_job_bugged_geoengineer_add:0 "$job_bugged_geoengineer_plural$ Рабочие места"
+mod_job_bugged_geoengineer_per_pop:0 "§G+1§! $job_bugged_geoengineer$ Работа на $VALUE$ население"
+
+# Gravity Priest
+job_bugged_gravity_priest:0 "Гравитационный священник"
+job_bugged_gravity_priest_plural:0 "Гравитационные священники"
+job_bugged_gravity_priest_desc:0 "Подобно тому, как сила гравитации может собрать вместе разрозненные частицы, сила нашей веры служит действенной заменой для объединения народов нашей империи."
+job_bugged_gravity_priest_effect_desc:0 "£job_bugged_gravity_priest£ $job_bugged_gravity_priest_plural$ превращает £consumer_goods£ §YПотребительские товары§! в £physics_research£ §YФизические исследования§! и £unity£ §YЕдинство§!."
+mod_job_bugged_gravity_priest_add:0 "$job_bugged_gravity_priest$ Рабочие места"
+mod_job_bugged_gravity_priest_per_pop:0 "§G+1§! $job_bugged_gravity_priest$ Работа на $VALUE$ население"
+
+# Lifescribe
+job_bugged_lifescribe:0 "Литописец"
+job_bugged_lifescribe_plural: "Литописец"
+job_bugged_lifescribe_desc:0 "Больше всего веры заслуживает то, что отделяет нас от простого куска стали - сама жизнь."
+job_bugged_lifescribe_effect_desc:0 "£job_bugged_lifescribe£ $job_bugged_lifescribe_plural$ превращает £consumer_goods£ §YПотребительские товары§! в £society_research£ §Y$society_research$§!, £unity£ §Y$unity$§!, £mod_pop_growth_speed£ §Y$MOD_POP_GROWTH_SPEED$§!, and £mod_planet_pop_assembly_mult£ §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_MULT$§!"
+mod_job_bugged_lifescribe_add:0 "$job_bugged_lifescribe$ Рабочие места"
+mod_job_bugged_lifescribe_per_pop:0 "§G+1§! $job_bugged_lifescribe$ Работа на $VALUE$ население"
+
+# Mercenary
+job_bugged_mercenary:0 "Наемник"
+job_bugged_mercenary_plural:0 "Наемники"
+job_bugged_mercenary_desc:0 "Профессиональный солдат, который сражается за того, кто предложит ему наибольшую зарплату."
+job_bugged_mercenary_effect_desc:0 "£job_bugged_mercenary£ $job_bugged_mercenary_plural$ производит £mod_trade_value_add£ §Y$TRADE_VALUE$§!, увеличить £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!, и создает £defense_army£ §YОборонительные армии§!"
+mod_job_bugged_mercenary_add:0 "$job_bugged_mercenary_plural$ Рабочие места"
+mod_job_bugged_mercenary_per_pop:0 "§G+1§! $job_bugged_mercenary$ Работа на $VALUE$ население"
+
+# Priest of the Light
+job_bugged_luminosity_priest:0 "Жрец Света"
+job_bugged_luminosity_priest_plural:0 "Жрец Света"
+job_bugged_luminosity_priest_desc:0 "Пусть свет нашей веры устранит тени сомнений и раздоров из миров нашего рода."
+job_bugged_luminosity_priest_effect_desc:0 "£job_bugged_luminosity_priest£ $job_bugged_luminosity_priest_plural$ превращает £consumer_goods£ §YПотребительские товары§! в £physics_research£ §Y$physics_research$§!, £unity£ §Y$Единство$§!, и £energy£ §YЭнергетические кредиты§!"
+mod_job_bugged_luminosity_priest_add:0 "$job_bugged_luminosity_priest$ Рабочие места"
+mod_job_bugged_luminosity_priest_per_pop:0 "§G+1§! $job_bugged_luminosity_priest$ Работа на $VALUE$ население"
+
+# Psi Researcher
+job_bugged_psi_researcher:0 "Пси-исследователь"
+job_bugged_psi_researcher_plural:0 "Пси-исследователь"
+job_bugged_psi_researcher_desc:0 "Researchers dedicated to psionic pursuits attempting to demystify all that was previously thought magical."
+job_bugged_psi_researcher_effect_desc:0 "£job_bugged_psi_researcher£ $job_bugged_psi_researcher_plural$ превращает £energy£ §YЭнергетические кредиты§! into £physics£ £society£ £engineering£ §YТочки исследования§! и £unity£ §YЕдинство§!, увеличить Планетарное £unity£ §YЕдинство§! output, and reduce £crime£ §YCrime§!"
+mod_job_bugged_psi_researcher_add:0 "$job_bugged_psi_researcher$ Рабочие места"
+mod_job_bugged_psi_researcher_per_pop:0 "§G+1§! $job_bugged_psi_researcher$ Работа на $VALUE$ население"
+
+# Techno Priest
+job_bugged_techno_priest:0 "Техно жрец"
+job_bugged_techno_priest_plural:0 "Техно жрец"
+job_bugged_techno_priest_desc:0 "Благодаря силе нашей веры наши машины могут работать бесконечно долго."
+job_bugged_techno_priest_effect_desc:0 "£job_bugged_techno_priest£ $job_bugged_techno_priest_plural$ превращает £consumer_goods£ §YПотребительские товары§! into £engineering£ §Y$engineering_research$§! и £unity£ §Y$Единство$§! и сокращает §Y$mod_planet_pops_robotics_upkeep_mult$§! на §G5%§!.\n"
+mod_job_bugged_techno_priest_add:0 "$job_bugged_techno_priest$ Рабочие места"
+mod_job_bugged_techno_priest_per_pop:0 "§G+1§! $job_bugged_techno_priest$ Работа на $VALUE$ население"
+
+# Templar
+job_bugged_templar:0 "Храмовник"
+job_bugged_templar_plural:0 "Храмовники"
+job_bugged_templar_desc:0 "Член религиозного военного ордена, защищающий свою веру от всех, кто пытается ее осквернить."
+job_bugged_templar_effect_desc:0 "£job_bugged_templar£ $job_bugged_templar_plural$" превращает £consumer_goods£ §YПотребительские товары§! в £unity£ §YЕдинство§!, увеличить планетарный §YСтабильность§! и §YВместимость флотилии§!, и создает §YОборонительную армию§!"
+mod_job_bugged_templar_add:0 "$job_bugged_templar$ Рабочие места"
+mod_job_bugged_templar_per_pop:0 "§G+1§! $job_bugged_templar$ Работа на $VALUE$ население"
+
+# Trader
+job_bugged_trader:0 "Торговец"
+job_bugged_trader_plural:0 "Торговецы"
+job_bugged_trader_desc:0 "Белые воротнички, выполняющие различные административные офисные задачи, которые имеют решающее значение для поддержания работы двигателей, обеспечивающих функционирование нашей экономики."
+job_bugged_trader_effect_desc:0 "£job_bugged_trader£ $job_bugged_trader_plural$ производит £mod_trade_value_add£ §Y$TRADE_VALUE$§! и £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!"
+mod_job_bugged_trader_add:0 "$job_bugged_trader$ Рабочие места"
+mod_job_bugged_trader_per_pop:0 "§G+1§! $job_bugged_trader$ Работа на $VALUE$ население"
+
+# Transcended
+job_bugged_transcended:0 "Телепат"
+job_bugged_transcended_plural:0 "Телепаты"
+job_bugged_transcended_desc:0 "Эти люди отточили свои умственные способности до такой степени, что достигли высшего состояния сознания."
+job_bugged_transcended_effect_desc:0 "£job_bugged_transcended£ $job_bugged_transcended$ превращает £energy£ §YЭнергетические кредиты§! в £physics£ £society£ £engineering£ §YОчки исследования§!и £unity£ §YЕдинства§! и сокращает £crime£ §YПреступность§!"
+mod_job_bugged_transcended_add:0 "$job_bugged_transcended$ Рабочие места"
+mod_job_bugged_transcended_per_pop:0 "§G+1§! $job_bugged_transcended$ Работа на $VALUE$ население"
+
+# Warrior Priest
+job_bugged_warrior_priest:0 "Жрец-воин"
+job_bugged_warrior_priest_plural:0 "Жрец-воины"
+job_bugged_warrior_priest_desc:0 "Наша вера - это наша сила. Наша сила - это наша мощь."
+job_bugged_warrior_priest_effect_desc:0 "£job_bugged_warrior_priest£ $job_bugged_warrior_priest_plural$ превращает £consumer_goods£ §YПотребительские товары§! в £engineering_research£ §Y$engineering_research$§! и £unity£ §Y$Единство$§!, и создает §YОборонительную армию§!"
+mod_job_bugged_warrior_priest_add:0 "$job_bugged_warrior_priest$ Рабочие места"
+mod_job_bugged_warrior_priest_per_pop:0 "§G+1§! $job_bugged_warrior_priest$ Работа на $VALUE$ население"
+
+# Xenobiologist
+job_bugged_xenobiologist:0 "Ксенобиолог"
+job_bugged_xenobiologist_plural:0 "Ксенобиологи"
+job_bugged_xenobiologist_desc:0 "Ученый, который посвятил свою жизнь тому, чтобы расширить границы нашего понимания биологии на основе огромного количества форм жизни, найденных по всей галактике."
+job_bugged_xenobiologist_effect_desc:0 "£job_bugged_xenobiologist£ $job_bugged_xenobiologist_plural$ превращает £consumer_goods£ §YПотребительские товары§! в £society£ §YСоциологические Исследование§!"
+mod_job_bugged_xenobiologist_add:0 "$job_bugged_xenobiologist_plural$ Рабочие места"
+mod_job_bugged_xenobiologist_per_pop:0 "§G+1§! $job_bugged_xenobiologist$ Работа на $VALUE$ население"
+
+
+##############################
+### Standard Civics ##########
+##############################
+
+# Agrarian Idyll
+civic_tooltip_agrarian_idyll_effects:0 "§YЭнергитический§!, §YГорнодобывающий§! и §YСельскохозяйственные районы§!  предоставляет дополнительное £housing£ §YЖилье§!\n§YГородские районы§! предоставлять меньше £housing£ §YЖилье§!\n£job_farmer£ §Y$job_farmer_plural$§! производит дополнительно £amenities£ §YДовольство§!"
+
+# Bureaucratic Engineers
+civic_bugged_bureaucratic_engineers:0 "Инженеры-бюрократы"
+civic_bugged_bureaucratic_engineers_desc:0 "Это правительство тратит много времени на работу со своими инженерами, обеспечивая удовлетворение всех их потребностей, чтобы они могли работать над своими проектами как можно эффективнее."
+civic_tooltip_bugged_bureaucratic_engineers_effects:0 "§Y+1§! £mod_megastructure_build_speed_add£ §YМегаструктура Создание потенциала§! для каждого 20 £job_bureaucrat  §Y$job_bureaucrat_plural$§!\n£job_bureaucrat  §Y$job_bureaucrat_plural$§! увеличивается §YСкорость строительства базовой мегаструктуры§! по §G+1%§! каждый\n"
+
+# Caste System
+civic_bugged_caste_system:0 "Кастовая система"
+civic_bugged_caste_system_desc:0 "Это общество следует жесткой кастовой системе, которая основана на сложной культурной и религиозной идеологии. Считается, что каждая социальная страта служит своей божественной и предопределенной цели."
+
+# Chosen People
+civic_bugged_chosen_people:0 "Избранный народ"
+civic_bugged_chosen_people_desc:0 "Этот вид фанатично сохраняет свою биологическую и культурную уникальность, считая себя избранными высшими силами для господства в галактике."
+
+# Distinguished Admiralty
+civic_tooltip_distinguished_admiralty_effects:0 "На третьем уровне все адмиралы получают способность §YВыдающийся§! перк."
+
+# Distributism
+civic_bugged_distributism:0 "Дистрибутизм"
+civic_bugged_distributism_desc:0 "Идеология, в центре которой находится идея рыночной экономики, в значительной степени пронизанной моралью. Она отстаивает право на частную собственность, но утверждает, что средства производства должны быть распределены между всеми."
+civic_tooltip_bugged_distributism_effects:0 "Невозможно использовать §YСвободный рынок§! политика\nНевозможно построить£building£ §YГалактическая фондовая биржа§!\n§G+1§! Фермер Работа за §Y15§! население\n§G+1§! Металлург Работа на §Y20§! населения\n§G+1§! Работа ремесленника на §Y20§! население"
+
+# Environmental Engineers
+civic_bugged_environmental_engineers:0 "Инженеры по охране окружающей среды"
+civic_bugged_environmental_engineers_desc:0 "Это общество всегда было озабочено проблемами окружающей среды, полагаясь на науку и технологии, чтобы либо смягчить последствия стихийных бедствий, либо склонить природу к своей воле."
+civic_tooltip_bugged_environmental_engineers_effects:0 "Начинается с §YНаземная скульптура§! технологии\nПреимущества от §YПланетарные особенности§! и §YБлоки§! которые дают £housing£ §YЖилье§! и рабочие места специальных ученых\nМожно использовать §YВосстановление окружающей среды§! решение об удалении вредных §YБлоки§!\n"
+
+# Evangelism
+civic_bugged_evangelism:0 "Евангелизм"
+civic_bugged_evangelism_desc:0 "Люди этой цивилизации искренне верят, что все разумные существа во Вселенной связаны между собой некими высшими силами. Теперь, когда они достигли межзвездного пространства, они хотят распространить эту веру по всей галактике."
+
+# Evolutionary Architects
+civic_bugged_evolutionary_architects:0 "Архитекторы-эволюционисты"
+civic_bugged_evolutionary_architects_desc:0 "Ученые этой цивилизации посвятили большую часть своих усилий пониманию происхождения жизни на своей планете."
+civic_tooltip_bugged_evolutionary_architects_effects:0 "Начинается с §YКартирование генома§! технологии\nНачинается с §Y12§! £pop£ населением другого вида с §YСимбиотические вид§! перком"
+
+civic_bugged_evolutionary_architects_secondary_species:0 "Симбиотические вид"
+
+trait_bugged_symbiotic:0 "Симбиотический"
+trait_bugged_symbiotic_desc:0 "§LЭтот вид эволюционировал вместе со вторым, более развитым видом, но они по-прежнему считаются равными основному виду Империи и составляют неотъемлемую часть их общества.§!"
+TRAIT_SYMBIOTIC_EFFECT:0 "Счастье: §G+20%§!\nУровень квалификации лидера: §R-1§!\nПриобретение опыта лидера: §R-15%§!\nМожет создавать §YЛидеровs§!\nНе может стать правителем империи"
+
+# Exalted State
+civic_bugged_exalted_state:0 "Возвышенное государство"
+civic_bugged_exalted_state_desc:0 "Это государство насаждает свою спиритуалистическую идеологию с помощью военной силы, поддерживая жесткий тоталитарный контроль над каждой гранью своего общества."
+civic_tooltip_bugged_exalted_state_effects:0 "£job_enforcer£ §YПравоохранители§! и £job_telepath£ §YТелепаты§! предоставить £stability£ §YСтабильность§! за счет снижения £crime£ §Yпреступности§!уменьшение."
+
+# Exhaustive Mining Acts
+civic_bugged_exhaustive_mining_acts:0 "Акты о добыче полезных ископаемых"
+civic_bugged_exhaustive_mining_acts_desc:0 "Эта нация очень мало заботится об окружающей среде и намерена извлечь все полезные материалы с каждой из своих планет, какие только возможно."
+civic_tooltip_bugged_exhaustive_mining_acts_effects:0 "Включает §YМир эксплойтов§! решение на планетах, которое увеличивает количество районов добычи на планете, но уменьшает обитаемость."
+
+# Fanatic Purifiers
+civic_tooltip_militarist_or_spiritualist:0 "Является ли некоторая степень §YМилитаристский§! либо §YСпиритуалист§!"
+
+# Free Haven
+civic_tooltip_free_haven_effects:0 "The §YXenoist§! faction provides additional approval for having more than §Y5§!, §Y7§!, and §Y10§! species in the empire"
+
+# Globalism
+civic_bugged_globalism:0 "Глобализм"
+civic_bugged_globalism_desc:0 "Это общество тянется к космосу не только из простого увлечения или желания познать неизвестное, они рассматривают космические путешествия как первый шаг к заключению новых деловых сделок с клиентами, о которых они и не подозревали."
+civic_tooltip_bugged_globalism_effects:0 "Планеты имеют повышенные шансы быть номинированными на проведение §YГалактический рынок§! через §YПовышение§!\nПовышенное мнение со стороны §YТорговый конгломерат§!\n §YБанкиры§! фракция будет  предоставлять дополнительные одобрение за нахождение в §YТорговая федерация§!"
+
+# Gravity Cult
+civic_bugged_gravity_cult:0 "Гравитационный культ"
+civic_bugged_gravity_cult_desc:0 "С момента своего появления представители этого вида были одержимы идеей о существовании некой мультиверсальной сущности, обитающей в местах большой концентрации массы. Теперь, когда они делают первые шаги в космос, этот вид стремится найти эту сущность, чего бы это ни стоило."
+civic_tooltip_bugged_gravity_cult_effects:0 "Может построить £building£ §YГравитационное аббатство§!\n$job_bugged_gravity_priest_effect_desc$\nПо завершении §YЧервь в ожидании§! цепочка событий или §YРазум превыше материи§!  привилегия вознесения  §YВызвать червя§! dразблокируется, позволяя изменить звезду в §YЧерная дыра§!.\nКорабли  §YСильнее§! в системах с черными дырами."
+civic_tooltip_not_cult:0 "НЕ имеет других §YКульт§! цивиков"
+
+# Harmonious Collective
+civic_bugged_harmonious_collective:0 "Гармоничный коллектив"
+civic_bugged_harmonious_collective_desc:0 "На протяжении всего развития этой цивилизации ее люди испытывали сильное чувство духовной общности."
+
+# Immutable Hierarchy
+civic_bugged_immutable_hierarchy:0 "Неизменная иерархия"
+civic_bugged_immutable_hierarchy_desc:0 "Крайне тоталитарное общество, где вся экономика находится под строгим контролем правительства, а граждане полностью преданы государству без необходимости принуждения."
+civic_tooltip_bugged_immutable_hierarchy_effects:0 "Невозможно использовать §YСвободный рынок§! экономическая позиция\nНевозможно использовать §YИнновации и прогресс§! торговая политика\n"
+
+# Industrial Democracy
+civic_bugged_industrial_democracy:0 "Индустриальная демократия"
+civic_bugged_industrial_democracy_desc:0 "Тип рыночной экономики, при котором обычные работники имеют значительную долю контроля над тем, что делают компании, на которые они работают, при этом ответственность распределяется между всеми."
+
+# Industrial Mechanization
+civic_bugged_industrial_mechanization:0 "Механизация промышленности"
+civic_bugged_industrial_mechanization_desc:0 "Это общество одержимо роботами и их применением, используя их для удовлетворения своих постоянно растущих материальных потребностей."
+civic_tooltip_bugged_industrial_mechanization_effects:0 "Начинается с §YРоботы-рабочие§! технологии\n Начинается с §Y8§! робот £pop£ §Yнаселением§!"
+
+# Innovative Economy
+civic_bugged_innovative_economy:0 "Инновационная экономика"
+civic_bugged_innovative_economy_desc:0 "Общество, которое следует экономической парадигме, в которой ключевым фактором являются постоянные технологические инновации в ущерб более культурным занятиям."
+civic_tooltip_bugged_innovative_economy_effects:0 "Начинается с §YИнновации и прогресс§! торговая политика разблокирована"
+
+# Interventionalist
+civic_bugged_interventionalist:0 "Интервенционист"
+civic_bugged_interventionalist_desc:0 "Будучи по природе своей открытой, принимающей культуры, отличные от их собственной, эта цивилизация все же не стесняется использовать военную силу, когда это считается оправданным для поддержания баланса между державами."
+civic_tooltip_bugged_interventionalist_effects:0 "Может  §YПрисоединяйтесь к войнам§! на стороне §Yобороняющейся стороне§! когда начинается война, независимо от отношений.\n§YИмпериалистическая§! Фракция обеспечивает одобрение §YОборонительные пакты§! и  §YОсвободительные войны§! политики\n §YИмпериалистическая§! Фракция не дает разрешения более чем на 1 §YСоперника§! и не требует §YАгрессивная дипломатия§!\nНевозможно использовать §YНеизбирательную§! Бомбардировочную политику"
+
+# Keepers of Harmony
+civic_bugged_keepers_of_harmony:0 "Хранители гармонии"
+civic_bugged_keepers_of_harmony_desc:0 "Люди этого общества разработали духовную систему, основанную на жизни в гармонии с природой и своей биосферой, отказавшись от многих мирских удовольствий для достижения этой цели."
+civic_tooltip_bugged_keepers_of_harmony_effects:0 "Начинается с возможности исследования §YНаземная скульптура§! технологии\n§YПланетарные характеристики§! и §YБлокеры§! дает £housing£ §YЖилье§!, £amenities£ §YДовольство§!, и £job_bugged_druid£ §YДруид§! рабочие места\n$job_bugged_druid_effect_desc$\n£building£ §YРайские купола§!  предоставлять дополнительные £housing£ §YЖилье§! aи £unity£ §YЕдинство§!\nМожно использовать §YИсцелить планету§! решение об удалении вредных §YБлокеры§!\n"
+
+# Life Cult
+civic_bugged_life_cult:0 "Культ жизни"
+civic_bugged_life_cult_desc:0 "Эти народы считают, что самое достойное веры - это духи самой жизни. Для этого они делают все возможное, чтобы изменить жизнь, превратив ее в подобие божества, в которое они верят."
+civic_tooltip_bugged_life_cult_effects:0 "Может построить £building£ §YГен Клуастер"§!\n$job_bugged_lifescribe_effect_desc$\n§YТрадиционалистская фракция§! предоставит разрешение на принятие §YБиологическое вознесение§! путь и §YФормирователи мира§! преимущество вознесения"
+
+# Luminosity Cult
+civic_bugged_luminosity_cult:0 "Культ Света"
+civic_bugged_luminosity_cult_desc:0 "Многие религии и системы верований придают определенное значение свету как источнику веры, это общество просто берет эту идею и расширяет ее до основного фокуса."
+civic_tooltip_bugged_luminosity_cult_effects:0 "Может построить £building£ §YАлтарь света§!\n$job_bugged_luminosity_priest_effect_desc$\nМожет освящать Звезды, чтобы получать ежемесячно £influence£ §YВлияние§! И £job_priest£ §YСвященник§! Производство."
+
+# Machine Cult
+civic_bugged_machine_cult:0 "Культ машин"
+civic_bugged_machine_cult_desc:0 "Эти народы поклоняются машинам как богам, используя силу своей веры для питания роботов и других искусственных интеллектов."
+civic_tooltip_bugged_machine_cult_effects:0 "Начинается с §YРоботы-рабочие§! технологии\nНачинаети с §Y4§! работами £pop£ §Yнаселение§! и a £building£ §YЗавод по сборке роботов§!\nМожно построить £building£ §YМеха-монастырь§!\n$job_bugged_techno_priest_effect_desc$\nThe §YТрадиционалист§! фракция обеспечит одобрение §YРобот§! £pop£ население и §YСинтетического§! пути  вознесению"
+
+# Martial Brotherhood
+civic_bugged_martial_brotherhood:0 "Братья по оружия"
+civic_bugged_martial_brotherhood_desc:0 "Вооруженные силы являются неотъемлемой частью культуры этого общества, выступая в качестве символов единства и сплоченности. Отдать свое время или себя в бой считается величайшей честью."
+civic_tooltip_bugged_martial_brotherhood_effects:0 "£job_soldier£ §YСолдаты§!  предоставлять дополнительные £unity£ §YЕдинство§!\n§YИмпериалистическая§! фракция обеспечивает дополнительное одобрение."
+
+# Militant Zealots
+civic_bugged_militant_zealots:0 "Воинствующие фанатики"
+civic_bugged_militant_zealots_desc:0 "Религиозные фундаменталисты, чьи армии поддерживают сильные традиции интенсивной физической и духовной подготовки, чтобы они всегда были готовы защитить свои религиозные убеждения от тех, кто может захотеть их осквернить."
+civic_tooltip_bugged_militant_zealots_effects:0 "Позволяет специальный указ - §YКрестовый Поход§!"
+
+# Mining Guilds
+civic_tooltip_mining_guilds_effects:0 "§YГорна промышленные§! Районы предоставляют дополнительные рабочие места и жилье, с дополнительным содержанием"
+
+# Natural Heritage
+civic_environmentalist:0 "Наследие природы"
+civic_environmentalist_desc:0 "В этом обществе природный капитал рассматривается как форма богатства, доступная всей нации, которая должна быть сохранена и использована только для общего блага."
+civic_tooltip_environmentalist_effects:0 "Преимущества от §YПланетарные характеристики§! и §YБлокеры§!\nНегативные последствия от §YБлокеры§! уменьшаются\n§YБлокеры§! предоставлять дополнительные §YПригодность для жизни§!, £happiness£ §YСчастье§!, и £unity£ §YЕдинство§!"
+
+# Naval Traditions
+civic_bugged_naval_traditions:0 "Традиции ВМФ"
+civic_bugged_naval_traditions_desc:0 "На заре существования этого общества они управляли своей планетой с помощью огромного флота военных кораблей. Это умение воевать на воде хорошо перешло и в космические сражения."
+
+# Ornamentarian
+civic_bugged_ornamentarian:0 "Орнаментальный"
+civic_bugged_ornamentarian_desc:0 "В отличие от большинства цивилизаций, которые совершенствовали свои металлургические навыки для создания оружия, это пацифистское общество использовало изобретенные ими металлы для создания различных безделушек и ювелирных изделий, что привело к формированию сильной культуры гордости за ремесленничество."
+civic_tooltip_bugged_ornamentarian_effects:0 "£job_foundry£ §Y$job_foundry_plural$§! производит дополнительно £unity£ §YЕдинство§! и £amenities£ §Yдовольство§!"
+
+# Paranoid Isolationism
+civic_inwards_perfection:0 "Параноидальный изоляционизм"
+civic_inwards_perfection_desc:0 "Когда жители этого ксенофобского общества начинают экспансию в космос, вопросы национальной безопасности и защиты границ выходят на первый план и ставятся превыше всего."
+civic_tooltip_inwards_perfection_effects:0 "£building£ §YГенераторы планетарных щитов§! увеличить планетарнок £unity£ §YЕдинство§! выход\nНельзя объявить другую империю в качестве §YСоперника§!\nНевозможно сформировать §YЗащитные пакты§!, §YМиграционные договоры§!, §YСоглашения о проведении исследований§!, и §YКоммерческие договоры§!\nНельзя §YГарантировать независимость§!, присоединиться или образовать §YФедерации§!, §YПроникнуть§! примитивные цивилизации или §YПринудительные субъекты§!\nНевозможно использовать §YНеограниченные войны§! политику"
+
+# Peaceful Commonwealth
+civic_bugged_peaceful_commonwealth:0 "Миролюбивое содружество"
+civic_bugged_peaceful_commonwealth_desc:0 "Сосредоточившись на жизни в мире и общинном процветании, эта цивилизация сумела достичь поразительного уровня социально-экономического прогресса."
+civic_tooltip_bugged_peaceful_commonwealth_effects:0 "Начинается с §YОбъект культурного наследия§! или §YГолографические ритуалы§! технологии\nПовышенное мнение со стороны §YКоллектив художников§!"
+
+# Peaceful Traders
+civic_bugged_peaceful_traders:0 "Мирные торговцы"
+civic_bugged_peaceful_traders_desc:0 "В этом обществе действует одно простое правило: мир - это хорошо для бизнеса. С этой целью значительная часть внешних и внутренних дел частично контролируется свободной коалицией независимых купцов и торговцев, которые работают вместе для достижения процветания."
+civic_tooltip_bugged_peaceful_traders_effects:0 "Начинается с §YВнеземные торговые компании§! технологии\n£building£ §YВнеземные торговые компании§!  предоставлять дополнительные £trade_value£ §YТорговая ценность§!\n§YТорговые комплексы§! имеют §G+1§! §YТорговый ассортимент коллекции§!\n£job_merchant£ §YТорговцы§!  предоставлять дополнительные £unity£ §YЕдинство§!\nНевозможно использовать §YВоенные перевозки§! политику"
+
+# Police State
+civic_tooltip_police_state_effects:0 "£job_enforcer£ §YПолиция§!  предоставлять дополнительные £unity£ §YЕдинство§!\n£building£ §YПолицейский участок§! и £building£ §YЗалы Правосудия§! повышенное £energy£ содержания"
+
+# Private Militaries
+civic_bugged_private_militaries:0 "Частные вооруженные силы"
+civic_bugged_private_militaries_desc:0 "Во время войны это общество традиционно полагается на наемников и частные военные корпорации, которые поставляют для него вооруженные силы."
+civic_tooltip_bugged_private_militaries_effects:0 "£building£ §Yкрепость§! и £building£ §YФортпосты§!  предоставлять дополнительные £job_bugged_mercenary£ §YНаемник§! рабочие места\n"
+
+# Research Cooperatives
+civic_bugged_research_cooperatives:0 "Исследовательские кооперативы"
+civic_bugged_research_cooperatives_desc:0 "Исследовательские усилия этого общества в основном организованы через правительственные кооперативы, в которых их усилия используются для того, что лучше для общества в целом."
+civic_tooltip_bugged_research_cooperatives_effects:0 "£building£ §YНаучно-исследовательский институт§! предоставляет дополнительные £unity£ §YЕдинство§!"
+
+# Republican Ideals
+civic_bugged_republican_ideals:0 "Республиканские идеи"
+civic_bugged_republican_ideals_desc:0 "Это общество полностью проникнуто идеей гражданской добродетели, когда каждый гражданин принимает активное участие в управлении государством в целом."
+civic_tooltip_not_spirit_of_freedom:0 "НЕ имеет §YРеспубликанские идеи§! цивик"
+
+# Rooftop Farmers
+civic_bugged_rooftop_farmers:0 "Фермеры на крыше"
+civic_bugged_rooftop_farmers_desc:0 "В культуре народов этой империи издавна принята идея содержания садов как символа стабильности и самодостаточности. По мере роста городов увеличивались размеры и художественное оформление этих садов, пока они не покрыли верх и бока почти каждого здания."
+civic_tooltip_bugged_rooftop_farmers_effects:0 "\nOne £job_clerk£ §YClerk§! from §YCity Districts§! are replaced by one £job_farmer£ §YFarmer§! job\n"
+
+# Ruthless Industrialism
+civic_bugged_ruthless_industrialism:0 "Безжалостный индустриализм"
+civic_bugged_ruthless_industrialism_desc:0 "Это капиталистическое общество рассматривает все природные ресурсы как то, что необходимо эксплуатировать для получения денежной прибыли, независимо от того, как это может повлиять на местную экологию."
+civic_tooltip_bugged_ruthless_industrialism_effects:0 "Может исследовать §YГлубокая добыча полезных ископаемых§! технологию\n §YПроизводители§! фракция обеспечит одобрение §YПотребительские преимущества§! торговая политика"
+
+# Slaving Despots
+civic_bugged_slaving_despots:0 "Деспоты-поработители"
+civic_bugged_slaving_despots_desc:0 "В экономике этого общества доминирует небольшое количество влиятельных людей, владеющих компаниями, которые специализируются на торговле рабами."
+civic_tooltip_bugged_slaving_despots_effects:0 "§YНадсмотрщик над рабами§! рабочие места производит дополнительное £unity£ §YЕдинство§!\nМожет построить §YНео-Колизей§! если нет §YФанатичный пацифист§!, что даёт £job_bugged_gladiator£ §YГладиатор§! jobs\n$job_bugged_gladiator_effect_desc$"
+
+# Slave Race
+civic_bugged_slave_race:0 "Рабская раса"
+civic_bugged_slave_race_desc:0 "Второй, физически грозный, вид составляет неотъемлемую часть рабочей силы этого общества. Представители доминирующих видов на планете считают этот вид меньшим, и их используют в качестве подопытных для многих генетических экспериментов."
+civic_tooltip_bugged_slave_race_effects:0 "Начинается с §YКартирование генома§! и §YНейронные имплантаты§! технологии\nНачинается с §Y12§! £pop£ население другого вида с §YРабский ген§! признаком\n"
+
+civic_bugged_slave_race_secondary_species:0 "Порабощенные виды"
+
+trait_bugged_slave_gene:0 "Рабский ген"
+trait_bugged_slave_gene_desc:0 "§LЭтот вид эволюционировал вместе со вторым, более развитым ксенофобным видом, который поработил их для выполнения рутинной работы, которую они считали ниже своего достоинства."
+TRAIT_SLAVE_GENE_EFFECT:0 "Производство из рабочих мест: §G+15%§!\nАрмейский урон: §G+15%§!\nСкорость роста населения: §R-15%§!\nНевозможно получить §YЛидеров§!\nCc не может быть использована в §YПравитель§! и §YСпециалист§! рабочие места"
+
+# Socialistic Ideals
+civic_shared_burden:0 "Социалистические идеалы"
+civic_shared_burden_desc:0 "Это общество сохраняет идеалы традиционного социализма, которые выражаются в общественной собственности на средства производства и справедливом распределении ресурсов с целью обеспечения социального, политического и экономического равенства для всех."
+civic_tooltip_shared_burden_effects:0 "§YГородские районы§!  предоставлять дополнительные £housing£ §YЖилье§!\n£job_politician£ §YПолитики§!  предоставлять дополнительные £amenities£ §YДовольствр§!\n§YСельские районы§! обеспечить дополнительную работу с §R+15%§! содержание\n$job_bugged_labour_hero_effect_desc$\nДолжен использовать §YСоциальное обеспечение§! Уровень жизни\n§YЛейбористы§! фракция будет  предоставлять дополнительные одобрение"
+
+# Spirit of Freedom
+civic_beacon_of_liberty:0 "Дух свободы"
+civic_beacon_of_liberty_desc:0 "Это общество идеализировало личную свободу, считая превыше всего право человека на преследование и реализацию собственных целей и амбиций."
+civic_tooltip_beacon_of_liberty_effects:0 "Может построить §YЧастные корабли колонии§!\nНельзя использовать §YПлановая экономика§! экономический курс\nНельзя §YПереселить§! £pop£ население и §YКонтролируемое население§!\nНевозможно устанавливать §YСоциальное обеспечение§! Уровень жизни"
+
+# Spiritual Seekers
+civic_bugged_spiritual_seekers:0 "Духовные искатели"
+civic_bugged_spiritual_seekers_desc:0 "Население этого общества в первую очередь озабочены развитием своей способности достигать состояния истинного внутреннего покоя."
+civic_tooltip_bugged_spiritual_seekers_effects:0 "The £building£ §YСистема Капитал-Комплект§! и £building£ §YCitadel of Faith§! each provide an additional £job_bugged_transcended£ §YTranscended§! job\n$job_bugged_transcended_effect_desc$\nHas an increased chance to get the §YPsionic Theory§! research option"
+
+# Star Seekers
+civic_bugged_star_seekers:0 "Искатели звёзд"
+civic_bugged_star_seekers_desc:0 "Эта цивилизация отправилась в космос исключительно ради острых ощущений, связанных с разгадкой тайны, в отличие от амбиций более империалистических империй."
+civic_tooltip_bugged_star_seekers_effects:0 "Начинается с §YПротоколы автоматизированной разведки§!технологии\nНевозможно использовать §YВоенные коммуникации§! политику"
+
+# Star Settlers
+civic_bugged_star_settlers:0 "Звездные поселенцы"
+civic_bugged_star_settlers_desc:0 "Эта цивилизация всегда отличалась сильным духом поселенца, стремясь исследовать и узнать все, что можно, о планете, на которой они жили. Теперь, когда они вышли на галактическую арену, это стремление сохраняется, поскольку они стремятся мирно колонизировать все, что могут."
+civic_tooltip_bugged_star_settlers_effects:0 "Начинается с §YГалактические амбиции§! технология\n£job_colonist£ §YКолонисты§! производит дополнительно £unity£ §YЕдинство§!\nНевозможно использовать §YВоенные перевозки§! и §YВоенные коммуникации§! политику"
+
+# Tribalism
+civic_bugged_tribalism:0 "Трайбализм"
+civic_bugged_tribalism_desc:0 "Это общество когда-то было одной из сотен подобных групп, которые боролись за контроль над своей родной планетой, что привело к формированию сильной ксенофобской культуры, в которой сильно развито чувство общности."
+
+# Universalism
+civic_bugged_universalism:0 "Универсализм"
+civic_bugged_universalism_desc:0 "Эта цивилизация была выведена в космос, чтобы способствовать миру и дружбе между всеми разумными существами в галактике."
+civic_tooltip_bugged_universalism_effects:0 "Быть участником§YФедерации§!, §YДоговор о ненападении§!, или §YДоговор на проведение исследований§! не стоит £influence£ §YВлиянияния§! для обслуживания\n§YКсенофилские§! фракция предоставляет дополнительное одобрение за членство в §YФедерация§!\nВозвышение примитивного вида дает толчок к развитию всей империи. £unity£ §YЕдинство§! и £society£ §YСоциальные исследования§! производство\nНе может быть §Yсоперничить§! с другими империями"
+
+# War Cult
+civic_bugged_war_cult:0 "Культ войны"
+civic_bugged_war_cult_desc:0 "Это общество покланяется войне и битвам как  божеству, и в знак своей веры они довели свое военное и боевые искусства почти до совершенства."
+civic_tooltip_bugged_war_cult_effects:0 "Can build £building£ §YAltar of Battle§!\n$job_bugged_warrior_priest_effect_desc$\nGains §G+10%§! monthly £unity£ §YЕдинство§! for 7 years from won wars and Loses §R-10%§! monthly £unity£ §YЕдинство§! for 7 years from lost wars"
+
+# War Engineers
+civic_bugged_war_engineers:0 "Военные инженеры"
+civic_bugged_war_engineers_desc:0 "Это общество имеет долгую историю сильно развитой военной промышленности, и в настоящее время известно, что оно создает лучшие орудия войны, хотя их стоимость высока."
+civic_tooltip_bugged_war_engineers_effects:0 "Увеличение стоимость для §YКорабельные технологии§!."
+
+# Welfare State
+civic_bugged_welfare_state:0 "Государство всеобщего благосостояния"
+civic_bugged_welfare_state_desc:0 "В этом обществе государство играет ключевую роль в защите своих граждан, обеспечивая нуждающихся."
+civic_tooltip_bugged_welfare_state_effects:0 "§YГородские районы§!  предоставлять дополнительные £housing£ §YЖилье§!\n£job_politician£ §YПолитики§!  предоставлять дополнительные £amenities£ §YДовольство§!\n§YСельские районы§! обеспечить дополнительную работу с §R+15%§! содержание\nДолжен использовать §YСоциальное обеспечение§! Уровень жизни"
+
+##############################
+### Standard Ethics ##########
+##############################
+
+# Anthropocentric
+ethic_anthropocentric:0 "Антропоцентрический"
+ethic_anthropocentric_desc:0 "§LТе, кто считает себя хозяевами своей биосферы и имеет моральное право эксплуатировать природу и ее ресурсы ради собственного процветания, будут расти дальше тех, кто боится прогресса.§!"
+civic_tooltip_anthropocentric:0 "Является ли некоторая степень §YАнтропоцентрический§!"
+civic_tooltip_not_anthropocentric:0 "Не является §YАнтропоцентрический§!"
+
+ethic_fanatic_anthropocentric:0 "Фанатичный антропоцентризм"
+ethic_fanatic_anthropocentric_desc:0 "§LБлагодаря нашим изобретениям мы смогли поднять цивилизацию из праха наших примитивных предков. Теперь мы продолжим этот прогресс, чтобы возвыситься над всем остальным, что стоит на нашем пути, невзирая на цену.§!"
+civic_tooltip_fanatic_anthropocentric:0 "Является§YФанатичный антропоцентризм§!"
+civic_tooltip_not_fanatic_anthropocentric:0 "Не является §YФанатичный антропоцентризм§!"
+
+mod_pop_ethic_anthropocentric_attraction_mult:0 "Антропоцентрическая этика Привлекательность"
+
+anthropocentric_unrest:0 "Беспокойство (Антропоцентрическое влечением)"
+
+promoted_anthropocentric:0 "Пропаганда антропоцентризма"
+promoted_anthropocentric_desc:0 "§HАнтропоцентризма§! Этика поощряется правительством."
+
+suppressed_anthropocentric:0 "Anthropocentrism Suppressed"
+suppressed_anthropocentric_desc:0 "§HАнтропоцентризма§! Этика подавляется правительством."
+
+LITHOID_EMPIRE:0 "§E§HFarmers§! производит дополнительно §HЕДУ§! если §HОрганическая§!\n§HШахтеры§! производит дополнительно §HМинералы§! если §HЛитоиды§!§!"
+CANT_RECYCLE:0 "§EThe §HRecycling Campaign§! Edict Не является available§!"
+DEEP_CORE_MINING:0 "§EМожет построить §HТермическая скважина§! здание§!"
+
+# Authoritarian
+ethic_fanatic_collectivist_desc:0 "Единый голос, единый трон, единое государство. Торжественный долг масс - повиноваться тому, кто просветился и поднялся до великой задачи руководства своей нацией.§!"
+civic_tooltip_authoritarian:0 "Является ли некоторая степень §YАвторитарный§!"
+civic_tooltip_not_authoritarian:0 "Не является §YАвторитарный§!"
+
+MORE_ENFORCER_JOBS:0 "§E§HСтоличные сооружения§! предоставлять дополнительные §HПолицейский§! рабочие место§!"
+
+# Competitive
+ethic_competitive:0 "Конкуренция"
+ethic_competitive_desc:0 "§LЛичные амбиции - двигатель прогресса. Желание совершенствоваться, стремление к достижению великой цели и все остальные мотивы, направленные на создание более светлого завтра. Без этой страсти цивилизация обречена на жизнь в стагнации.§!"
+civic_tooltip_competitive:0 "Является в некоторой степени §YКонкуренции§!".
+civic_tooltip_not_competitive:0 "Не является §YКонкуренции§!"
+civic_tooltip_competitive_or_elitist:0 "Является некоторой степенью §YКонкуренции§! или §YЭлитарной§!".
+
+ethic_fanatic_competitive:0 "Фанатичный конкуренция"
+ethic_fanatic_competitive_desc:0 "§LНет более сильного императива, чем призыв к совершенству. Из столкновения амбиций рождаются большие состояния, а вместе с ними приходят еще большие стремления. Колесо вращается, расплющивая под собой непригодных, но воспитывая новое поколение тех, кто способен повернуть ось прогресса.§!"
+civic_tooltip_fanatic_competitive:0 "Является §YФанатичный конкуренции§!"
+civic_tooltip_not_fanatic_competitive:0 "Не является §YФанатичный конкуренции§!"
+
+mod_pop_ethic_competitive_attraction_mult:0 "Привлечение  этики конкуренции"
+
+competitive_unrest:0 "Беспорядки (Конкурентное притяжение)"
+
+promoted_competitive:0 "Продвижение конкуренции"
+promoted_competitive_desc:0 "§HКонкуренции§! Этика поощряется правительством."
+
+suppressed_competitive:0 "Продвижение конкуренции"
+suppressed_competitive_desc:0 "§HКонкуренция§! Этика подавляется правительством."
+
+NO_CAMPAIGNS:0 "§EНевозможно использовать §YПитательное изобилие§! и §YОбразовательная кампания§! Указ§!"
+
+# Cooperative
+ethic_cooperative:0 "Кооперация"
+ethic_cooperative_desc:0 "§LКомандная работа - двигатель прогресса. Работая бок о бок, мы можем стать чем-то большим, чем сумма наших частей: великим живым организмом, каждый из нас - клетка, старательно выполняющая поставленные перед ней задачи на благо целого.§!"
+civic_tooltip_cooperative:0 "Является в некоторой степени §YКооперация§!"
+civic_tooltip_not_cooperative:0 "Не является §YКооперация§!"
+
+ethic_fanatic_cooperative:0 "Фанатичный кооперация"
+ethic_fanatic_cooperative_desc:0 "§LНет большего императива, чем призыв найти свое место. Отдавать себя и делиться общими плодами. Бескорыстное накопление богатства, земли и капитала - это опухолевые симптомы более серьезной болезни ума. От которой мы поспешим избавиться.§!"
+civic_tooltip_fanatic_cooperative:0 "Является §YФанатичный кооперация§!"
+civic_tooltip_not_fanatic_cooperative:0 "Не является §YФанатичный кооперация§!"
+
+mod_pop_ethic_cooperative_attraction_mult:0 "Кооперативная этика Привлечение"
+
+cooperative_unrest:0 "Беспорядки (совместное привлечение)"
+
+promoted_cooperative:0 "Продвижение  классового сотрудничества"
+promoted_cooperative_desc:0 "§Hкооперация§! Этика поощряется правительством."
+
+suppressed_cooperative:0 "Сотрудничество классовое подавляется"
+suppressed_cooperative_desc:0 "§Hкооперация§! Этика подавляется правительством."
+
+FANATIC_ETHIC_Позволяет_UTOPIA:0 "§EПозволяет §HУтопическое изобилие§! Уровень жизни\nПозволяет §HОбщее бремя§! Уровень жизни§!"
+
+COOPERATIVE_ETHIC_Позволяет_WELFARE:0 "§EПозволяет §HОбщее бремя§! Уровень жизни\nСочетание с §HПлюрализм§! Позволяет §HУтопическое изобилие§! Уровень жизни§!"
+
+# Ecocentric
+ethic_ecocentric:0 "Экоцентризм"
+ethic_ecocentric_desc:0 "§LКаждый шаг вперед, сделанный нашим видом, каждое научное открытие, каждый памятник нашему величию - все они были построены на фундаменте, подаренном нам биосферой нашей родной планеты. Теперь, когда у нас есть возможность, пришло время позаботиться о том, чтобы дары природы продолжали передаваться следующим поколениям.§!"
+civic_tooltip_ecocentric:0 "Является ли некоторая степень §YЭкоцентризмом§!"
+civic_tooltip_not_ecocentric:0 "Не является §YЭкоцентризм§!"
+
+ethic_fanatic_ecocentric:0 "Фанатичный Экоцентризм"
+ethic_fanatic_ecocentric_desc:0 "§LПо замыслу или вопреки обстоятельствам, мы родились во вселенной трансцендентной природной красоты, и мы не остановимся ни перед чем, чтобы обеспечить ее дальнейшую презентацию.§!"
+civic_tooltip_fanatic_ecocentric:0 "Является §YФанатичный Экоцентризм§!"
+civic_tooltip_not_fanatic_ecocentric:0 "Не является §YФанатичный Экоцентризм§!"
+
+mod_pop_ethic_ecocentric_attraction_mult:0 " Экоцентризм Привлечение этики"
+
+ecocentric_unrest:0 "Беспорядки (Экоцентрическое притяжение)"
+
+promoted_ecocentric:0 "Пропаганда экоцентризма"
+promoted_ecocentric_desc:0 "§HЭкоцентризм§! Этика поощряется правительством."
+
+suppressed_ecocentric:0 "Подавление экоцентризма"
+suppressed_ecocentric_desc:0 "§HЭкоцентризм§! Этика подавляется правительством."
+
+BLOCKERS_BENEFITS:0 "§EПриродные планетарные §HБлокираторы§! производит §HЕдинство§! и §HДовольство§!§!"
+WASTE_RECYCLING:0 "§E§HРемесленник§! и §HМеталлург§! уменьшилось количество рабочих мест§!"
+NATURE_RESERVE:0 "§EМожет построить §HПриродный заповедник§! здание§!"
+
+# Elitist
+ethic_elitist:0 "Элитизм"
+ethic_elitist_desc:0 "§LВ великом танце цивилизации мы должны признать, что каждый индивид играет свою роль. Для многих эта роль заключается в том, чтобы стоять у основания нашего общества, трудиться, чтобы у других была возможность использовать свои таланты во имя великой цели.§!"
+civic_tooltip_elitist:0 "Есть ли некоторая степень §YЭлитизма§!"
+civic_tooltip_not_elitist:0 "Не является §YЭлитистом§!"
+civic_tooltip_elitist_or_xenophobe:0 "Является ли некоторая степень §YЭлитарный§! или §Yксенофоб§!"
+
+ethic_fanatic_elitist:0 "Фанатичный Элитизм"
+ethic_fanatic_elitist_desc:0 "§LБыть на вершине общества - все равно что пасти стадо скота. Беспорядочные массы, которые немногим лучше животных, нуждаются в руководстве тех, кому суждено обладать необходимым интеллектом, видением и силой, чтобы быть направляющей рукой цивилизации.§!"
+civic_tooltip_fanatic_elitist:0 " Является §YФанатичный Элитистом§!"
+civic_tooltip_not_fanatic_elitist:0 "Не является §YФанатичный Элитистом§!"
+
+mod_pop_ethic_elitist_attraction_mult:0 "Привлечение элитарной этики"
+
+elitist_unrest:0 "Беспорядки (Элитарное влечение)"
+
+promoted_elitist:0 "Пропаганда элитизма"
+promoted_elitist_desc:0 "§HЭлитизм§! Этика поощряется правительством."
+
+suppressed_elitist:0 "Элитарность подавлена"
+suppressed_elitist_desc:0 "§HЭлитизм§! Этика подавляется правительством."
+
+ELITIST_ETHIC_Позволяет_STRATIFIED:0 "§EПозволяет §HСтратифицированная экономикаy§! Уровень жизни§!"
+
+# Libertarian
+ethic_egalitarian:0 "Либертарианство"
+ethic_egalitarian_desc:0 "§LПозволяя одному человеку контролировать все происходящее в стране, мы просто напрашиваемся на приход к власти тиранического правителя. Чтобы предотвратить это, был создан ряд сдержек и противовесов, обеспечивающих свободу наших граждан. §!"
+civic_tooltip_egalitarian:0 "Является ли некоторая степень §YЛибертарианство§!"
+civic_tooltip_not_egalitarian:0 "Не является §YЛибертарианство§!"
+
+ethic_fanatic_egalitarian:0 "Фанатичный либертарианство"
+ethic_fanatic_egalitarian_desc:0 "§LДля того чтобы свободы нашего народа были защищены, каждый гражданин должен иметь право голоса и возможность выбирать, как его правительство будет выбирать и проводить свою политику.§!"
+civic_tooltip_fanatic_egalitarian:0 "Является §YФанатичный либертарианство§!"
+civic_tooltip_not_fanatic_egalitarian:0 "Не является §YФанатичный либертарианство§!"
+
+mod_pop_ethic_egalitarian_attraction_mult:0 "Привлечение либертарианской этики"
+
+egalitarian_unrest:0 "Беспорядки (Либертарианское влечение)"
+
+promoted_egalitarian:0 "Пропаганда либертарианства"
+promoted_egalitarian_desc:0 "§Hлибертарианства§! Этика поощряется правительством."
+
+suppressed_egalitarian:0 "Либертарианство подавлено"
+suppressed_egalitarian_desc:0 "§Hлибертарианства§! Этика подавляется правительством."
+
+# Pluralist
+ethic_pluralist:0 "Плюрализм"
+ethic_pluralist_desc:0 "§LМы не ограничиваем возможности в зависимости от социального класса, в котором родился человек. Представьте себе количество удивительных научных открытий и художественных шедевров, которые никогда бы не появились, если бы мы ограничивали ресурсы в зависимости от обстоятельств рождения.§!"
+civic_tooltip_pluralist:0 "Является ли некоторая степень §YPluralism§!"
+civic_tooltip_not_pluralist:0 "Не является §YPluralism§!"
+
+ethic_fanatic_pluralist:0 "Фанатичный Плюрализм"
+ethic_fanatic_pluralist_desc:0 "§LМы все достойны одинакового достоинства и уважения, поскольку в каждом из нас заложен потенциал величия, гениальности и даже спасения нашего вида. Даже если мы не все рождаемся равными, какое это имеет значение, когда мы способны расти к равенству.?§!"
+civic_tooltip_fanatic_pluralist:0 "Является §YФанатичный Плюрализм§!"
+civic_tooltip_not_fanatic_pluralist:0 "Не является §YФанатичный Плюрализм§!"
+
+mod_pop_ethic_pluralist_attraction_mult:0 "Привлечение плюралистической этики"
+
+pluralist_unrest:0 "Беспорядки (Плюралистическое притяжение)"
+
+promoted_pluralist:0 "Продвижение плюрализма"
+promoted_pluralist_desc:0 "§HПлюрализм§! Этика поощряется правительством."
+
+suppressed_pluralist:0 "Плюрализм подавляется"
+suppressed_pluralist_desc:0 "§HПлюрализм§! Этика подавляется правительством."
+
+PLURALIST_ETHIC_Позволяет_WELFARE:0 "§EПозволяет §HОбщее бремя§! Уровень жизни\nСочетание с §HКооператив§! Позволяет §HУтопическое изобилие§! Уровень жизни§!"
+
+# Spiritualist
+ETHIC_MORE_ATTRACTIVE:0 "§EЭтика - это §H20%§! Более привлекательный§!"
+
+# Focused (Only used by Fallen Empires and other similar entities)
+ethic_focused:0 "Ориентированный"
+ethic_focused_desc:0 "§LЭта империя посвятила весь свой культурный прогресс и самобытность развитию единственного идеала, который каждый человек от всего сердца воплощает в своей повседневной жизни.§!"
+
+# Mixed Ethics
+civic_tooltip_auth_or_comp:0 "Является ли некоторая степень §YАвторитарный§! или §YКонкуренции§!"
+civic_tooltip_egal_or_coop:0 "Является ли некоторая степень §YЛибертарианство§! или §YКооператив§!"
+
+##############################
+### Technologies #############
+##############################
+
+# Advanced Biosphere Recreation (Nature Reserve)
+tech_bugged_nature_reserve:0 "Продвинутый биосферный отдых"
+tech_bugged_nature_reserve_desc:0 "Благодаря нашим достижениям в редактировании генов и локальном терраформировании, мы теперь можем создавать заповедники и природные парки, намного превосходящие все, что могли себе представить наши предки."
+
+# Agriculture Consortium (Agricultural Subsidies)
+tech_bugged_agri_consortium: "Сельскохозяйственный консорциум"
+tech_bugged_agri_consortium_desc:0 "По всей галактике множество съедобных материалов выбрасывается из-за перепроизводства. Покупка этих продуктов может позволить голодающим получить свою порцию".
+tech_bugged_agri_consortium_effects:0 "§HОтменяет торговую политику:§! Сельскохозяйственные субсидии"
+tech_bugged_agri_consortium_effects_desc:0 "§HСубсидии на сельское хозяйство§!\n$trade_policy_bugged_agriculture_desc$"
+
+# Civilian Research Initiatives (Innovation and Progress)
+tech_bugged_innovations:0 "Гражданские исследовательские инициативы"
+tech_bugged_innovations_desc:0 "Новые исследования в области личных стимулов и асинхронных вычислений позволили гражданским лицам легче помогать в исследовательской деятельности империи."
+tech_bugged_innovations_effects:0 "§HРазблокирует торговую политику:§! Инновации и прогресс"
+tech_bugged_innovations_effects_desc:0 "§HИнновации и прогресс§!\n$trade_policy_bugged_innovative_economy_desc$"
+
+# Deep Core Mining (Thermal Borehole)
+tech_bugged_thermal_borehole:0 "Глубокая добыча полезных ископаемых"
+tech_bugged_thermal_borehole_desc:0 "Почему мы должны ограничивать себя устаревшими идеями \"зеленой жизни\", когда есть такое богатство полезных ископаемых прямо под нашими нижними придатками?".
+
+# Hyperefficient Governing Protocols (Centralized State)
+tech_bugged_centralized_state:0 "Гиперэффективные протоколы управления"
+tech_bugged_centralized_state_desc:0 "Благодаря последним достижениям в вычислительных технологиях и системах управления, теперь законы империи могут быть полностью унифицированы между каждой системой, обеспечивая более тщательную сплоченность общества."
+tech_bugged_centralized_state_effects:0 "§HРазблокирует политику:§! Централизованное государство"
+tech_bugged_centralized_state_effects_desc:0 "§HЦентрализованное государство§!\n$bugged_centralized_state_desc$"
+
+# Hyperflexible Governing Protocols (Federalized State)
+tech_bugged_federalized_state:0 "Гипергибкие основы управления"
+tech_bugged_federalized_state_desc:0 "Использование новых методов связи и транспорта позволяет местным правовым органам более эффективно запрашивать материалы у центрального правительства, что позволяет более тщательно разделять другие части их администрации."
+tech_bugged_federalized_state_effects:0 "§HРазблокирует политику:§! Федерализованное государство"
+tech_bugged_federalized_state_effects_desc:0 "§HФедерализованное государство§!\n$bugged_federalized_state_desc$"
+
+# Mining Consortium (Mining Subsidies)
+tech_bugged_mining_consortium:0 "Горнодобывающий консорциум"
+tech_bugged_mining_consortium_desc:0 "Стимулируя эксплуатацию богатых минералами астероидов и других планетарных тел, строительство всего, что нужно империи, может вестись с невиданной ранее скоростью."
+tech_bugged_mining_consortium_effects:0 "§HРазблокирует торговую политику:§! Субсидии на добычу полезных ископаемых"
+tech_bugged_mining_consortium_effects_desc:0 "§HMining Subsidies§!\n$trade_policy_bugged_mining_desc$"
+
+# Neo-Collectivist Theory (Planned Economy)
+tech_bugged_planned_economy:0 "Неоколлективистская теория"
+tech_bugged_planned_economy_desc:0 "Интеграция большинства крупных отраслей промышленности в государственную систему позволяет максимально повысить эффективность за счет гипервертикальных цепочек поставок."
+tech_bugged_planned_economy_effects:0 "§HРазблокирует политику:§! Плановая экономика"
+tech_bugged_planned_economy_effects_desc:0 "§HПлановая экономика§!\n$economic_stance_bugged_planned_economy_desc$"
+
+# Neo-Mercantilist Theory (Free Market)
+tech_bugged_free_market:0 "Нео-меркантилистская теория"
+tech_bugged_free_market_desc:0 "Передав производство и распределение энергии частным корпорациям, можно значительно сократить расходы на управление империей."
+tech_bugged_free_market_effects:0 "§HРазблокирует политику:§! Свободный рынок"
+tech_bugged_free_market_effects_desc:0 "§HСвободный рынок§!\n$economic_stance_bugged_free_market_desc$"
+
+# Societal Modeling (Social Development, effects_desc hardcoded because it didn't want to play nice with variable)
+tech_bugged_social_development:0 "Социальное моделирование"
+tech_bugged_social_development_desc:0 "Благодаря развитым моделям межличностных отношений, прихоти индивида могут быть тонко вылеплены в любую форму, необходимую империи."
+tech_bugged_social_development_effects:0 "§HРазблокирует торговую политику:§! Социальное развитие"
+tech_bugged_social_development_effects_desc:0 "§HСоциальное развитие§!\nВ каждом обмене товарами между двумя людьми есть возможность лучше понять, что побуждает людей делать то, что они делают. Мы должны сосредоточить наши усилия в области торговли на всем, что позволяет нам лучше понять, что заставляет нас работать.\n\n§EКаждый единица £trade_value£ §YТорговая ценность§! приносит нам доход £energy£ §Y0.25§! and £society£ §Y0.25§!§!\nPop Growth Speed: §G+5%§!\nAmenities: §G+15%§!"
+
+
+########################
+## Tech Categories #####
+########################
+
+# Economics
+bugged_good_trading:0 "Экономика"
+bugged_good_trading_desc:0 "Искусство максимизации стимула при минимизации неэффективности."
+leader_trait_expertise_bugged_good_trading:0 "Экспертиза: Экономика"
+leader_trait_expertise_bugged_good_trading_desc:0 "Этот лидер после многих лет обучения считается экспертом в области экономики."
+mod_category_bugged_good_trading_research_speed_mult:0 "Скорость исследований (экономика)"
+
+
+
+##############################
+### Traits ###################
+##############################
+
+# Distinguished
+leader_trait_bugged_distinguished:0 "Выдающийся"
+leader_trait_bugged_distinguished_desc:0 "§LЭтот лидер извлек большую пользу из системы военно-морского образования, которую предоставляет империя, и сейчас считается одним из лучших адмиралов в галактике.§!"
+
+# Hive-Minded (With Happiness)
+trait_bugged_happy_hive:0 "Ульевой"
+trait_bugged_happy_hive_desc:0 "§LЭтот вид состоит из полуавтономных особей, подчиненных единому, непостижимо огромному сознанию.§!"
+
+# Machine (With Happiness)
+trait_bugged_happy_machine:0 "Машина"
+trait_bugged_happy_machine_desc:0 "§LЭтот вид состоит из исполнительных терминалов единого машинного интеллекта, изначально созданного органиками.§!"
+
+
+
+##############################
+### Worker Jobs ##############
+##############################
+
+# Anglers
+mod_job_angler_per_pop:0 "§G+1§! $job_angler$ per $VALUE$ Pops"
+
+# Druid
+job_bugged_druid:0 "Друид"
+job_bugged_druid_plural:0 "Друиды"
+job_bugged_druid_desc:0 "Друиды проповедуют святость природного порядка и выступают в качестве целителей общества, как на физическом, так и на духовном уровне."
+job_bugged_druid_effect_desc:0 "£job_bugged_druid£ $job_bugged_druid_plural$ производить £unity£ §YЕдинство§!,снижает £crime£ §YПреступление§!, и увеличивает £mod_pop_growth_speed£ §YСкорость роста население на планете§!"
+mod_job_bugged_druid_add:0 "$job_bugged_druid$ Рабочие места"
+mod_job_bugged_druid_per_pop:0 "§G+1§! $job_bugged_druid$ на $VALUE$ население"
+# Gladiator
+job_bugged_gladiator:0 "Гладиатор"
+job_bugged_gladiator_plural:0 "Гладиаторы"
+job_bugged_gladiator_desc:0 "Вооруженный боец, который сражается для развлечения масс на больших общественных аренах. Во время войны таких людей часто призывают на помощь для защиты своей планеты."
+job_bugged_gladiator_effect_desc:0 "£job_bugged_gladiator£ $job_bugged_gladiator_plural$ превращает £alloys£ §YСплавы§! в £amenities£ §YДовольства§!, £mod_country_naval_cap_add£ §YВместимость флота§!, и £defense_army£ §YОборонительные армии§!"
+mod_job_bugged_gladiator_add:0 "$job_bugged_gladiator$ Рабочие места"
+mod_job_bugged_gladiator_per_pop:0 "§G+1§! $job_bugged_gladiator$ на $VALUE$ население"
+
+# Imperial Enforcer
+job_bugged_imperial_enforcer:0 "Имперская гвардия"
+job_bugged_imperial_enforcer_plural:0 "Имперская гвардия"
+job_bugged_imperial_enforcer_desc:0 "Имперская гвардия, служит для обеспечения и соблюдения законов, установленных его работодателем, независимо от того, какими могут быть эти законы."
+job_bugged_imperial_enforcer_effect_desc:0 "£job_bugged_imperial_enforcer_add£ $job_bugged_imperial_enforcer_plural$ turn £energy£ §YЭнергетические кредиты§! into £unity£ §YЕдинство§!, £mod_trade_value_add£ §YТорговая ценность§!, £defense_army£ §YDefense Armies§!, and a decrease in £crime£ §YCrime§!"
+mod_job_bugged_imperial_enforcer_add:0 "$job_bugged_imperial_enforcer$ Рабочие места "
+mod_job_bugged_imperial_enforcer_per_pop:0 "§G+1§! $job_bugged_imperial_enforcer$ на $VALUE$ население"
+
+# Labour Hero
+job_bugged_labour_hero:0 "Герой труда"
+job_bugged_labour_hero_plural:0 "Герой труда"
+job_bugged_labour_hero_desc:0 "Человек, получивший признание и награду за выдающиеся способности делать все, что от него требуется."
+job_bugged_labour_hero_effect_desc:0 "£job_bugged_labour_hero£ $job_bugged_labour_hero_plural$ производит £energy£ §YЭнергетические кредиты§!, £food£ §YЕду§!, £minerals£ §YМинералы§!"
+mod_job_bugged_labour_hero_add:0 "$job_bugged_labour_hero$ Рабочие места"
+mod_job_bugged_labour_hero_per_pop:0 "§G+1§! $job_bugged_labour_hero$ на $VALUE$ население"
