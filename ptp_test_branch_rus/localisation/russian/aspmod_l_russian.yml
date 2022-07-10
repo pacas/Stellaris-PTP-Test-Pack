@@ -42,8 +42,8 @@
  LSD_archology_fast:0 "ASP Помощник по тестированию модов"
 
  ### decisions ###
- decision_asp_digsite_selection:0 "ASP Выбор модификаций раскопок"
- decision_asp_digsite_selection_desc:0 "Нажмите, чтобы загрузить селектор сайтов."
+ decision_asp_digsite_selection:0 "ASP: Селектор раскопок"
+ decision_asp_digsite_selection_desc:0 "Нажмите, чтобы загрузить селектор раскопок."
 
  ### buildings ###
  building_aspmod_primitive_factory:0 "$building_primitive_factory$"
@@ -85,11 +85,6 @@
  asptest.2.12:0 "Археология: $ASP_site_parasite_machine$"
 
  #################### Archaeology Story Pack Contents ####################
-
- ### modifiers ###
- mod_damage_vs_country_type_tiyanki_mult:0 "Урон по космическим китам Тиянки"
- mod_country_base_physics_research_produces_add:0 "Ежемесячно $physics_research$"
-
  ### deposits ###
  aspmod_d_society_20:0 "£society£ +20"
  aspmod_d_small_creature_memorial:0 "Мемориальный парк моллюсков"
@@ -106,10 +101,10 @@
  ASP_SIGNAL_ANALYSIS_OF_MACHINE_PROJECT_DESC:0 "Мы должны проанализировать последний сигнал машины, который мы записали в [Root.GetName]. Это займет много времени, но ответит на многие вопросы, которые задают наши ученые."
  ASP_KESSLER_SYNDROME_STORAGE_RESTORE_PROJECT:0 "Восстановление хранилища данных"
  ASP_KESSLER_SYNDROME_STORAGE_RESTORE_PROJECT_DESC:0 "Мы нашли хранилище данных внутри останков огромного космического корабля, находящегося на [From.Planet.GetName]. Мы сможем восстановить некоторые из его данных."
- ASP_AI_RE_PROGRAMMING_PROJECT:0 "Перепрограммирование итератора"
- ASP_AI_RE_PROGRAMMING_PROJECT_DESC:0 "Этот искусственный интеллект, полученный в Мире дождя, когда-то назывался Итератором и использовался древней цивилизацией на планете для решения религиозных проблем. Теперь мы можем сбросить его программу, чтобы он работал на нас."
+ ASP_AI_RE_PROGRAMMING_PROJECT:0 "Перепрограммирование Итератора"
+ ASP_AI_RE_PROGRAMMING_PROJECT_DESC:0 "Этот искусственный интеллект, полученный в мире дождей, когда-то назывался Итератором и использовался древней цивилизацией на планете для решения религиозных проблем. Теперь мы можем сбросить его программу, чтобы он работал на нас."
  ASP_WHITE_MOLLUSC_MAMMAL_PROJECT:0 "Белый моллюск"
- ASP_WHITE_MOLLUSC_MAMMAL_PROJECT_DESC:0 "Захваченное нами млекопитающее-моллюск, очевидно, пользуется большой популярностью у наших граждан. Исследовательское подразделение Общества стремятся продолжить свое исследование."
+ ASP_WHITE_MOLLUSC_MAMMAL_PROJECT_DESC:0 "Захваченное нами млекопитающее-моллюск, очевидно, пользуется большой популярностью у наших граждан. Социологические исследовательские подразделения стремятся продолжить свои исследования."
  ASP_BEYOND_EARTH_PURITY_PROJECT:0 "Вторжение примитивов"
  ASP_BEYOND_EARTH_PURITY_PROJECT_DESC:0 "Эти примитивные существа прячутся за жалким щитом. Мы должны вторгнуться и вытащить их из их гнезда."
  ASP_BEYOND_EARTH_PURITY_PROJECT_2:0 "Нарушение щита"
@@ -121,12 +116,12 @@
  pc_nuked_colorful:0 "$pc_nuked$"
  pc_nuked_colorful_desc:0 "$pc_nuked_desc$"
  pc_nuked_colorful_adj:0 "$pc_nuked_adj$"
- pc_asp_rainworld:0 "Мир дождя"
- pc_asp_rainworld_desc:0 "В этом океаническом мире каждый день на поверхность выпадает огромное количество дождя, затопляя все в непрерывном круговороте стремительной воды. Существа на поверхности либо адаптируются, либо тонут."
- pc_asp_rainworld_adj:0 "дождь"
- pc_asp_ocean_red:0 "Мир Красного Океана"
+ pc_asp_rainworld:0 "Мир дождей"
+ pc_asp_rainworld_desc:0 "На поверхность этого океанического мира каждый день выпадает огромное количество осадков, затопляя всё в непрерывном круговороте стремительной воды. Существа на поверхности либо адаптируются, либо тонут."
+ pc_asp_rainworld_adj:0 "дождливый"
+ pc_asp_ocean_red:0 "Мир красного океана"
  pc_asp_ocean_red_desc:0 "Этот мир океана отличается от других подобных. Его море окрашено в аномально «кровавый» красный цвет."
- pc_asp_ocean_red_adj:0 "красный океан"
+ pc_asp_ocean_red_adj:0 "красноокеанический"
 
  ### traits ###
  aspmod_leader_trait_iterator:0 "Итератор"
@@ -137,20 +132,20 @@
  building_aspmod_planetary_processing_network_desc:0 "Продвинутым мирам нужны более точные системы администрирования. Это типичный пример такой вещи, пример хорошо автоматизированной кибернетической сети. Единственный его недостаток в том, что для работы требуется огромное количество энергии."
 
  ### starbase buildings ###
- sm_aspmod_axis_of_planet_building:0 "Гиперпространственная игла"
+ sm_aspmod_axis_of_planet_building:0 "Гиперпространственная Игла"
  sm_aspmod_axis_of_planet_building_desc:0 "Эта «Игла» манипулирует физическими силами в пределах этой системы, обеспечивая нам преимущества."
 
  ### ship components ###
- PLANET_KILLER_GEOCENTRIC_DEVICE:0 "Гео-централизатор"
- PLANET_KILLER_GEOCENTRIC_DEVICE_DESC:0 "Эта копия геоцентрического устройства манипулирует силами природы, чтобы изменить местоположение планет своей силой. \n\n§YОн превратит целевую планету в бесплодный мир и затем, переместит её в центр системы.§!"
- PLANET_KILLER_GEOCENTRIC_DEVICE_ACTION:0 "Централизованный мир"
+ PLANET_KILLER_GEOCENTRIC_DEVICE:0 "Геоцентрализатор"
+ PLANET_KILLER_GEOCENTRIC_DEVICE_DESC:0 "Эта копия геоцентрического устройства манипулирует силами природы, чтобы изменять местоположение планет. \n\n§YОн превратит целевую планету в бесплодный мир и затем переместит её в центр системы.§!"
+ PLANET_KILLER_GEOCENTRIC_DEVICE_ACTION:0 "Отцентрировать планету"
  FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_GEOCENTRIC_DEVICE:0 "Подготовка к централизации $PLANET|Y$"
- MESSAGE_DESC_FOR_PLANET_KILLER_GEOCENTRIC_DEVICE:0 "был перемещен в центр системы и превращен в бесплодный мир"
+ MESSAGE_DESC_FOR_PLANET_KILLER_GEOCENTRIC_DEVICE:0 "был перемещен в центр системы и превращён в бесплодный мир"
  STARBASE_AURA_AXIS_OF_PLANET:0 "$sm_aspmod_axis_of_planet_building$"
 
  ### technologies ###
- tech_aspmod_geocentric_device:0 "Гео-централизатор"
- tech_aspmod_geocentric_device_desc:0 "В результате изучения геоцентрического устройства мы уловили проблески потенциала для манипулирования самой планетной системой. \n\n§YОн превратит целевую планету в бесплодный мир и переместит её в центр системы.§!"
+ tech_aspmod_geocentric_device:0 "Геоцентрализатор"
+ tech_aspmod_geocentric_device_desc:0 "В результате изучения геоцентрического устройства мы уловили проблески потенциала для манипулирования самой планетарной системой. \n\n§YОн превратит целевую планету в бесплодный мир и переместит её в центр системы.§!"
 
  ### Археология: When the world sings
  site_ASP_when_the_world_sings:0 "Когда мир поёт"
