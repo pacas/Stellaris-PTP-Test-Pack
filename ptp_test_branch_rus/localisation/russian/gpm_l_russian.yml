@@ -32,34 +32,34 @@
  #######################################
  #### Map Mode
  #######################################
- gpm_relic_map_mode:1 "Карта древних Реликвий"
+ gpm_relic_map_mode:1 "Карта древних реликвий"
  gpm_relic_map_mode_desc:1 "Границы империй будут окрашены в зависимости от того, владеют они древними реликвиями или нет."
- GPM_MAP_MODE_NOT_HAS_RELIC:1 "Нет §Yдревних Реликвий§!"
- GPM_MAP_MODE_HAS_RELIC:1 "Есть 1 §Yдревняя Реликвия§!"
- GPM_MAP_MODE_HAS_RELIC_2:1 "Есть 2 §Yдревних Реликвии§!"
- GPM_MAP_MODE_HAS_RELIC_3:1 "Есть 3 §Yдревних Реликвии§!"
- GPM_MAP_MODE_HAS_RELIC_4:1 "Есть 4 §Yдревних Реликвии§!"
- GPM_MAP_MODE_HAS_RELIC_5:1 "Есть 5 §Yдревних Реликвий§!"
- GPM_MAP_MODE_HAS_RELIC_6:1 "Есть 6 §Yдревних Реликвий§!"
- GPM_MAP_MODE_HAS_RELIC_7:1 "Есть 7 §Yдревних Реликвий§!"
- GPM_MAP_MODE_HAS_RELIC_8:1 "Есть 8 §Yдревних Реликвий§!"
- GPM_MAP_MODE_HAS_RELIC_9:1 "Есть 9 §Yдревних Реликвий§!"
- GPM_MAP_MODE_HAS_RELIC_10:1 "Есть 10 §Yдревних Реликвий§!"
- GPM_MAP_MODE_HAS_RELIC_11:1 "Есть много §Yдревних Реликвий!§!"
- GPM_MAP_MODE_HAS_UNKNOWN_RELICS:1 "Эта империя имеет неизвестное количество §YРеликвий§!.\nТребуется больше §Hразведданных§!."
+ GPM_MAP_MODE_NOT_HAS_RELIC:1 "Нет §Yдревних реликвий§!"
+ GPM_MAP_MODE_HAS_RELIC:1 "Есть 1 §Yдревняя реликвия§!"
+ GPM_MAP_MODE_HAS_RELIC_2:1 "Есть 2 §Yдревних реликвии§!"
+ GPM_MAP_MODE_HAS_RELIC_3:1 "Есть 3 §Yдревних реликвии§!"
+ GPM_MAP_MODE_HAS_RELIC_4:1 "Есть 4 §Yдревних реликвии§!"
+ GPM_MAP_MODE_HAS_RELIC_5:1 "Есть 5 §Yдревних реликвий§!"
+ GPM_MAP_MODE_HAS_RELIC_6:1 "Есть 6 §Yдревних реликвий§!"
+ GPM_MAP_MODE_HAS_RELIC_7:1 "Есть 7 §Yдревних реликвий§!"
+ GPM_MAP_MODE_HAS_RELIC_8:1 "Есть 8 §Yдревних реликвий§!"
+ GPM_MAP_MODE_HAS_RELIC_9:1 "Есть 9 §Yдревних реликвий§!"
+ GPM_MAP_MODE_HAS_RELIC_10:1 "Есть 10 §Yдревних реликвий§!"
+ GPM_MAP_MODE_HAS_RELIC_11:1 "Есть много §Yдревних реликвий!§!"
+ GPM_MAP_MODE_HAS_UNKNOWN_RELICS:1 "Эта империя имеет неизвестное количество §Yреликвий§!.\nТребуется больше §Hразведданных§!."
 
- GPM_MAP_MODE_SAME_EMPIRE_NOT_HAS_RELIC:1 ":1 "У нас нет §Yдревних Реликвий§!"
- GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC:1 ":1 "У нас есть 1 §Yдревняя Реликвия§!"
- GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_2:1 ":1 "У нас есть 2 §Yдревних Реликвии§!"
- GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_3:1 ":1 "У нас есть 3 §Yдревних Реликвии§!"
- GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_4:1 ":1 "У нас есть 4 §Yдревних Реликвии§!"
- GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_5:1 ":1 "У нас есть 5 §Yдревних Реликвий§!"
- GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_6:1 ":1 "У нас есть 6 §Yдревних Реликвий§!"
- GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_7:1 ":1 "У нас есть 7 §Yдревних Реликвий§!"
- GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_8:1 ":1 "У нас есть 8 §Yдревних Реликвий§!"
- GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_9:1 ":1 "У нас есть 9 §Yдревних Реликвий§!"
- GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_10:1 ":1 "У нас есть 10 §Yдревних Реликвий§!"
- GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_11:1 ":1 "У нас есть более 10 §Yдревних Реликвий!§!"
+ GPM_MAP_MODE_SAME_EMPIRE_NOT_HAS_RELIC:1 ":1 "У нас нет §Yдревних реликвий§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC:1 ":1 "У нас есть 1 §Yдревняя реликвия§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_2:1 ":1 "У нас есть 2 §Yдревних реликвии§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_3:1 ":1 "У нас есть 3 §Yдревних реликвии§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_4:1 ":1 "У нас есть 4 §Yдревних реликвии§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_5:1 ":1 "У нас есть 5 §Yдревних реликвий§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_6:1 ":1 "У нас есть 6 §Yдревних реликвий§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_7:1 ":1 "У нас есть 7 §Yдревних реликвий§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_8:1 ":1 "У нас есть 8 §Yдревних реликвий§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_9:1 ":1 "У нас есть 9 §Yдревних реликвий§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_10:1 ":1 "У нас есть 10 §Yдревних реликвий§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_11:1 ":1 "У нас есть более 10 §Yдревних реликвий!§!"
 
  #######################################
  #### Generic Names
@@ -281,7 +281,7 @@
  gpm_building_exotic_park:0 "Экзотический парк"
  gpm_building_exotic_park_desc:0 "Парк со странной и экзотической инопланетной фауной."
 
- gpm_building_manufactory_hub:0 "Центр Мануфакторум"
+ gpm_building_manufactory_hub:0 "Центр Мануфакторума"
  gpm_building_manufactory_hub_desc:0"Сложный производственный центр, способный своевременно динамически регулировать объём производства и потребления, чтобы фабрики работали с оптимальной производительностью."
 
  gpm_building_core_prison:0 "Подземная тюрьма"
@@ -381,8 +381,8 @@
  gpm_precursor_planetary_shield_discovery_2:0 "Набор аккумуляторов странной энергии"
  gpm_precursor_floating_city_discovery:0 "Сверхрастяжимый кабель"
  gpm_precursor_floating_city_discovery_2:0 "Древний летающий автомобиль"
- gpm_precursor_capital_complex_discovery:0 "Галактические правила бюрократии, Том 3"
- gpm_precursor_capital_complex_discovery_2:0 "Галактические правила дипломатии, Том 1"
+ gpm_precursor_capital_complex_discovery:0 "Галактические правила бюрократии, том 3"
+ gpm_precursor_capital_complex_discovery_2:0 "Галактические правила дипломатии, том 1"
  gpm_precursor_communication_hub_discovery:0 "Подпространственное коммуникационное реле"
  gpm_precursor_communication_hub_discovery_2:0 "Подпространственное личное устройство связи"
  gpm_precursor_singularity_drive_discovery:0 "Древний квантовый компьютер"
@@ -437,8 +437,8 @@
  gpm_proto_forests_discovery_2:0 "Протоамёба"
  gpm_hiveworld_discovery:0 "Окаменевший панцирь"
  gpm_hiveworld_discovery_2:0 "Спящий «ползун»"
- gpm_arachnophobia_discovery:0 "Одомашненный меленький арахнид"
- gpm_arachnophobia_discovery_2:0 "Альфа арахнид"
+ gpm_arachnophobia_discovery:0 "Одомашненный маленький арахнид"
+ gpm_arachnophobia_discovery_2:0 "Альфа-арахнид"
  gpm_giant_worm_discovery:0 "Яйца гигантского червя"
  gpm_giant_worm_discovery_2:0 "Сброшенная кожа червя"
  gpm_artificial_core_discovery:0 "Открытие искусственного ядра"
@@ -462,8 +462,8 @@
  #######################################
  district_gpm_precursor_housing:0 "Восстановленный городской район"
  district_gpm_precursor_housing_plural:0 "Восстановленные городские районы"
- district_gpm_precursor_housing_desc:0 "Восстановленная часть некогда великой планеты-города"
- district_gpm_precursor_science_desc:0 "Обозначить разрушающийся городской сектор - важным археологическим объектом."
+ district_gpm_precursor_housing_desc:0 "Восстановленная часть некогда великой планеты-города."
+ district_gpm_precursor_science_desc:0 "Обозначить разрушающийся городской сектор важным археологическим объектом."
 
  district_gpm_precursor_science:0 "Археологический район"
  district_gpm_precursor_science_plural:0 "Археологические районы"
@@ -499,7 +499,7 @@
  edict_gpm_edict_tech_alternatives:0 "Технологии предтеч: Альтернативные исследования"
  edict_gpm_edict_tech_alternatives_desc:0 "Исследователи попытаются разобрать некоторые £minor_artifacts£  §Bмалые артефакты§! в надежде узнать что-то новое."
  edict_gpm_edict_station_production:0 "Технологии предтеч: Станционное производство"
- edict_gpm_edict_station_production_desc:0 "Улучшить добывающие станции с помощью £minor_artifacts£ §Bмалых артефактов§!. Этот метод очень нестабилен и, через некоторое время, уничтожит, как малые артефакты, так и полученные улучшения. "
+ edict_gpm_edict_station_production_desc:0 "Улучшить добывающие станции с помощью £minor_artifacts£ §Bмалых артефактов§!. Этот метод очень нестабилен и через некоторое время уничтожит как малые артефакты, так и полученные улучшения. "
  edict_gpm_edict_alloy_production:0 "Технологии предтеч: Производство сплавов"
  edict_gpm_edict_alloy_production_desc:0 "Использовать £minor_artifacts£  §Bмалые артефакты§!, чтобы увеличить производство £alloys£ §Hсплавов§!. Этот процесс очень нестабилен и уничтожит малые артефакты."
  edict_gpm_edict_consumer_goods_production:0 "Технологии предтеч: Производство ТМС"
@@ -534,12 +534,12 @@
  # Jobs
  job_gpm_bunker_drone:0 "Рой бункера предтеч"
  job_gpm_bunker_drone_plural:0 "Рои бункера предтеч"
- job_gpm_bunker_drone_desc:0 "Сложность сети бункеров в этом мире поразительна и, без сомнения, разработана продвинутым ИИ. Кажется, каждый бункер - это самоподдерживающаяся система, которую мы можем использовать в наших интересах. Практически непроницаемые стены означают, что нашим врагам понадобятся месяцы, чтобы пробиться через них. С достаточным количеством этих бункеров, мы могли бы сдерживать вражеские силы бесконечно. После внедрения роя автономных сторожевых дронов, мы можем гарантировать, что каждый бункер в сети сможет устранить любого потенциального нарушителя."
+ job_gpm_bunker_drone_desc:0 "Сложность сети бункеров в этом мире поразительна и, без сомнения, разработана продвинутым ИИ. Кажется, каждый бункер является самоподдерживающейся системой, которую мы можем использовать в наших интересах. Практически непроницаемые стены означают, что нашим врагам понадобятся месяцы, чтобы пробиться через них. С достаточным количеством этих бункеров, мы могли бы сдерживать вражеские силы вечно. После внедрения роя автономных сторожевых дронов, мы можем гарантировать, что каждый бункер в сети сможет устранить любого потенциального нарушителя."
  job_gpm_bunker_drone_effect_desc:0 "£job_gpm_bunker_drone£ $job_gpm_bunker_drone_plural$ увеличивают £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§! и создают £job_gpm_bunker_drone£ §Yоборонительные армии§!"
 
  job_gpm_bunker_army:0 "Защитник бункера предтеч"
- job_gpm_bunker_army_plural:0 "Защитники Бункера предтеч"
- job_gpm_bunker_army_desc:0 "Сохранившийся-бункер предтеч. Сложность сети бункеров в этом мире поразительна и, без сомнения, разработана продвинутым ИИ. Судя по всему, каждый бункер - это самоподдерживающаяся система, которую мы можем использовать в наших интересах. Практически непроницаемые стены означают, что нашим врагам понадобятся месяцы, чтобы прорваться через них. С достаточным количеством этих бункеров, мы могли бы сдерживать вражеские силы практически бесконечно."
+ job_gpm_bunker_army_plural:0 "Защитники бункера предтеч"
+ job_gpm_bunker_army_desc:0 "Сохранившийся бункер предтеч. Сложность сети бункеров в этом мире поразительна и, без сомнения, разработана продвинутым ИИ. Судя по всему, каждый бункер является самоподдерживающейся системой, которую мы можем использовать в наших интересах. Практически непроницаемые стены означают, что нашим врагам понадобятся месяцы, чтобы прорваться через них. С достаточным количеством этих бункеров, мы могли бы сдерживать вражеские силы практически вечно."
  job_gpm_bunker_army_effect_desc:0 "£job_gpm_bunker_army£ $job_gpm_bunker_army_plural$ увеличивают £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§! и создают £job_gpm_bunker_army£ §Yоборонительные армии§!"
 
  job_gpm_moon_miner:0 "Лунный шахтёр"
@@ -574,7 +574,7 @@
 
  job_gpm_archaeologist:0 "Археолог"
  job_gpm_archaeologist_plural:0 "Археологи"
- job_gpm_archaeologist_desc:0 "Эти археологи, вооруженные шляпой, кнутом и решительным поведением, не оставляют ни одного камня не перевёрнутым."
+ job_gpm_archaeologist_desc:0 "Эти археологи, вооруженные шляпой, кнутом и стальной решимостью, не оставляют ни одного камня не перевёрнутым."
  job_gpm_archaeologist_effect_desc:0 "£job_gpm_archaeologist£ $job_gpm_archaeologist_plural$ превращают £consumer_goods£ §Y$consumer_goods$§! в £physics£ £society£ £engineering£ §Yочки исследований§!."
 
  job_gpm_archaeologist_drone:0 "Дрон-археолог"
@@ -622,13 +622,13 @@
  job_gpm_orbital_particle_collector_drone_desc:0 "$job_gpm_orbital_particle_collector_desc$"
  job_gpm_orbital_particle_collector_drone_effect_desc:0 "£job_gpm_orbital_particle_collector_drone£ $job_gpm_orbital_particle_collector_drone_plural$ производят £energy£ §Yэнергию§!"
 
- job_gpm_orbital_spicer:0 "Орбитальный сборщик пряности"
- job_gpm_orbital_spicer_plural:0 "Орбитальные сборщики пряности"
- job_gpm_orbital_spicer_desc:0 "Пряность - это жизненная сила Галактики, главное - добыть её. И помните, спайс маст флоу."
+ job_gpm_orbital_spicer:0 "Орбитальный сборщик спайса"
+ job_gpm_orbital_spicer_plural:0 "Орбитальные сборщики спайса"
+ job_gpm_orbital_spicer_desc:0 "Спайс - это жизненная сила галактики, главное - добыть её. И помните, спайс маст флоу."
  job_gpm_orbital_spicer_effect_desc:0 "£job_gpm_orbital_spicer£ $job_gpm_orbital_spicer_plural$ производят £energy£ §Yэнергию$§!"
 
- job_gpm_orbital_spicer_drone:0 "Орбитальный экстрактор пряности"
- job_gpm_orbital_spicer_drone_plural:0 "Орбитальные экстракторы пряности"
+ job_gpm_orbital_spicer_drone:0 "Орбитальный экстрактор спайса"
+ job_gpm_orbital_spicer_drone_plural:0 "Орбитальные экстракторы спайса"
  job_gpm_orbital_spicer_drone_desc:0 "$job_gpm_orbital_spicer_desc$"
  job_gpm_orbital_spicer_drone_effect_desc:0 "£job_gpm_orbital_spicer_drone£ $job_gpm_orbital_spicer_drone_plural$ производят £energy£ §Yэнергию§!"
 
@@ -640,47 +640,6 @@
  #######################################
  #### Modifier localisations
  #######################################
- mod_planet_districts_minerals_cost_add:0 "£minerals£ Расход минералов на постройку районов"
- mod_planet_buildings_minerals_cost_add:0 "£minerals£ Расход минералов на постройку зданий"
- mod_planet_buildings_minerals_cost_mult:0 "£minerals£ Расход минералов на постройку зданий"
- mod_ship_components_alloys_cost_add:0 "£alloys£ Стоимость компонентов корабля"
- mod_ship_components_alloys_cost_mult:0 "£alloys£ Стоимость компонентов корабля"
- mod_ship_upgrades_alloys_cost_mult:0 "£alloys£ Стоимость улучшения корабля"
- mod_starbase_outpost_influence_cost_add:0 "£influence£ Стоимость форпостов"
- mod_station_observer_missions_society_research_produces_mult:0 "Наблюдение за примитивами даёт £society_research£ социологические исследования"
- mod_stations_energy_upkeep_mult:0 "£energy£ Содержание станции"
- mod_planet_buildings_energy_upkeep_mult:0 "£energy£ Расход энергии на содержание зданий"
- mod_planet_districts_energy_upkeep_mult:0 "£energy£ Расход энергии на содержание районов"
- mod_planet_districts_time_cost_mult:0 "£time£ Время строительства района"
- mod_ship_upgrades_time_cost_mult:0 "£time£ Время улучшения корабля"
- mod_planet_pops_food_upkeep_mult:0 "£food£ Расход пищи на содержание поселений"
- mod_edicts_influence_cost_mult:0 "£influence£ Стоимость указа"
- MOD_SHIP_ARMOR_ADD:0 "£armor£ Очки брони"
- MOD_SHIP_ARMOR_MULT:0 "£armor£ Очки брони"
- mod_pop_ethic_fanatic_spiritualist_attraction_mult:0 "Привлекательность этики фанатичного спиритуализма"
- mod_planet_districts_minerals_cost_mult: "£minerals£ Расход минералов на постройку районов"
- mod_ship_sections_alloys_cost_mult:0 "£alloys£ Стоимость секций корабля"
- mod_country_base_physics_research_produces_add:0 "£physics_research£ Очки физических исследований ежемесячно"
- mod_country_base_society_research_produces_add:0 "£society_research£ Очки социологических исследований ежемесячно"
- mod_country_base_engineering_research_produces_add:0 "£engineering_research£ Очки инженерных исследований ежемесячно"
- mod_country_base_minor_artifacts_produces_add:0 "£minor_artifacts£ Производство малых артефактов ежемесячно"
- mod_country_base_nanites_produces_add:0 "£nanites£ Производство нанитов ежемесячно"
- mod_ship_sections_alloy_cost_multi:0 "£alloys£ Стоимость секций корабля"
- mod_planet_refiners_exotic_gases_produces_add:0 "£exotic_gases£ Производство экзотических газов £job_gas_refiner£ переработчиками"
- mod_planet_chemists_volatile_motes_produces_add:0 "£volatile_motes£ Производство летучей пыли £job_chemist£ химиками"
- mod_planet_translucers_rare_crystals_produces_add:0 "£rare_crystals£ Производство редких кристаллов £job_translucer£ кристальщиками"
- mod_planet_translucers_rare_crystals_produces_mult:0 "£rare_crystals£ Производство редких кристаллов £job_translucer£ кристальщиками"
- mod_planet_jobs_specialist_rare_crystals_produces_mult:0 "£rare_crystals£ $rare_crystals$ от £job£ $pop_cat_specialist$"
- mod_planet_jobs_specialist_volatile_motes_produces_mult:0 "£volatile_motes£ $volatile_motes$ от £job£ $pop_cat_specialist$"
- mod_planet_jobs_specialist_exotic_gases_produces_mult:0 "£exotic_gases£ $exotic_gases$ от £job£ $pop_cat_specialist$"
- mod_ship_upgrades_cost_mult:0 "Стоимость улучшения корабля"
- mod_weapon_role_anti_armor_weapon_damage_mult:0 "Урон оружия по броне"
- mod_weapon_role_anti_shield_weapon_damage_mult:0 "Урон оружия по щитам"
- mod_planet_soldiers_unity_produces_add:0 "£unity£ Производство единства £job_soldier£ солдатами"
- mod_starbases_energy_upkeep_mult:0 "£energy£ Содержание звёздной базы"
- mod_weapon_type_point_defense_weapon_fire_rate_mult:0 "Скорострельность систем ПКО"
- mod_shipclass_starbase_build_speed_mult:0 "£time£ Скорость строительства звёздной базы"
- mod_country_resource_max_energy_add:0 "Вместимость хранилища £energy£ энергии"
  mod_job_gpm_bunker_drone_add:0 "$job_gpm_bunker_drone$"
  mod_job_gpm_bunker_army_add:0 "$job_gpm_bunker_army$"
  mod_job_gpm_moon_miner_add:0 "$job_gpm_moon_miner$"
@@ -702,27 +661,17 @@
  mod_job_gpm_orbital_spicer_add:0 "$job_gpm_orbital_spicer$"
  mod_job_gpm_orbital_spicer_drone_add:0 "$job_gpm_orbital_spicer_drone$"
  mod_job_gpm_android_entertainer_add:0 "$job_gpm_android_entertainer$"
- mod_megastructures_alloys_cost_mult:0 "£alloys£ Расход сплавов на мегасооружения"
- mod_country_base_alloys_produces_add:0 "£alloys£ Производство сплавов ежемесячно"
- mod_country_base_consumer_goods_produces_add:0 "£consumer_goods£ Производство ТМС ежемесячно"
  mod_job_gpm_orbital_spicer_per_pop:0 "§G+1§! $job_gpm_orbital_spicer$ за $VALUE$ поселений"
  mod_job_gpm_orbital_spicer_drone_per_pop:0 "§G+1§! $job_gpm_orbital_spicer_drone$ за $VALUE$ поселений"
- mod_planet_bureaucrats_unity_produces_add:0 "£unity£ $unity$ от £job_bureaucrat£ $job_bureaucrat_plural$"
  mod_planet_necro_apprentices_produces_mult:0 "Производство ресурсов £job_necro_apprentice£ некрофитами"
  mod_planet_merchants_produces_mult:0 "Производство ресурсов £job_merchant£ торговцами"
  mod_planet_entertainers_produces_mult:0 "Производство ресурсов £job_entertainer£ артистами"
  mod_planet_necromancers_produces_mult:0 "Производство ресурсов £job_necromancer£ некромантами"
  mod_planet_telepaths_produces_mult:0 "Производство ресурсов £job_telepath£ телепатами"
- mod_planet_metallurgists_minerals_upkeep_add:0 "£minerals£ Потребление минералов £job_foundry£ металлургами"
- mod_planet_artisans_minerals_upkeep_add:0 "£minerals£ Потребление минералов £job_artisan£ ремесленниками"
- mod_station_gatherers_minerals_cost_add:1 "£minerals£ Стоимость добывающей станции"
- mod_station_researchers_minerals_cost_add:1 "£minerals£ Стоимость научной станции"
  mod_planet_district_gpm_precursor_housing_build_speed_mult:1 "Время строительства $district_gpm_precursor_housing$"
  mod_planet_district_gpm_precursor_science_build_speed_mult:1 "Время строительства $district_gpm_precursor_science$"
  mod_planet_district_gpm_precursor_manufactorium_build_speed_mult:1 "Время строительства $district_gpm_precursor_manufactorium$"
  mod_planet_district_gpm_precursor_power_plant_build_speed_mult:1 "Время строительства $district_gpm_precursor_power_plant$"
- mod_ROBOT_species_trait_picks_add:1 "Робот $SPECIES_TRAIT_PICKS$"
- mod_job_criminal_per_pop:1 "§G+1§! $job_criminal$ за $VALUE$ поселений"
 
  #######################################
  #### Opinions
@@ -743,13 +692,13 @@
  #### Policies
  #######################################
  policy_gpm_exploration_policy:0 "Политика изучения"
- policy_gpm_exploration_policy_desc:0 "Эта политика определяет порядок процедур, согласно которому будут действовать наши научные корабли при изучении Галактики.\n"
+ policy_gpm_exploration_policy_desc:0 "Эта политика определяет порядок процедур, согласно которому будут действовать наши научные корабли при изучении галактики.\n"
  gpm_scientific_curiosity:0 "Команды первооткрывателей"
- gpm_scientific_curiosity_desc:0 "Научный корабль будет высаживать несколько команд исследователей для составления карты и детального изучения поверхности каждого мира, который мы встретим.\n\n§YОпыт§! §Eполучаемый за результаты изучения увеличится на§! §Y100%§! §Eи мы получим§! §Y1§! §Eдополнительную§! §Yнаграду§! §Eза открытия!\n\n"
+ gpm_scientific_curiosity_desc:0 "Научный корабль будет высаживать несколько команд исследователей для составления карты и детального изучения поверхности каждого мира, который мы встретим.\n\n§EПолучаемый за результаты изучения §Yопыт§! увеличится на§! §Y100%§! §Eи мы получим§! §Y1§! §Eдополнительную§! §Yнаграду§! §Eза открытия!\n\n"
  gpm_to_boldly_go:0 "Смело вперёд"
- gpm_to_boldly_go_desc:0 "Научные корабли будут высаживать, только одну команду исследователей во время изучения планеты.\n"
+ gpm_to_boldly_go_desc:0 "Научные корабли будут высаживать только одну команду исследователей во время изучения планеты.\n"
  gpm_long_range_scans:0 "Обзор с орбиты"
- gpm_long_range_scans_desc:0 "Во время изучения планеты научный корабль не будет высаживать команду исследователей. Быстрое сканирование каждого мира, с которым мы сталкиваемся, даст нам всю необходимую информацию. \n\n§RНет дополнительных открытий§!\n\n"
+ gpm_long_range_scans_desc:0 "Во время изучения планеты научный корабль не будет высаживать команду исследователей. Быстрое сканирование каждого мира, с которым мы сталкиваемся, даст нам всю необходимую информацию. \n\n§RОтсутствует шанс дополнительных открытий§!\n\n"
 
  #######################################
  #### R.E.S.
@@ -826,9 +775,7 @@
  #### Start Menu
  #######################################
  gpm_start_menu.1.name:0 "Настройка Guilli's Planet Modifiers"
- gpm_start_menu.1.desc:0 "§YНовые возможности:§!\n - Можно найти небольшие разрушенные мегасооружения\n - Планета-предтеч Археополис\n - Новая шпионская операция: §HСбор информации о Реликвиях§!\n - Новая шпионская операция: §HУкрасть Реликвию§!\n - И многое другое, смотрите в списке изменений 3.4!\n\n Новый Маленький Мод: §YGuilli's Exploration and Expansion Tweaks§!. Оцените его!\n\n§HСоветы:§!\n  §Y- Убедитесь, что вы установили нужные параметры в§! £options_icon §Hнастройках§! £options_icon  §Yменю перед началом игры§!\n  §Y- Модификаторы появятся после того, как вы снимете игру с паузы на §H2 - 20§! день игры.§!"
-
- # §HМоду может потребоваться несколько мгновений после снятия паузы, чтобы всё запустить, во время чего игра может замедлиться или вовсе зависнуть на несколько секунд.§!
+ gpm_start_menu.1.desc:0 "§YНовые возможности:§!\n - Можно найти небольшие разрушенные мегасооружения\n - Планета-предтеч Археополис\n - Новая шпионская операция: §HСбор информации о реликвиях§!\n - Новая шпионская операция: §HУкрасть реликвию§!\n - И многое другое, смотрите в списке изменений 3.4!\n\n Новый маленький мод: §YGuilli's Exploration and Expansion Tweaks§!. Оцените его!\n\n§HСоветы:§!\n  §Y- Убедитесь, что вы установили нужные параметры в§! £options_icon §Hнастройках§! £options_icon  §Yменю перед началом игры§!\n  §Y- Модификаторы появятся после того, как вы снимете игру с паузы на §H2 - 20§! день игры.§! §HМоду может потребоваться несколько мгновений после снятия паузы, чтобы всё запустить, во время чего игра может замедлиться или вовсе зависнуть на несколько секунд.§!
 
  gpm_start_menu.1.START:0 "Начать игру"
  gpm_start_menu.1.STARTTT:0 "Игра начнётся. Выбранные вами настройки будут применены. Их можно будет отменить, только начав новую игру!"
@@ -848,60 +795,60 @@
 
  # age of galaxy option
 
- gpm_start_menu.1.young_galaxy_age:0 "§YВозраст Галактики:§! Молодая"
- gpm_start_menu.1.young_galaxy_ageTT:0 "§HНажмите для изменения.§! Эта настройка определяет возраст Галактики, что влияет на шанс появления модификаторов планет. В молодой галактике будет меньше руин и следов древних цивилизаций.\n-----§HВозраст Галактики:§!:-----\n§W Молодая§! §G (сейчас выбрано)§!\n§L Зрелая (стандартно)§!\n§L Старая§!\n\n§HЭффекты:§!\nКоличество модификаторов предтеч: §R-30%§!\nКоличество необычных модификаторов планет: §R-30%§!\nКоличество обычных модификаторов планет: §G+30§!"
+ gpm_start_menu.1.young_galaxy_age:0 "§YВозраст галактики:§! Молодая"
+ gpm_start_menu.1.young_galaxy_ageTT:0 "§HНажмите для изменения.§! Эта настройка определяет возраст галактики, что влияет на шанс появления модификаторов планет. В молодой галактике будет меньше руин и следов древних цивилизаций.\n-----§HВозраст галактики:§!:-----\n§W Молодая§! §G (сейчас выбрано)§!\n§L Зрелая (стандартно)§!\n§L Старая§!\n\n§HЭффекты:§!\nКоличество модификаторов предтеч: §R-30%§!\nКоличество необычных модификаторов планет: §R-30%§!\nКоличество обычных модификаторов планет: §G+30§!"
 
- gpm_start_menu.1.default_galaxy_age:0 "§YВозраст Галактики:§! Зрелая"
- gpm_start_menu.1.default_galaxy_ageTT:0 "§HНажмите для изменения.§! Эта настройка определяет возраст Галактики, что влияет на шанс появления модификаторов планет. В зрелой Галактике будет среднее количество руин и следов древних цивилизаций.\n-----§HВозраст Галактики:§!:-----\n§L Молодая§!\n§W Зрелая §G (сейчас выбрано)§!§!\n§L Старая§!"
+ gpm_start_menu.1.default_galaxy_age:0 "§YВозраст галактики:§! Зрелая"
+ gpm_start_menu.1.default_galaxy_ageTT:0 "§HНажмите для изменения.§! Эта настройка определяет возраст галактики, что влияет на шанс появления модификаторов планет. В зрелой галактике будет среднее количество руин и следов древних цивилизаций.\n-----§HВозраст Галактики:§!:-----\n§L Молодая§!\n§W Зрелая §G (сейчас выбрано)§!§!\n§L Старая§!"
 
- gpm_start_menu.1.old_galaxy_age:0 "§YВозраст Галактики:§! Старая"
- gpm_start_menu.1.old_galaxy_ageTT:0 "§HНажмите для изменения.§! Эта настройка определяет возраст Галактики, что влияет на шанс появления модификаторов планет. В старой Галактике будет больше руин и следов древних цивилизаций.\n-----§HВозраст Галактики:§!:-----\n§L Молодая§! \n§L Зрелая (стандартно)§!\n§W Старая§G (сейчас выбрано)§!\n\n§HЭффекты:§!\nКоличество модификаторов предтеч: §R+30%§!\nКоличество необычных модификаторов планет: §R+30%§!\nКоличество обычных модификаторов планет: §G-30§!"
+ gpm_start_menu.1.old_galaxy_age:0 "§YВозраст галактики:§! Старая"
+ gpm_start_menu.1.old_galaxy_ageTT:0 "§HНажмите для изменения.§! Эта настройка определяет возраст галактики, что влияет на шанс появления модификаторов планет. В старой галактике будет больше руин и следов древних цивилизаций.\n-----§HВозраст галактики:§!:-----\n§L Молодая§! \n§L Зрелая (стандартно)§!\n§W Старая§G (сейчас выбрано)§!\n\n§HЭффекты:§!\nКоличество модификаторов предтеч: §R+30%§!\nКоличество необычных модификаторов планет: §R+30%§!\nКоличество обычных модификаторов планет: §G-30§!"
 
  gpm_start_menu.1.default_scaling:0 "§YРазмер планеты:§! Включить"
- gpm_start_menu.1.default_scalingTT:0 "§HНажмите для изменения.§! Эта настройка определяет, будет ли количество модификаторов связано с размером планеты. §HРазмер планеты сейчас§! §GВключёно§!"
+ gpm_start_menu.1.default_scalingTT:0 "§HНажмите для изменения.§! Эта настройка определяет, будет ли количество модификаторов связано с размером планеты. Влияние §Hразмера планеты сейчас§! §GВключён§!"
 
  gpm_start_menu.1.scaling_off:0 "§YРазмер планеты:§! Выключить"
- gpm_start_menu.1.scaling_offTT:0 "§HНажмите для изменения.§! Эта настройка определяет, будет ли количество модификаторов связано с размером планеты. §HРазмер планеты сейчас§! §RВыключено§!"
+ gpm_start_menu.1.scaling_offTT:0 "§HНажмите для изменения.§! Эта настройка определяет, будет ли количество модификаторов связано с размером планеты. Влияние §Hразмера планеты сейчас§! §RВыключен§!"
 
  # various options
  gpm_start_menu.1.options:0 "£options_icon  §YОпции§! £options_icon"
  gpm_start_menu.1.optionsTT:0 "Установите дополнительные параметры мода Guilli's Planet Modifiers. Здесь вы можете отключить или включить разные функции мода.\n\n§YУбедитесь, что вы установили желаемые параметры, прежде чем выбирать количество модификаторов.!§!"
 
- gpm_start_menu.2.enabled_homeworld:0 "£options_icon  §GВключить модификаторы для Столиц§!"
- gpm_start_menu.2.enabled_homeworldTT:0 "§HНажмите здесь, чтобы включить модификаторы для Столиц§!\nЭто приведёт к появлению §Hслучайных§! модификаторов на вашей столичной планете.\n\n§RПредупреждение: Это может создать дополнительные трудности!§!"
- gpm_start_menu.2.disable_homeworld:0 "£options_icon  §RОтключить модификаторы для Столиц§!"
+ gpm_start_menu.2.enabled_homeworld:0 "£options_icon  §GВключить модификаторы для столиц§!"
+ gpm_start_menu.2.enabled_homeworldTT:0 "§HНажмите здесь, чтобы включить модификаторы для столиц§!\nЭто приведёт к появлению §Hслучайных§! модификаторов на вашей столичной планете.\n\n§RПредупреждение: Это может создать дополнительные трудности!§!"
+ gpm_start_menu.2.disable_homeworld:0 "£options_icon  §RОтключить модификаторы для столиц§!"
  gpm_start_menu.2.disable_homeworldTT:0 "§HНажмите здесь, чтобы отключить модификаторы для столиц§!\nЭто предотвратит появление модификаторов на вашей столичной планете."
 
- gpm_start_menu.2.disable_precursor:0 "£options_icon  §RОтключить модификаторы Предтеч и Реликвий§!"
- gpm_start_menu.2.enable_precursor:0 "£options_icon  §GВключить модификаторы Предтеч и Реликвий§!"
+ gpm_start_menu.2.disable_precursor:0 "£options_icon  §RОтключить модификаторы предтеч и реликвий§!"
+ gpm_start_menu.2.enable_precursor:0 "£options_icon  §GВключить модификаторы предтеч и реликвий§!"
  gpm_start_menu.2.disable_fallen_empire:0 "£options_icon §RОтключить модификаторы Угасших империй§!"
  gpm_start_menu.2.enable_fallen_empire:0 "£options_icon  §GВключить модификаторы Угасших империй§!"
- gpm_start_menu.2.disable_wonders:0 "£options_icon  §RОтключить Планетарные Чудеса§!"
- gpm_start_menu.2.enable_wonders:0 "£options_icon  §GВключить Планетарные Чудеса§!"
- gpm_start_menu.2.disable_planetary_rings:0 "£options_icon §RОтключить Планетарные кольца§!"
- gpm_start_menu.2.enable_planetary_rings:0 "£options_icon §GВключить Планетарные кольца§!"
+ gpm_start_menu.2.disable_wonders:0 "£options_icon  §RОтключить планетарные чудеса§!"
+ gpm_start_menu.2.enable_wonders:0 "£options_icon  §GВключить планетарные чудеса§!"
+ gpm_start_menu.2.disable_planetary_rings:0 "£options_icon §RОтключить планетарные кольца§!"
+ gpm_start_menu.2.enable_planetary_rings:0 "£options_icon §GВключить планетарные кольца§!"
 
- gpm_start_menu.2.disable_precursorTT:0 "§HНажмите здесь, чтобы отключить модификаторы Предтеч и Реликвий§!\nЭто предотвратит появление модификаторов Предтеч и Реликвий в Галактике."
- gpm_start_menu.2.enable_precursorTT:0 "§HНажмите здесь, чтобы включить модификаторы Предтеч и Реликвий§!"
- gpm_start_menu.2.disable_fallen_empireTT:0 "§HНажмите здесь, чтобы отключить модификаторы Угасших Империй§!\nЭто предотвратит появление в Галактике модификаторов Угасших Империй."
- gpm_start_menu.2.enable_fallen_empireTT:0 "§HНажмите здесь, чтобы включить модификаторы Угасших Империй§!"
- gpm_start_menu.2.disable_wondersTT:0 "§HНажмите здесь, чтобы отключить Планетарные Чудеса§!\nЭто предотвратит появление в Галактике модификаторов Планетарных чудес и соответствующих непригодных квадратов."
- gpm_start_menu.2.enable_wondersTT:0 "§HНажмите здесь, чтобы включить Планетарные Чудеса§!"
- gpm_start_menu.2.disable_planetary_ringsTT:0 "§HНажмите здесь, чтобы отключить Планетарные Кольца§!\nЭто предотвратит появление Планетарных Колец и их богатых месторождений в Галактике."
- gpm_start_menu.2.enable_planetary_ringsTT:0 "§HНажмите здесь, чтобы включить Планетарные Кольца§!"
+ gpm_start_menu.2.disable_precursorTT:0 "§HНажмите здесь, чтобы отключить модификаторы предтеч и реликвий§!\nЭто предотвратит появление модификаторов предтеч и реликвий в галактике."
+ gpm_start_menu.2.enable_precursorTT:0 "§HНажмите здесь, чтобы включить модификаторы предтеч и реликвий§!"
+ gpm_start_menu.2.disable_fallen_empireTT:0 "§HНажмите здесь, чтобы отключить модификаторы Угасших империй§!\nЭто предотвратит появление в галактике модификаторов Угасших империй."
+ gpm_start_menu.2.enable_fallen_empireTT:0 "§HНажмите здесь, чтобы включить модификаторы Угасших империй§!"
+ gpm_start_menu.2.disable_wondersTT:0 "§HНажмите здесь, чтобы отключить планетарные чудеса§!\nЭто предотвратит появление в галактике модификаторов планетарных чудес и соответствующих непригодных квадратов."
+ gpm_start_menu.2.enable_wondersTT:0 "§HНажмите здесь, чтобы включить планетарные чудеса§!"
+ gpm_start_menu.2.disable_planetary_ringsTT:0 "§HНажмите здесь, чтобы отключить планетарные кольца§!\nЭто предотвратит появление Планетарных колец и их богатых месторождений в галактике."
+ gpm_start_menu.2.enable_planetary_ringsTT:0 "§HНажмите здесь, чтобы включить планетарные кольца§!"
 
  gpm_start_menu.2.back:0 "§YВернуться в меню§!"
  gpm_start_menu.2.backTT:0 "Вернитесь в главное меню, чтобы начать игру."
 
- gpm_start_menu.2.disable_relic_AI_heists:1 "£options_icon  §RОтключить возможность похищения Реликвий ИИ империями§"
- gpm_start_menu.2.disable_relic_AI_heistsTT:1 "§HНажмите здесь, чтобы отключить шпионскую операцию 'Похищение реликвии' для ИИ империй§!\nЭто не позволит ИИ  империям проводить шпионскую операцию §YПохищение реликвии§! в империях игроков."
- gpm_start_menu.2.enabled_relic_AI_heists:1 "£options_icon  §GВключить возможность похищения Реликвий для ИИ империями§!"
- gpm_start_menu.2.enable_relic_AI_heistsTT:1 "§HНажмите здесь, чтобы включить шпионскую операцию 'Похищение реликвии' для ИИ империй§!\nЭто позволит ИИ  империям проводить шпионскую операцию §YПохищение реликвии§! в империях игроков."
+ gpm_start_menu.2.disable_relic_AI_heists:1 "£options_icon  §RОтключить возможность похищения реликвий ИИ империями§"
+ gpm_start_menu.2.disable_relic_AI_heistsTT:1 "§HНажмите здесь, чтобы отключить шпионскую операцию «Похищение реликвии» для ИИ империй§!\nЭто не позволит ИИ  империям проводить шпионскую операцию §YПохищение реликвии§! в империях игроков."
+ gpm_start_menu.2.enabled_relic_AI_heists:1 "£options_icon  §GВключить возможность похищения реликвий для ИИ империями§!"
+ gpm_start_menu.2.enable_relic_AI_heistsTT:1 "§HНажмите здесь, чтобы включить шпионскую операцию «Похищение реликвии» для ИИ империй§!\nЭто позволит ИИ  империям проводить шпионскую операцию §YПохищение реликвии§! в империях игроков."
 
- gpm_start_menu.2.enabled_mp_fun:1 "£options_icon  §GВключить повышенный шанс на появление загадок предтеч§!"
+ gpm_start_menu.2.enabled_mp_fun:1 "£options_icon  §GВключить повышенный шанс на появление мест раскопок предтеч§!"
  gpm_start_menu.2.enabled_mp_funTT:1 "§HНажмите здесь, чтобы увеличить шанс появления мест археологических раскопок предтеч и увеличить ценность находок§!\nЗначительно увеличивает шанс на появление мест археологических раскопок предтеч во время игры.\nЗначительно увеличивает шанс обнаружения уникальных находок в местах археологических раскопок предтеч, таких как реликвии, корабли, компоненты и т.д.\n\n§TТакже работает в режиме одиночной игры!§!"
- gpm_start_menu.2.disable_mp_fun:1 "£options_icon  §RОтключить повышенный шанс на появление загадок предтеч§!"
- gpm_start_menu.2.disable_mp_funTT:1 "§RНажмите здесь, чтобы отключить повышенный шанс на появление мест археологических раскопок предтеч§!\nВозвращает шанс появления мест археологических раскопок предтеч к исходному значению.\nОтключает шанс появления особых находок в местах археологических раскопках предтеч"
+ gpm_start_menu.2.disable_mp_fun:1 "£options_icon  §RОтключить повышенный шанс на появление мест раскопок предтеч§!"
+ gpm_start_menu.2.disable_mp_funTT:1 "§RНажмите здесь, чтобы отключить повышенный шанс на появление мест археологических раскопок предтеч§!\nВозвращает шанс появления мест археологических раскопок предтеч к исходному значению.\nОтключает шанс появления особых находок в местах археологических раскопках предтеч."
 
  #######################################
  #### Techologies
@@ -924,20 +871,20 @@
 
  tech_gpm_tb_toxic_gas_hive_mind:0 "Глобальные химические нейтрализаторы"
  tech_gpm_tb_toxic_gas_desc_hive_mind:0 "Коллективный Разум приложит все усилия по распылению химических нейтрализаторов над этими мирами."
- tech_gpm_tb_toxic_gas_machine_intelligence:0 "Не коррозийные сплавы"
- tech_gpm_tb_toxic_gas_desc_machine_intelligence:0 "Создав сплав наших стандартных строительных материалов с не коррозионными элементами, мы можем предотвратить попадание токсичных газов в здания."
+ tech_gpm_tb_toxic_gas_machine_intelligence:0 "Противокоррозийные сплавы"
+ tech_gpm_tb_toxic_gas_desc_machine_intelligence:0 "Создав сплав наших стандартных строительных материалов с противокоррозионными элементами, мы можем предотвратить попадание токсичных газов в здания."
 
  tech_gpm_d_unusual_formations:0 "Крупномасштабный снос"
- tech_gpm_d_unusual_formations_desc:0 "Поскольку эти образования нестабильны по своей природе, всё, что потребуется - это немного взрывчатки."
+ tech_gpm_d_unusual_formations_desc:0 "Поскольку эти образования нестабильны по своей природе, всё, что потребуется - немного взрывчатки."
 
  tech_gpm_d_unusual_formations_machine_intelligence:0 "Систематическая очистка"
  tech_gpm_d_unusual_formations_desc_machine_intelligence:0 "Структурная целостность местности в этом мире очень разнообразна. Рельеф необходимо будет преобразовать для более эффективного передвижения и строительства."
 
- tech_gpm_tb_locust_plagues:0 "Природные хищники"
- tech_gpm_tb_locust_plagues_desc:0 "Вводя в окружающую среду безобидных естественных хищников, мы сможем контролировать стаи саранчи. Мы уверены, что с этим планом ничего не случится."
+ tech_gpm_tb_locust_plagues:0 "Естественные хищники"
+ tech_gpm_tb_locust_plagues_desc:0 "Внедрив безвредных естественных хищников в экосистему, мы сможем контролировать рои саранчи. Мы твёрдо уверены, что с этим планом ничего не может пойти не так."
 
  tech_gpm_tb_locust_plagues_hive_mind:0 "Запланированное истребление"
- tech_gpm_tb_locust_plagues_desc_hive_mind:0 "Чтобы эффективно бороться с этими стаями, мы должны разделить территорию на сектора и работать от периметра к центру. Для систематического уничтожения стай саранчи будет использоваться специальное оборудование и искусственно созданные природные хищники."
+ tech_gpm_tb_locust_plagues_desc_hive_mind:0 "Для эффективной борьбы с роями саранчи мы должны разделить территорию на сектора и работать от периметра к центру. Для систематического уничтожения всей саранчи будет использоваться специальное оборудование и искусственно созданные хищники."
 
  tech_gpm_tb_locust_plagues_machine_intelligence:0 "Искусственные хищники"
  tech_gpm_tb_locust_plagues_desc_machine_intelligence:0 "Специально созданные механические насекомые будут использоваться для борьбы с саранчой."
@@ -949,7 +896,7 @@
  tech_gpm_tb_seasonal_flooding_desc_machine_intelligence:0 "Искусственные бассейны и глубокие подземные резервуары будут использоваться для защиты от паводковых вод, возникающих в результате естественных или искусственных планетарных изменений."
 
  tech_gpm_d_arachnophobia:0 "Это не шутки!"
- tech_gpm_d_arachnophobia_desc:0 "Если бы мы могли, мы бы улетели отсюда на следующем же корабле! Но, к сожалению, мы не можем, поэтому нам придётся иметь дело с этими гигантскими паукообразными. Возможно, нам понадобится гигантский огнемет. Что-то с огнём §всегда§! работает."
+ tech_gpm_d_arachnophobia_desc:0 "Если бы мы могли, мы бы улетели отсюда на следующем же корабле! Но, к сожалению, мы не можем, поэтому нам придётся иметь дело с этими гигантскими паукообразными. Возможно, нам понадобится гигантский огнемет. То, что связано с огнём, §Rвсегда§! работает."
 
  tech_gpm_d_arachnophobia_hive_mind:0 "Сдерживание гнёзд"
  tech_gpm_d_arachnophobia_desc_hive_mind:0 "Вокруг гнёзд этих паукообразных будет построена система камер содержания. Это значительно сократит их количество до более контролируемого уровня. Оставшихся паукообразных, которые существуют за пределами этих клеток, будут отлавливать и убивать."
@@ -961,10 +908,10 @@
  tech_gpm_d_dunes_desc:0 "Реализация проектов по удалению дюн включает в себя посадку растительности. Однако недостаточно просто рассеять семена над песком, поскольку их сдует первым же сильным порывом ветра. Высадка ростков производится в лощинах песчаных холмов или на песчаных низменностях. Сами семена помещаются во влажную среду и покрываются тонким слоем песка, а выросшие растения с удалённой для снижения парусности верхушкой перемещаются в специально заглублённые лунки."
 
  tech_gpm_precursor_remnants_discovery:0 "Нестандартное защитное снаряжение для археологов"
- tech_gpm_precursor_remnants_discovery_desc:0 "Позволяет вашим археологам подбирать специальное снаряжение и защиту, в соответствии с условием исследуемого места, что увеличивает шанс успеха!"
+ tech_gpm_precursor_remnants_discovery_desc:0 "Позволяет вашим археологам подбирать специальное снаряжение и защиту в соответствии с условиями исследуемого места, что увеличивает шанс успеха!"
 
  tech_gpm_precursor_remnants_discovery_2:0 "Шаблоны поиска с тройным зондированием"
- tech_gpm_precursor_remnants_discovery_2_desc:0 "Использование оптимизированной схемы поиска, с участием трёх зондов одновременно, значительно увеличивает наши возможности по сканированию поверхности миров."
+ tech_gpm_precursor_remnants_discovery_2_desc:0 "Использование оптимизированной схемы поиска с участием трёх зондов одновременно, значительно увеличивает наши возможности по сканированию поверхности миров."
 
  tech_gpm_precursor_energy_grid_discovery:0 "Каналы рециркуляции энергии"
  tech_gpm_precursor_energy_grid_discovery_desc:0 "Новые системы тепловой рециркуляции в каналах передачи энергии обеспечивают более эффективную передачу энергии. К сожалению, эта новая технология лучше всего работает в условиях вакуума и очень хрупка, поэтому лучше всего подходит для стационарных конструкций."
@@ -972,14 +919,14 @@
  tech_gpm_precursor_energy_grid_discovery_2:0 "Теории энергетического поля"
  tech_gpm_precursor_energy_grid_discovery_2_desc:0 "Новые теории энергетических полей положительно повлияют на нашу способность генерировать энергию."
 
- tech_gpm_precursor_satellite_grid_discovery:0 "Не излучающие станции наблюдения"
+ tech_gpm_precursor_satellite_grid_discovery:0 "Светопоглощающие станции наблюдения"
  tech_gpm_precursor_satellite_grid_discovery_desc:0 "Специальное покрытие из сверхчёрного материала, поглощающего радиочастоты, делает нашу станцию наблюдения и спутники практически невидимыми."
 
  tech_gpm_precursor_satellite_grid_discovery_2:0 "Усилители сигналов для глубокого космоса"
- tech_gpm_precursor_satellite_grid_discovery_2_desc:0 "Автономные спутники дальнего космоса действуют, как система усилителей связи на больших расстояниях. Эти усилители позволяют гораздо более эффективно передавать данные на большие расстояния."
+ tech_gpm_precursor_satellite_grid_discovery_2_desc:0 "Автономные спутники глубокого космоса действуют как система усилителей связи на больших расстояниях. Эти усилители позволяют гораздо более эффективно передавать данные на большие расстояния."
 
- tech_gpm_precursor_city_discovery:0 "Вдохновляющие дизайны"
- tech_gpm_precursor_city_discovery_desc:0 "Много экономичных и красивых архитектурных решений."
+ tech_gpm_precursor_city_discovery:0 "Вдохновляющий дизайн"
+ tech_gpm_precursor_city_discovery_desc:0 "Высокоэффективные и красивые архитектурные решения."
 
  tech_gpm_precursor_city_discovery_2:0 "Алгоритмическое планирование"
  tech_gpm_precursor_city_discovery_2_desc:0 "Сложное городское планирование, созданное с помощью передовых алгоритмов."
@@ -987,7 +934,7 @@
  tech_gpm_precursor_shipyards_discovery:0 "Фрактальное производство"
  tech_gpm_precursor_shipyards_discovery_desc:0 "Использование новых производственных технологий для печати малых деталей с фрактальной сеткой позволяет нам сэкономить на материалах."
 
- tech_gpm_precursor_shipyards_discovery_2:0 "Единицы быстрого обмена"
+ tech_gpm_precursor_shipyards_discovery_2:0 "Юниты быстрой замены"
  tech_gpm_precursor_shipyards_discovery_2_desc:0 "Крошечные роботизированные манипуляторы, оснащённые собственными базовыми блоками искусственного интеллекта, позволяют более эффективно заменять компоненты с гораздо меньшими затратами материала."
 
  tech_gpm_precursor_planetary_gun_discovery:0 "Квантовые алгоритмы прогнозирования"
