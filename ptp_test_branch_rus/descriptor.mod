@@ -1,4 +1,4 @@
-name="PTP - RusLoc Test Branch"
+name="PTP - Test Branch"
 tags={
 	"PTP"
 	"Translation"
