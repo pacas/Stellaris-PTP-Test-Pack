@@ -1,0 +1,123 @@
+﻿l_russian:
+ civic_overmind_secondary_species:0 "Дистанционные дроны"
+ origin_tooltip_overmind_effects:0 "Начните игру в качестве §YСверхразума§! со всеми поселениями типа §Yдистанционный дрон§!. Попы будут иметь §Yполное гражданство§! и §Yстандартный уровень жизни улья§!. \n\nТолько представители §Yосновного вида§! могут стать §Yлидерами§!\nПредставители §Yосновного вида§! могут стать только §Yлидерами§!, обывателями им не бывать\n§EВсегда можно §Hассимилировать§! биологические поселения§!\n\n§RЧленов§! §Yосновного вида§! §Rнельзя генетически модифицировать§!"
+ origin_hive_overmind:0 "Сверхразум"
+ origin_hive_overmind_desc:0 "Этот улей управляется §YСверхразумом§!, но все работы производят только §Yдистанционные дроны§!."
+ civic_hive_deep_space_connection:0 "Подсоединение к грибнице"
+ civic_hive_deep_space_connection_desc:0 "Улей имеет глубокую связь с самим мирозданием и может в какой-то мере общаться с ним."
+ civic_hive_strong_connection:0 "Технология биоинтеграции"
+ civic_hive_strong_connection_desc:0 "Часть экипажа, часть корабля . Коллективный разум интегрируется со своими технологиями, что делает невозможным понимание его другими империями."
+ civic_tooltip_strong_connection_effects:0 "Наши технологии и инженерные достижения настолько сложны, что никому не удается осуществить инженерный анализ."
+ GetPurgeProcessingResource_life:0 "новые формы жизни, производство §HПовов§! вплоть до смерти и сокращают пищу"
+ GetPurgeProcessingResource_all:1 "ресурс"
+ 
+ civic_hive_parasitic:0 "Паразитические эмбрионы"
+ civic_hive_parasitic_desc:0 "Этот улей использует другие §Yорганические формы жизни§! для откладывания эмбрионов в их тела и увеличения §Yколичества населения§!."
+ civic_tooltip_parasitic_effects:0 "Позволяет вашей империи  §Yперерабатывать органические формы жизни§!, заражая их и заставляя рожать новое население вашего §Yосновного вида§! во время геноцида.\n\nЕсть повод к войне §Y'потребовать жертвоприношений'§! ко всем остальным империям, который позволяет §YПаразитическим эмбрионам§! заставлять данника отдавать £pop£ §Yпоселения§! в качестве дани."
+ civic_hive_parasitic_lithoid:0 "Кристаллические споры"
+ civic_hive_parasitic_lithoid_desc:0 "Этот улей использует кристаллические споры для заражения других §Yорганических видов§!, чтобы увеличивать размер §Yсвоего населения§!."
+ civic_hive_parasitic_necroid:0 "Некротическая инфекция"
+ civic_hive_parasitic_necroid_desc:0 "Этот улей использует тела других §Yорганических§! видов для выполнения процессов, которые некоторые считают противоестественными, чтобы увеличивать размер §Yсвоего населения§!."
+ 
+ civic_hive_natural_attraction:0 "Природная приманка"
+ civic_hive_natural_attraction_desc:0 "Подобно тому, как пчёл привлекают цветы, улей отлично справляется с добычей £food£ §Yпищи§! на §Yфермах§! и либо £food£ §Yпищей§!, либо £minerals£ §Yминералами§! от §Yскота§!."
+ civic_hive_natural_attraction_necroid:0 "Противоестественное стремление"
+ civic_hive_natural_attraction_necroid_desc:0 "Необычное стремление движет этим ульем. Эта странная тяга к необычным источникам пищи помогает им преуспеть в сборе £food£ §Yпищи§! с §Yферм§! и либо £food£ §Yпищи§!, либо £minerals£ §Yминералов§! от §Yскота§!."
+ personality_hive_farmers_desc:0 "Галактика полна органических продуктов, готовых к выращиванию и эксплуатации. В удовлетворении потребностей нет ничего плохого"
+ personality_hive_farmers:0 "Галактические собиратели"
+ personality_parasitic_alien_desc:0 "Заражатели тел, вероятно, ценят другие формы жизни больше, чем любые другие виды, ведь все эти формы жизни являются матками для будущих эмбрионов."
+ personality_parasitic_alien:0 "Заражатели тел"
+ civic_tooltip_focused_mind_effects:0 "Добавляет политику §Yфокус на исследованиях§! чтобы фокусировать и перенаправить приоритеты коллектива между §Y£society£ $society_research$§!, §Y£physics£ $physics_research$§! и §Y£engineering£ $engineering_research$§! исследованиями."
+ civic_hive_focused_mind:0 "Сосредоточенный Коллектив"
+ civic_hive_focused_mind_desc:0 "Прогресс невозможен без перемен, а те, кто не может изменить свой ум, не могут уже изменить ничего. Этот улей обладает способностью перестраивать свои коллективные синаптические связи по желанию, дабы блистать в различных областях знаний."
+
+ policy_focused_mind_policy:0 "Целенаправленная политика"
+ policy_focused_mind_policy_desc:0 "Ум - мощная вещь. Это может провести вас сквозь стены и пространство."
+ 
+ focus_mind_normal:0 "Сбалансированный синапс"
+ focus_mind_normal_desc:0 "Изменения всегда должны быть сбалансированы с определенной степенью последовательности."
+ 
+ focus_mind_society:0 "Бескорыстное любопытство"
+ focus_mind_society_desc:0 "Межличностные навыки и формирование кооперативных и взаимозависимых отношений завораживают разум."
+ 
+ focus_mind_engineering:0 "Творческая смелость"
+ focus_mind_engineering_desc:0 "Способность создавать и моделировать новые объекты - это лишь результат работы творческого и смелого ума, сумевшего вообразить невозможное."
+ 
+ focus_mind_physics:0 "Логико-математический ум"
+ focus_mind_physics_desc:0 "Разум заинтересован в паттернах, категориях и отношениях между ним. Его завораживают арифметические задачи, стратегические игры и эксперименты."
+ 
+ 
+ #obsolete
+ focus_mind_unity:0 "Стабилизация дронов"
+ focus_mind_unity_desc:0 "Соблюдайте добросовестность и справедливость по отношению ко всем дронам. Развивайте мир и гармонию со всеми."
+ focus_mind_research:0 "Хаотический мозговой штурм"
+ focus_mind_research_desc:0 "Прогресс невозможен без изменений, и те, кто не может изменить свое мнение, не могут ничего изменить."
+ #obsolete end
+ focus_mind_ai:0 "Целенаправленный ИИ"
+ focus_mind_ai_desc:0 "ИИ будет использовать это и только это"
+
+
+ policy_blood_tributary_policy:0 "Сбор населения"
+ policy_blood_tributary_policy_desc:0 "Поскольку у нас есть данники, мы должны чётко определиться о том, как часто им придется платить свою дань."
+ blood_tributary_greedy:0 "Ежегодный сбор"
+ blood_tributary_greedy_name:0 "Ежегодный сбор"
+ blood_tributary_greedy_desc:0 "Каждая планета должна ежегодно выплачивать свою дань."
+ blood_tributary_balanced:0 "Сбор новорождённых"
+ blood_tributary_balanced_name:0 "Сбор новорождённых"
+ blood_tributary_balanced_desc:0 "За каждого новорожденного нужно платить дань."
+ blood_tributary_magnanimous:0 "Великодушие"
+ blood_tributary_magnanimous_name:0 "Великодушие"
+ blood_tributary_magnanimous_desc:0 "Мы - великодушный повелитель, который позволяет нашим подданным расти.\nПоловина их новорожденных будет предложена нам в качестве дани, зато другая будет полностью свободна."
+ 
+ 
+ 
+ 
+ gov_hive_farmers:0 "Галактические Собиратели"
+ gov_hive_farmers_desc:0 "Галактика полна органических продуктов, готовых к выращиванию и эксплуатации. Нет ничего плохого в удовлетворении своих потребностей."
+ gov_parasitic_alien:0 "Выводок паразитов"
+ gov_parasitic_alien_desc:0 "Расплодившиеся паразиты - безжалостные органические вредители, они будут обшаривать галактику и заражать каждый найденный организм своими личинками."
+ opinion_parasitic_alien:0 "$civic_hive_parasitic$"
+ opinion_parasitic_alien_overlord: "Паразитический повелитель "
+ trait_hive_mind_overlord:0 "Владыки улья"
+ trait_hive_mind_overlord_desc:0 "§LЭти виды контролируют другие виды, используя свое коллективное сознание.§!\n"
+ trait_hive_mind_remote_drone:0 "Дистанционные дроны"
+ trait_hive_mind_remote_drone_desc:0 "§LЭти виды служат своим хозяевам.§!\n"
+ mod_planet_researchers_unity_produces_add:0 "£unity£ Единство от £job_researcher£ $job_researcher_plural$"
+ mod_planet_livestock_food_produces_mult:0 "£food£ пища от £job_livestock£ $job_livestock_plural$"
+ mod_planet_livestock_minerals_produces_mult:0 "£minerals£ минералы от £job_livestock£ $job_livestock_plural$"
+ organic_structures:0 "Органические структуры"
+ organic_lithoid_structures:0 "Живые структуры"
+ organic_lithoid_structures_tooltip:0 "Здания этого улья представляют собой живых существ, в которых были интегрированы минералы."
+ organic_structures_tooltip:0 "Здания и корабли этого улья представляют собой живых существ, которые ранее были личинками."
+ creates_remote_drone:0 "Создаст поселение §Yдистанционных дронов§!."
+
+ d_collapsed_burrows_remote:0 "$d_collapsed_burrows$"
+ d_collapsed_burrows_remote_desc:0 "$d_collapsed_burrows_desc$"
+ d_hibernating_lithoids_remote:0 "$d_hibernating_lithoids$"
+ d_hibernating_lithoids_remote_desc:0 "$d_hibernating_lithoids_desc$"
+
+
+ TRAIT_OVERMIND_OVERLORD_EFFECT:0 "Можно создавать только §Yлидеров§!\nНельзя создавать §Yпоселения§!"
+
+ TRAIT_REMOTE_DRONE_EFFECT:0 "Пригодность: §G+10%§!\nНельзя создавать §Yлидеров§!"
+
+ leader_trait_admiral_eonian: "Вечный"
+ leader_trait_admiral_eonian_desc: "Этот лидер существует целую вечность, его опыт позволяет ему превосходить многих противников."
+
+ leader_trait_general_eonian: "$leader_trait_admiral_eonian$"
+ leader_trait_general_eonian_desc: "Этот лидер существует целую вечность, одержав победу во множестве битв."
+
+ leader_trait_governor_eonian: "$leader_trait_admiral_eonian$"
+ leader_trait_governor_eonian_desc: "Этот лидер существует целую вечность и правил многими поселениями."
+
+ leader_trait_scientist_eonian: "$leader_trait_admiral_eonian$"
+ leader_trait_scientist_eonian_desc: "Этот лидер существует целую вечность и знает немного обо всем, что может предложить Вселенная."
+
+
+ overmind_lithoids: "Повелители литоидов"
+ overmind_lithoids_tooltip: ""
+ overmind_biological: "Повелители биоформ"
+ overmind_biological_tooltip: ""
+
+ START_SCREEN_OVERMIND:0 "Хотя наше истинное происхождение скрыто во мраке, мы знаем, что когда-то мы были великим коллективом, способным к образованию безграничной синаптической связи. Именно эта связь позволила нам существовать даже тогда, когда все наши тела умерли.\n\nКаким образом мы ассимилировали в коллектив этих дистанционных дронов и какую роль они играли в нашей жизни, тоже остаётся загадкой, но именно благодаря этим симбиотическим отношениям мы смогли продолжить свое существование и стать готовыми к распространению нашего улья по галактике."
+

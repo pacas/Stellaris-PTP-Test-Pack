@@ -1,0 +1,204 @@
+﻿l_russian:
+
+###############################
+### Modifiers #################
+###############################
+
+#######################
+## Armies #############
+#######################
+
+# Armies
+mod_armies_minerals_cost_add:0 "Стоимость армии в минералах"
+mod_armies_food_cost_add:0 "Стоимость армии в пище"
+mod_armies_larva_cost_add:0 "Стоимость армии в личинках"
+
+
+#######################
+## Buildings ##########
+#######################
+
+# All Buildings
+mod_planet_buildings_larva_cost_add:0 "Стоимость создания личинки"
+
+# Branch Office Buildings
+mod_planet_branch_offices_energy_cost_add:0 "Стоимость зданий филиала в энергии"
+mod_planet_branch_offices_food_cost_add:0 "Стоимость зданий филиала в пище"
+mod_planet_branch_offices_larva_cost_add:0 "Стоимость зданий филиала в личинках"
+
+# Strongholds
+mod_planet_buildings_strongholds_minerals_cost_mult:0 "Стоимость цитадели в минералах"
+mod_planet_buildings_strongholds_food_cost_add:0 "Стоимость цитадели в пище"
+mod_planet_buildings_strongholds_larva_cost_add:0 "Стоимость цитадели в личинках"
+
+
+#######################
+## Colonies ###########
+#######################
+
+# Colonies
+mod_colonies_alloys_cost_mult:0 "Стоимость колонии в сплавах"
+mod_colonies_larva_cost_add:0 "Стоимость колонии в личинках"
+
+
+#######################
+## Country ############
+#######################
+
+# Base Production
+mod_country_base_larva_produces_add:0 "Начать производство личинок"
+
+# Resource Storage Maximum
+mod_country_resource_max_minerals_add:0 "Вместимость хранилища £minerals£ минералов"
+mod_country_resource_max_food_add:0 "Вместимость хранилища £food£ пищи"
+
+
+#######################
+## Districts ##########
+#######################
+
+# All Districts
+mod_planet_districts_larva_cost_add:0 "Стоимость района в личинках"
+
+# City Districts
+mod_planet_districts_cities_minerals_cost_mult:0 "Стоимость жилого района в минералах"
+mod_planet_districts_cities_food_cost_add:0 "Стоимость жилого района в пище"
+mod_planet_districts_cities_larva_cost_add:0 "Стоимость жилого района в личинках"
+
+# Habitat Astro-Mining Bays
+mod_planet_districts_hab_mining_minerals_cost_mult:0 "Стоимость добывающей орбитали в минералах"
+mod_planet_districts_hab_mining_food_cost_add:0 "Стоимость добывающей орбитали в пище"
+mod_planet_districts_hab_mining_larva_cost_add:0 "Стоимость добывающей орбитали в личинках"
+
+# Habitat Industrial Districts
+mod_planet_districts_hab_industrial_minerals_cost_mult:0 "Стоимость промышленной орбитали в минералах"
+mod_planet_districts_hab_industrial_food_cost_add:0 "Стоимость промышленной орбитали в пище"
+mod_planet_districts_hab_industrial_larva_cost_add:0 "Стоимость промышленной орбитали в личинках"
+
+# Habitat Reactor Districts
+mod_planet_districts_hab_energy_minerals_cost_mult:0 "Стоимость энергетической орбитали в минералах"
+mod_planet_districts_hab_energy_food_cost_add:0 "Стоимость энергетической орбитали в пище"
+mod_planet_districts_hab_energy_larva_cost_add:0 "Стоимость энергетической орбитали в личинках"
+
+# Habitat Research Districts
+mod_planet_districts_hab_research_minerals_cost_mult:0 "Стоимость научной орбитали в минералах"
+mod_planet_districts_hab_research_food_cost_add:0 "Стоимость научной орбитали в пище"
+mod_planet_districts_hab_research_larva_cost_add:0 "Стоимость научной орбитали в личинках"
+
+# Industrial Districts
+mod_planet_districts_industrial_minerals_cost_mult:0 "Стоимость промышленного района в минералах"
+mod_planet_districts_industrial_food_cost_add:0 "Стоимость промышленного района в пище"
+mod_planet_districts_industrial_larva_cost_add:0 "Стоимость промышленного района в личинках"
+
+
+#######################
+## Ships ##############
+#######################
+
+# Battleships
+mod_ship_battleship_larva_cost_add:0 "Стоимость линкора в личинках"
+mod_ship_battleship_energy_upkeep_mult:0 "Содержание линкора в энергии"
+mod_ship_battleship_minerals_upkeep_add:0 "Содержание линкора в минералах"
+
+# Colossi
+mod_ship_colossus_larva_cost_add:0 "Стоимость колосса в личинках"
+mod_ship_colossus_energy_upkeep_mult:0 "Содержание колосса в энергии"
+mod_ship_colossus_minerals_upkeep_add:0 "Содержание колосса в минералах"
+mod_ship_colossus_food_cost_add:0 "Стоимость колосса в пище"
+mod_ship_colossus_alloys_cost_mult:0 "Стоимость колосса в сплавах"
+mod_ship_colossus_food_upkeep_add:0 "Содержание колосса в пище"
+mod_ship_colossus_alloys_upkeep_mult:0 "Содержание колосса в сплавах"
+
+# Construction Ships
+mod_ship_constructor_larva_cost_add:0 "Стоимость строительного корабля в личинках"
+mod_ship_constructor_energy_upkeep_mult:0 "Содержание строительного корабля в энергии"
+mod_ship_constructor_minerals_upkeep_add:0 "Содержание строительного корабля в минералах"
+
+# Corvettes
+mod_ship_corvette_larva_cost_add:0 "Стоимость корвета в личинках"
+mod_ship_corvette_energy_upkeep_mult:0 "Содержание корвета в энергии"
+mod_ship_corvette_minerals_upkeep_add:0 "Содержание корвета в минералах"
+
+# Cruisers
+mod_ship_cruiser_larva_cost_add:0 "Стоимость крейсера в личинках"
+mod_ship_cruiser_energy_upkeep_mult:0 "Содержание крейсера в энергии"
+mod_ship_cruiser_minerals_upkeep_add:0 "Содержание крейсера в минералах"
+
+# Destroyers
+mod_ship_destroyer_larva_cost_add:0 "Стоимость эсминца в личинках"
+mod_ship_destroyer_energy_upkeep_mult:0 "Содержание эсминца в энергии"
+mod_ship_destroyer_minerals_upkeep_add:0 "Содержание эсминца в минералах"
+
+# Juggernauts
+mod_ship_juggernaut_larva_cost_add:0 "Стоимость джаггернаута в личинках"
+mod_ship_juggernaut_food_cost_add:0 "Стоимость джаггернаута в пище"
+mod_ship_juggernaut_alloys_cost_mult:0 "Стоимость джаггернаута в сплавах"
+mod_ship_juggernaut_food_upkeep_add:0 "Содержание джаггернаута в пище"
+mod_ship_juggernaut_alloys_upkeep_mult:0 "Содержание джаггернаута в сплавах"
+
+# Science Ships
+mod_ship_science_larva_cost_add:0 "Стоимость научного корабля в личинках"
+mod_ship_science_energy_upkeep_mult:0 "Содержание научного корабля в энергии"
+mod_ship_science_minerals_upkeep_add:0 "Содержание научного корабля в минералах"
+
+# Titans
+mod_ship_titan_larva_cost_add:0 "Стоимость титана в личинках"
+mod_ship_titan_energy_upkeep_mult:0 "Содержание титана в энергии"
+mod_ship_titan_minerals_upkeep_add:0 "Содержание титана в минералах"
+
+
+
+#######################
+## Starbases ##########
+#######################
+
+# Citadel
+mod_starbase_citadel_energy_upkeep_mult:0 "Содержание цитадели в энергии"
+mod_starbase_citadel_minerals_upkeep_add:0 "Содержание цитадели в минералах"
+mod_starbase_citadel_food_upkeep_add:0 "Содержание цитадели в пище"
+
+# Defense Stations
+mod_ship_military_station_small_larva_cost_add:0 "Стоимость оборонительной платформы в личинках"
+
+# Ion Cannon
+mod_starbase_ion_cannon_food_cost_add:0 "Стоимость ионной пушки в пище"
+mod_starbase_ion_cannon_alloys_cost_mult:0 "Стоимость ионной пушки в сплавах"
+mod_starbase_ion_cannon_larva_cost_add:0 "Стоимость ионной пушки в личинках"
+
+# Mining Stations
+mod_station_gatherers_minerals_upkeep_add:0 "Содержание добывающей станции в минералах"
+mod_station_gatherers_larva_cost_add:0 "Стоимость добывающей станции в личинках"
+
+# Observation Stations
+mod_station_observers_minerals_upkeep_add:0 "Содержание наблюдательной станции в минералах"
+mod_station_observers_larva_cost_add:0 "Стоимость наблюдательной станции в личинках"
+
+# Research Stations
+mod_station_researchers_minerals_upkeep_add:0 "Содержание научной станции в минералах"
+mod_station_researchers_larva_cost_add:0 "Стоимость научной станции в личинках"
+
+# Starbase Buildings/Modules
+mod_starbase_buildings_larva_cost_add:0 "Стоимость зданий звёздной базы в личинках"
+mod_starbase_modules_larva_cost_add:0 "Стоимость модуля звёздной базы в личинках"
+
+# Star Fortress
+mod_starbase_starfortress_energy_upkeep_mult:0 "Содержание звёздной крепости в энергии"
+mod_starbase_starfortress_minerals_upkeep_add:0 "Содержание звёздной крепости в минералах"
+mod_starbase_starfortress_food_upkeep_add:0 "Содержание звёздной крепости в пище"
+
+# Starhold
+mod_starbase_starhold_energy_upkeep_mult:0 "Содержание твердыни в энергии"
+mod_starbase_starhold_minerals_upkeep_add:0 "Содержание твердыни в минералах"
+mod_starbase_starhold_food_upkeep_add:0 "Содержание твердыни в пище"
+
+# Starport
+mod_starbase_starport_energy_upkeep_mult:0 "Содержание верфи в энергии"
+mod_starbase_starport_minerals_upkeep_add:0 "Содержание верфи в минералах"
+mod_starbase_starport_food_upkeep_add:0 "Содержание верфи в пище"
+
+# Outpost
+mod_starbase_outpost_food_cost_add:0 "Стоимость форпоста в пище"
+mod_starbase_outpost_larva_cost_add:0 "Стоимость форпоста в личинках"
+mod_starbase_outpost_energy_upkeep_mult:0 "Содержание форпоста в энергии"
+mod_starbase_outpost_minerals_upkeep_add:0 "Содержание форпоста в минералах"
+mod_starbase_outpost_food_upkeep_add:0 "Содержание форпоста в пище"

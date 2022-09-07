@@ -1,0 +1,18 @@
+﻿l_russian:
+
+
+###############################
+## Army Namelists #############
+###############################
+
+# Horrorworm
+HORRORWORM_Eldritch_Swarm_ORD:0 "$O$ Жуткий Рой"
+HORRORWORM_Cruxyn_ORD:0 "$O$ Круксин"
+HORRORWORM_Raspryr_ORD:0 "$O$ Распрыр"
+HORRORWORM_Hollows_ORD:0 "$O$ Опустошитель"
+HORRORWORM_Mirrored_Srel_ORD:0 "$O$ Зеркальный Срель"
+HORRORWORM_Sklinths_ORD:0 "$O$ Склинты"
+HORRORWORM_Skrarah_ORD:0 "$O$ Скрарах"
+HORRORWORM_Neurkt_ryn_ORD:0 "$O$ Нейркт'рин"
+HORRORWORM_Clythrit_ORD:0 "$O$ Клитрит"
+HORRORWORM_Genosrethitr_ORD:0 "$O$ Геносретитр"

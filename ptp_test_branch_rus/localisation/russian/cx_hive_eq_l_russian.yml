@@ -1,0 +1,51 @@
+﻿l_russian:
+ job_queen_drone:0 "Королева-матка"
+ job_queen_drone_desc:0 "Королеве лучше всего заниматься производством трутней, а не лидерством. Она попытается взять под контроль планету, дестабилизируя колонию и объединяя против неё других членов роя."
+ district_hollow_housing:0 "Пещерный комплекс"
+ district_hollow_housing_desc:0 "Обширная сеть пещер и каверн, которые могут вмещать множество трутней, а также добывать энергию и минералы."
+ district_hollow_housing_plural:0 "Пещерные комплексы"
+ district_queen_den:0 "Логово размножения"
+ district_queen_den_desc:0 "Эти подземные логова под разумной и нежной заботой специалистов стимулируют наше размножение и подталкивают синаптическую сеть к более быстрому росту."
+ district_queen_den_plural:0 "Логова размножения"
+ district_subterranean_network:0 "Подземная сеть ресурсов"
+ district_subterranean_network_desc:0 "Это взаимосвязанная и самообеспечивающаяся сеть пещер и ходов. Здесь минералы собираются из мантии планеты, а энергия - напрямую из жидкого внешнего ядра."
+ district_subterranean_network_plural:0 "Подземные сети ресурсов"
+ district_soldier_den:0 "Логово солдат"
+ district_soldier_den_desc:0 "Логова солдат - это места, где находятся самые грозные члены роя."
+ district_soldier_den_plural:0 "Логова солдат"
+ mod_job_queen_drone_add:0 "Королева-матка"
+ job_queen_drone_plural:0 "Королевы-матки"
+ job_queen_drone_effect_desc:0 "Королевы-матки увеличивают §Hскорость роста§! но дестабилизируют планету."
+
+
+ trait_pc_hollow_preference:0 "Предпочтительный пустотелый мир"
+ trait_pc_hollow_preference_desc:0 "§LКлиматические предпочтения закладываются в результате многих тысячелетий эволюции, согласно замыслу или в ходе искусных генетических манипуляций.§!\n"
+ mod_pc_hollow_habitability:0 "Приспособленность - пустотелый мир"
+
+
+
+ mod_planet_refiners_exotic_gases_produces_add: "$exotic_gases$ от $job_gas_refiner_drone_plural$"
+ mod_planet_translucers_rare_crystals_produces_add: "$rare_crystals$ от $job_translucer_drone_plural$"
+ mod_planet_chemists_volatile_motes_produces_add: "$volatile_motes$ от $job_chemist_drone_plural$"
+
+ ap_hollow_project:0 "Проект «Полая планета»"
+ ap_hollow_project_desc:1 "Без чертежей или лидеров, указывающих, что делать, тысячи из нас создадут сложную, губчатую структуру с параллельными уровнями, соединенными сетью туннелей."
+ 
+ allow_hollow_project:0 "§HРазблокируется решение:§! $ap_hollow_project$"
+ decision_hollow_project:0 "$ap_hollow_project$"
+ decision_hollow_project_effects:1 "Превращает планету в §Y$pc_hollow$§!, повышающий £housing£ §Y$PLANET_HOUSING_TITLE$§!, §Yпроизводство ресурсов§! и §Yскорость роста§! и откроет особые £district£ §Yрайоны§! но при этом природные ресурсы планеты становятся §Rне доступными§!, что мешает любому дальнейшему строительству £district£ §Yэнергетических§!, §Yгорнодобывающих§! и §Yаграрных районов§!."
+ decision_hollow_project_effects_short:2 "Повышает £housing£ §Y$PLANET_HOUSING_TITLE$§! и §Yскорость роста§!\nРазрешает строить £district£ §Yособые районы§!\nЗапрещает строительство £district£ §Yэнергетических§!, §Yгорнодобывающих§! и §Yаграрных районов§!."
+ decision_hollow_project_requirements:0 "£trigger_no£ §RВо всех ячейках районов на планете должны быть§! §Y$district_hive_plural$§!"
+ decision_hollow_project_desc:1 "Без чертежей или лидеров, указывающих, что делать, тысячи из нас создадут сложную, губчатую структуру с параллельными уровнями, соединенными сетью туннелей."
+
+ pc_hollow:0 "Полая планета"
+ pc_hollow_desc:0 "Пещеры и тоннели расположены по всей коре планеты и большей части мантии, используя внутреннее ядро планеты в качестве источника тепла и энергии для поддержания жизни на более низких уровнях."
+ 
+ 
+ eq.200.name:0 "§HПолый мир§!: [Root.GetName] завершён"
+ eq.200.desc:0 "Пещеры и тоннели тянутся внутри коры планеты, достигая мантии\.\n\nСпустя всего несколько лет после начала этого грандиозного проекта уже трудно вспомнить, какой была поверхность планеты [Root.GetName]. Зеленой от растительности? Труднопроходимой? Теперь здесь холмы и пещеры - на многие мили в любом направлении.\n\nМесто, когда-то сформированное под действием случая и бездумных законов природы, теперь представляет собой конструкцию, возникшую из неукротимой цели."
+ eq.200.a:0 "Мы выкопали это."
+
+
+ decision_prospect_hollow:0 "$decision_prospect$"
+ decision_prospect_hollow_desc:0 "$decision_prospect_desc$"

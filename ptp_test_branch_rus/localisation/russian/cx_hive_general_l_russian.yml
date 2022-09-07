@@ -1,0 +1,214 @@
+﻿l_russian:
+
+
+  ####################################
+  # Content
+  ####################################
+
+ job_cocoon:0 "Генетический сборщик"
+ job_cocoon_plural:0 "Генетические сборщики"
+ job_cocoon_desc:0 "Эти специалисты работают в камерах биомассы, где они проектируют, собирают и выращивают биологически спроектированные эмбрионы."
+ mod_job_cocoon_add:0 "$job_cocoon$"
+ mod_job_cocoon_per_pop:0 "Рабочие места $job_cocoon$ добавляются при §Y0§!, §Y15§!, §Y30§! и §Y60§! £pop£ §Yпоселениях§!"
+ mod_job_cocoon_per_pop_short:0 ""
+ 
+
+ building_cocoons_plant:0 "Камеры биомассы"
+ building_cocoons_plant_desc:0 "Эти камеры обеспечивают герметичную среду, в которой хранится биомасса и интегрируется в коллектив."
+
+ tech_gene_manipulation:0 "Искусственные генетические изменения"
+ tech_gene_manipulation_desc:0 "Мы больше не будем ограничены основной биологической структурой вида в попытках её улучшения. ДНК - это просто ещё один материал, который должен быть изменён согласно видению скульптора."
+
+
+
+ #\nSpecies within our empire can §YCrossbreed§!.
+ life_masters_tooltip:0 "Добавлен модификатор §Y$life_masters_1_trait$§!, который дает бонус за каждый уникальный вид.\nВероятность §Yинтеграции биомассы§! удвоилась (этот параметр всё равно произойдет только один раз биомассу для каждого уникального вида)."
+ #Species grown in cocoons can now gain an additional otherwise unattainable random trait, the main species type will favor some traits over others.
+ life_crafters_tooltip:0 "Появятся технологии по созданию космических существ на верфях."
+
+ pop_cat_life_masters_trophy: "Биомасса"
+ pop_cat_life_masters_trophy_plural: "Биомассы"
+ pop_cat_life_masters_trophy_desc: "Биологическая материя, используемая ульем для эволюции."
+
+ job_life_masters_bio_trophy: "Вкладчик биомассы"
+ job_life_masters_bio_trophy_plural: "Вкладчики биомассы"
+ job_life_masters_bio_trophy_desc: "Эти люди используются ульем в качестве биологической материи для эволюции."
+ job_life_masters_bio_trophy_effect_desc: "£job_life_masters_bio_trophy£ $job_life_masters_bio_trophy_plural$ (Био-трофеи) производят §Y£society£ $society_research$§! и §Yсоздают комплексных дронов§!"
+
+ mod_job_life_masters_bio_trophy_add: "$job_life_masters_bio_trophy$"
+ mod_job_life_masters_bio_trophy_per_pop: "$job_life_masters_bio_trophy$: §G+1§! за каждые 10 £pop£ §Yпоселений§!"
+ mod_job_life_masters_bio_trophy_per_pop_short: ""
+ 
+ 
+  
+ hive_mind_biological_ascension_only1:0 "Требуется Коллективный Разум"
+
+ ap_life_assemblers:0 "Интеграция биомассы"
+ ap_life_assemblers_desc:0 "Радоваться блаженному неведению галактики, кишащей биомассой - ошибка, которую мы больше не совершим."
+ ap_life_masters:0 "Мутагенная эволюция"
+ ap_life_masters_desc:0 "Интеграция биомассы - это первичная функция коллектива, позволяющая нам эволюционировать дальше, постоянно изменяя наш генетический материал."
+
+ MESSAGE_SPECIES_MUTATION_TITLE:0 "Биомасса "
+ MESSAGE_SPECIES_MUTATION:0 "£pop£ Поселение мутировало при размножении на планете $PLANET|Y$"
+
+ tech_genetic_chimerism:0 "Мутагенный химеризм"
+ tech_genetic_chimerism_desc:1 "Достижения в области мутаций ДНК позволяют создавать организмы, состоящие из клеток с более чем одним фенотипом."
+ chimera_army:0 "Армия химер"
+ chimera_army_plural:0 "Армии химер"
+ chimera_army_desc:0 "Этими ненасытными ордами химер, созданных биоинженерами из ДНК нескольких различных животных, движет лишь инстинктивное желание убивать. Группа ученых следит за неистовыми стаями и пытается управлять их действиями, сидя в укрепленных бункерах вдали от линии фронта."
+
+
+
+ ap_life_assemblers_modifier_desc:1 "§Y$citizenship_organic_trophy$§! Гражданство включено\n§HОткрывает здание:§! $building_cocoons_plant$; специальное здание, предназначенное для хранения биомассы.\nПозволяет §Yинтеграции биомассы§! происходить между различными видами, живущими на любой своей планете, где есть хотя бы §Yулей§! и поселение §Yбиомассы§!. Интеграция биомассы приведёт к созданию §Yполу-вида§! который возьмёт свою внешность от поселения §Yулья§!, но получит смесь черт, §Y+1 к максимуму очков признаков§! и §Y+1 к максимуму признаков§!.\nИнтеграция биомассы может произойти только один раз для каждого уникального вида биомассы."
+ requires_technology_tech_cloning:0 "$TRIGGER_FAIL$Требуется технология £society£ §Y$tech_cloning$§!."
+ requires_ap_life_assemblers:0 "$TRIGGER_FAIL$Требуется бонус за стремление £unity£ §Y$ap_life_assemblers$§!"
+
+
+ life_masters_1_trait: "Мутагенная эволюция"
+ life_masters_2_trait: "$life_masters_1_trait$"
+ life_masters_3_trait: "$life_masters_1_trait$"
+ life_masters_4_trait: "$life_masters_1_trait$"
+ life_masters_5_trait: "$life_masters_1_trait$"
+ life_masters_6_trait: "$life_masters_1_trait$"
+ life_masters_7_trait: "$life_masters_1_trait$"
+ life_masters_8_trait: "$life_masters_1_trait$"
+ life_masters_9_trait: "$life_masters_1_trait$"
+ life_masters_10_trait: "$life_masters_1_trait$"
+
+
+
+
+  ####################################
+  # Traits
+  ####################################
+
+ trait_cortex:0 "Расширенная синаптическая кора"
+ trait_cortex_desc:0 "§LМозг этого вида вырос настолько, что сформировалась дополнительная синаптическая кора, позволяющая лучше понимать вселенную.§!\n"
+
+ trait_diaphragm:0 "Железные лёгкие"
+ trait_diaphragm_desc:0 "§LЭтот вид может дышать и использовать атмосферу более эффективно, чем иные, что позволяет ему действовать лучше в различных экосистемах.§!\n"
+
+ trait_scales:0 "Медленный метаболизм"
+ trait_scales_desc:0 "§LМедленный метаболизм позволяет органам этого вида деградировать медленнее.§!\n"
+
+ trait_wings:0 "Образцовые крылья"
+ trait_wings_desc:0 "§LАэродинамика крыльев этого вида позволяет им достигать новых высот.§!\n"
+
+ trait_exoskeleton:0 "Гибкий экзоскелет"
+ trait_exoskeleton_desc:0 "§LГибкий экзоскелет позволяет этому виду свободно перемещаться и передвигаться в стеснённых пространствах.§!\n"
+
+ trait_shell:0 "Усиленная внешняя оболочка"
+ trait_shell_desc:0 "§LИногда она работает как дом, а иногда - защитный механизм. Вид теперь может производить собственную усиленную внешнюю оболочку.§!\n"
+
+ trait_pheromones:0 "Привлекательные феромоны"
+ trait_pheromones_desc:0 "§LЭто химическое вещество, будучи произведенным и выпущенным в окружающую среду, затрагивает поведение других.§!\n"
+
+ trait_photosynthetic:0 "Фотосинтез"
+ trait_photosynthetic_desc:0 "§LЭтот вид владеет процессом фотосинтеза.§!\n"
+
+ trait_encrusted_minerals:0 "Интегрированные минералы"
+ trait_encrusted_minerals_desc:0 "§LЭтот вид интегрировал минералы в состав своего тела. Так что к ним частично применима биология литоидов.§!\n"
+
+ trait_metal_blood:0 "Металлическая кровь"
+ trait_metal_blood_desc:0 "§LЖивой металл течет в венах этого вида.§!\n"
+
+ trait_basic_genetic_template: "Базовый генетический шаблон"
+ trait_basic_genetic_template_desc: "§LГеном этого вида был существенно ограничен, чтобы создать минимально жизнеспособное существо, способное к быстрому росту.§!\n"
+
+ trait_hyperosmia: "Гиперосмия"
+ trait_hyperosmia_desc: "§LЭтот вид обладает сверхчувствительным обонянием.§!\n"
+
+ trait_lapidaries: "Лапидаристы"
+ trait_lapidaries_desc: "§LПредставители этого вида известны своими способностями к огранке, шлифовке и полировке камней, минералов или прочих драгоценностей.§!\n"
+
+ trait_panners: "Геопаннеры"
+ trait_panners_desc: "§LЭтот вид обладает глубокой связью с реками и шахтами, что делает их превосходными специалистами по горному делу.§!\n"
+
+ trait_ironmongers: "Железнобокие"
+ trait_ironmongers_desc: "§LПредставители этого вида широко известны своей связью с металлом.§!\n"
+
+ trait_refiners: "Переработчики"
+ trait_refiners_desc: "§LПредставители этого вида известны своими способностями к огранке, шлифовке и полировке камней, минералов или прочих драгоценностей.§!\n"
+
+ trait_disassemblable: "Разборность"
+ trait_disassemblable_desc: "§LПредставители этого вида при необходимости могут легко удалять и заменять свои части тела, что позволяет им занимать меньше места.§!\n"
+ 
+ 
+
+  ####################################
+  # Parasitic embryos
+  ####################################
+
+ job_purge_parasitic:0 "Чистка"
+ job_purge_parasitic_plural:0 "Чистки"
+ job_purge_parasitic_desc:2 "В соответствии с нашей политикой проводится чистка этого поселения."
+
+ casus_belli_cb_abduct:0 "Порабощение"
+ casus_belli_cb_abduct_acquire_hint:0 "\n§EБудучи независимой империей, мы получим §Hповод к войне§! §Y$casus_belli_cb_abduct$§! с §Hне-Гештальт§! империями.\n\n§RМы должны пребывать в мире!§!§!"
+
+ war_goal_wg_abduct:0 "Потребовать жертвоприношений"
+ war_goal_wg_abduct_desc:0 "Война ведётся с целью подчинения врага и превращения его в данника крови.\n\nЕсли будет заключён мир со статусом-кво, то оккупированные нами системы будут освобождены в качестве нового данника крови, если они будут включать в себя хотя бы одну планету."
+
+
+ casus_belli_cb_restraint:0 "Порабощение"
+
+ war_goal_wg_restraint:0 "Сдерживание"
+ war_goal_wg_restraint_desc:0 "Война ведётся для того, чтобы подчинить врага в качестве сдерживаемого данника, заставляя его освобождать всех подданных и платить дань каждый месяц.\n\nВ случае статуса-кво, системы, которые мы захватили, будут уступлены."
+ war_goal_wg_restraint_megacorp:0 "$war_goal_wg_restraint$"
+ war_goal_wg_restraint_megacorp_desc:0 "$war_goal_wg_restraint_desc$"
+
+ #War is waged to sieze pops from the enemy empire for our own. Upon victory we will claim 25% of their population."
+ #wg_abduct_accept:0 "§Y[Root.GetName]§! gains §G25%§! §YPops§! from §Y[From.GetName]§!"
+ SUBJECT_pop_tributary:0 "Данник крови"
+ SUBJECT_DESC_pop_tributary:0 "Данник крови - это тип субъекта, который дипломатически независим, но должен платить £pop£ §Yпоселения§! в качестве дани своему сюзерену."
+ MESSAGE_POP_SACRIFICED:0 "£pop£ §Y$SPECIES$ поселение§! с планеты $PLANET|Y$ было предложено в качестве дани и переселено на $TARGET_PLANET|Y$"
+ MESSAGE_POP_SACRIFICED_FROM_US:0 "£pop£ §Y$SPECIES$ поселение§§! с планеты $PLANET|Y$ было послано в качестве дани нашему сюзерену $ABDUCTER|Y$"
+
+ MESSAGE_PARASITE_COMPLETE_TITLE:0 "Поселение заражено"
+ MESSAGE_PARASITE_COMPLETE:0 "Поселение £pop£ было выращено после начала заражения планеты $PLANET|Y$"
+
+ MESSAGE_TRAIT_GAINED_TITLE:0 "Виды улучшены"
+ MESSAGE_TRAIT_GAINED:0 "Поселение £pop£ было улучшено в коконах на планете $PLANET|Y$"
+
+
+  ####################################
+  # OLD
+  ####################################
+
+
+
+
+ small_ship_swarm_bio:0 "Мурмлинг"
+ small_ship_swarm_bio_plural:0 "Мурмлинги"
+ medium_ship_swarm_bio:0 "Матёрый Мурмлинг"
+ medium_ship_swarm_bio_plural:0 "Матёрые Мурмлинги"
+ large_ship_carrier_swarm_bio:0 "Аниктус"
+ large_ship_carrier_swarm_bio_plural:0 "Аниктусы"
+ queen_swarm_bio:0 "Мурмицейская Королева"
+ queen_swarm_bio_plural:0 "Мурмицейские Королевы"
+
+
+
+ larva:0 "Личинка"
+ larva_desc:0 "Юношеская форма, которая подвергнется метаморфозе при переходе в взрослое состояние. Но во что же она превратится?"
+
+ mod_planet_refiners_exotic_gases_produces_mult: "£exotic_gases£ $exotic_gases$ от £job_gas_refiner_drone£ $job_gas_refiner_drone_plural$"
+ mod_planet_translucers_rare_crystals_produces_mult: "£rare_crystals£ $rare_crystals$ от £job_translucer_drone£ $job_translucer_drone_plural$"
+ mod_planet_chemists_volatile_motes_produces_mult: "£volatile_motes£ $volatile_motes$ от £job_chemist_drone£ $job_chemist_drone_plural$"
+
+ mod_planet_livestock_minerals_produces_add: "£minerals£ $minerals$ от £job_livestock£ $job_livestock_plural$"
+ mod_planet_livestock_sr_living_metal_produces_add: "£sr_living_metal£ $sr_living_metal$ от £job_livestock£ $job_livestock_plural$"
+ mod_planet_pops_organics_upkeep_mult: "Содержание биологических поселений"
+
+  ####################################
+  # Переводы от старых версий. Не используются, но оставленны на всякий случай.
+  ####################################
+
+ ap_life_crafters:0 "Творцы жизни"
+ ap_life_crafters_desc:0 "Искусство никогда не отвечает на желание сделать его демократичным; это не для всех; это только для тех, кто готов подвергнуться усилиям, необходимым, чтобы понять это."
+ building_cocoons_plant_1:0 "Пещера с коконами"
+ building_cocoons_plant_1_desc:0 "В этом здании есть связанная пещера, полная коконов."
+ building_cocoons_plant_2:0 "Каверны коконов"
+ building_cocoons_plant_2_desc:0 "В здании есть сеть каверн, полная коконов."
+ tech_cocoons:0 "Искусственные коконы"
+ tech_cocoons_desc:0 "Позволяет строить искусственные коконы, где можно разводить виды."

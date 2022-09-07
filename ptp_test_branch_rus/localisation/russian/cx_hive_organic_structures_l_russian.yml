@@ -1,0 +1,193 @@
+﻿l_russian:
+ ####################################
+ # Misc
+ ####################################
+
+
+
+ job_larva_queen:0 "Королева-матка"
+ job_larva_queen_plural:0 "Королевы-матки"
+ job_larva_queen_desc:0 "Взрослая королева сезонно производит крылатых молодых королев и самцов, называемых алатами. Не оплодотворенные яйца развиваются в самцов. А оплодотворенные - в бескрылых, стерильных рабочих, но могут развиться в королев-маток, если личинки будут получать особое внимание."
+ mod_job_larva_queen_per_pop:0 "§G+1§! $job_larva_queen$ за каждые $VALUE$ поселения"
+
+ civic_hive_organic:0 "Органические сооружения"
+ civic_hive_organic_desc: "Этот улей создает живые сооружения и космические корабли, изменяя эволюцию личинок."
+ origin_hive_organic:0 "Органические сооружения"
+ origin_hive_organic_desc: "Этот улей создает живые сооружения и космические корабли, изменяя эволюцию личинок."
+ civic_tooltip_organic_effects:0 "Вы начнёте игру с §Yорганическим§! набором кораблей (перезапишет выбранный набор).\n\n§YКорабли§!, §Yздания§! и §Yаванпосты§! требуют £food£ §Yпищу§! и £larva£ §Yличинок§! для строительства, но взамен им нужно меньше £alloys£ §Yсплавов§! и £minerals£ §Yминералов§!.\nЗа каждые 50 единиц населения даётся один вид деятельности £job_larva_queen£ §Y$job_larva_queen$§!.\nДобавится политика §YФокус размножения§!, что позволит специализировать производство §Y$job_larva_queen$§! между £larva£ §Yличинками§! и ростом поселений.\n§YЕжедневный регенерация корпуса§! увеличена на §G+1%§!\nВыработка фермеров: §G+2§!\nВыработка шахтёров: §R-1§!"
+ START_SCREEN_ORGANIC_STRUCTURES:0 "Хотя отдельные организмы обычно демонстрируют незначительные фенотипические вариации, наш вид эволюционировал таким образом, что наша врождённая фенотипическая пластичность позволила личинкам радикально изменять свою морфологию.\n\nПоначалу эта эволюционная черта лишь вносила беспорядок среди нашего вида, но по мере того, как мы приобретали единое сознание, мы стали считать наши различия благом и пользоваться ими.\n\nНаша фенотипическая пластичность оказалась полезной, когда дело дошло до преодоления разнообразных жизненных трудностей. королевы стали идеальными особями для выращивания новых личинок, что помогало улью расти, а другие представители нашего вида становились зданиями, кораблями, сложными дронами или рабочей силой.\n\nТеперь мы смотрим на звезды, размышляя, что же делать дальше.\n\nМы - коллектив, мы - едины."
+
+
+ civic_organic_lithoid:0 "Живые сооружения"
+ civic_organic_lithoid_desc: "Этот каменный улей создаёт живые сооружения и космические корабли, смешивая их структуры с твёрдой массой из минералов."
+ civic_tooltip_organic_lithoid_effects:0 "Вы начнёте игру с набором кораблей §Yлитоидов§! (перезапишет выбранный набор).\n\n§YКорабли§!, §YЗдания§! и §Yаванпосты§! требуют £minerals£ §Y$minerals$§! для содержания (для компенсации содержание в £energy£ §Yэнергии§! снижено.\n§YЕжедневный регенерация корпуса§! увеличена на §G+1%§!\nВыработка шахтёров: §G+2§!\nВыработка техников: §R-1§!"
+
+
+ organic_structures_alates_name:0 "Брачные полёты"
+ organic_structures_normal_name:0 "Сбалансированный выводок"
+ organic_structures_workers_name:0 "Стерильные рабочие"
+ policy_organic_structures_policy:0 "Фокус на размножении"
+ policy_organic_structures_policy_desc:0 "Это политика позволит сделать выбор относительно маток: они будут откладывать яйца которые превратятся в личинки алатов либо в рабочих."
+ organic_structures_normal:0 "Сбалансированный выводок"
+ organic_structures_normal_desc:0 "Сбалансированная колония - здоровая колония.\nКоролевы-матки: скорость роста населения: §G+2.5%§!"
+ organic_structures_alates:0 "Брачные полеты"
+ organic_structures_alates_desc:0 "Недостаток личинок - это проблема, регулярные брачные полеты помогают королевам-маткам откладывать больше личинок, которые позволят колонии расширяться и расти."
+ organic_structures_workers:0 "Стерильные рабочие"
+ organic_structures_workers_desc:0 "Если у выводка достаточно личинок, то следует увеличить количество рабочей силы, сократив количество брачных полетов до нуля, в результате чего личинки останутся не оплодотворёнными и никогда не смогут превратиться в какое-либо здание или корабль.\nКоролевы-матки: скорость роста населения: §G+5%§!"
+ mod_planet_larva_queens_larva_produces_add: "Личинка королевы-матки"
+ planet_larva_queens: "Королевы-матки"
+
+ ####################################
+ # Planetary Buildings
+ ####################################
+
+ building_bioresource_silo:0 "Бункеры для ресурсов"
+ building_bioresource_silo_desc:0 "Огромные бункеры для ресурсов и хранилища, в которых можно безопасно размещать ресурсы в большом количестве."
+
+ building_biobetharian_power_plant:0 "Бетарианская электростанция"
+ building_biobetharian_power_plant_desc:1 "Бетарианские электростанции потребляют бетарианские камни и производят энергокредиты в огромном количестве."
+
+ building_bioenergy_grid:0 "Энергосеть"
+ building_bioenergy_grid_desc:0 "Тщательно откалиброванная сеть максимально повышает мощность генераторов."
+ building_bioenergy_nexus:0 "Энергоядро"
+ building_bioenergy_nexus_desc:0 "Этот гигантский комплекс служит местом концентрации всех энергетических сетей на планете, повышая их эффективность."
+ building_biomineral_purification_plant:2 "Фабрики по очистке полезных ископаемых"
+ building_biomineral_purification_plant_desc:2 "Полезные ископаемые, которые прошли через эти очистители, имеют высшее качество."
+ building_biomineral_purification_hub:2 "Центры очистки полезных ископаемых"
+ building_biomineral_purification_hub_desc:2 "Крупные центры для приемки и перемещения полезных ископаемых к массивам очистителей."
+
+ building_bioplanetary_shield_generator:0 "Генератор планетарных щитов"
+ building_bioplanetary_shield_generator_desc:0 "$tech_planetary_shield_generator_desc$"
+
+ building_biostronghold:0 "Цитадель"
+ building_biostronghold_desc:0 "Планетарная цитадель со значительным гарнизоном, предназначенная для защиты этого мира от вторжений и восстаний."
+ building_biofortress:0 "Крепость"
+ building_biofortress_desc:2 "Огромный комплекс-крепость с усиленным гарнизоном и тренировочным лагерем для солдат."
+
+
+
+ ####################################
+ # Wonders
+ ####################################
+
+ building_superbrain:1 "Планетарный суперкомпьютер"
+ building_superbrain_desc:1 "Колоссальный обособленный суперкомпьютер, который может выполнять невероятно сложные расчеты, повышая тем самым темп научных исследований на всей планете."
+
+ building_biomilitary_academy:0 "Военная академия"
+ building_biomilitary_academy_desc:1 "Военные академии повышают скорость местной вербовки и предлагают более высокий стандарт обучения."
+
+
+ ## BUILDINGS ##
+ building_biohydroponics_farm:0 "Гидропонная ферма"
+ building_biohydroponics_farm_desc:0 "Гидропонные фермы производят питательное растительное вещество, предназначенное для потребления местными поселениями."
+
+ building_biocrystal_mines:0 "Кристальные рудники"
+ building_biocrystal_mines_desc:1 "К разработке данных рудников нужно подходить с особой осторожностью, чтобы избежать повреждения кристаллов."
+ building_bioalloy_1:0 "Сплаволитейные заводы"
+ building_bioalloy_1_desc:0 "Металлурги, работающие на этих заводах, производят высококачественные сплавы."
+ building_bioalloy_2:0 "Сплаволитейные мегакузницы"
+ building_bioalloy_2_desc:0 "Наладив массовое производство, эти кузницы могут выпускать сплавы в больших количествах."
+ building_bioalloy_3:0 "Сплаволитейные нанопредприятия"
+ building_bioalloy_3_desc:0 "Передовые промышленные центры, где в производстве сплавов участвуют наномашины."
+
+
+ building_bio_lab_1:0 "Научные лаборатории"
+ building_bio_lab_1_desc:0 "Научные лаборатории предоставляют базовое оборудование для исследований общего характера."
+ building_bio_lab_2:0 "Научные комплексы"
+ building_bio_lab_2_desc:0 "Улучшенные научно-исследовательские базы с огромным количеством сотрудников."
+ building_bio_lab_3:0 "Передовые научные комплексы"
+ building_bio_lab_3_desc:0 "Эти передовые научно-исследовательские базы оснащены самым последним научным оборудованием и имеют исключительно большой кадровый состав."
+
+ building_biofood_processing_facility:0 "Предприятия обработки пищи"
+ building_biofood_processing_facility_desc:0 "Обработка пищи на этих предприятиях значительно повышает ее питательную ценность."
+ building_biofood_processing_center:0 "Центры обработки пищи"
+ building_biofood_processing_center_desc:0 "Оптимизированные предприятия для обработки пищи в больших объемах."
+
+ building_biorefinery:0 "Фабрики переработки экзотических газов"
+ building_biorefinery_desc:0 "Эти передовые фабрики производят экзотические газы днем и ночью."
+ building_biocrystal_plant:0 "Фабрики синтетических кристаллов"
+ building_biocrystal_plant_desc:0 "Здесь производятся кристаллы высочайшего качества, которые почти не отличаются от природных."
+ building_biochemical_plant:0 "Химические заводы"
+ building_biochemical_plant_desc:0 "Здесь искусственным образом производят непредсказуемые и иногда нестабильные летучие пылинки. В радиусе пяти километров от заводов запрещено использование открытых источников огня."
+ building_biomote_harvesters:0 "Ловушки для сбора пылинок"
+ building_biomote_harvesters_desc:0 "Эти замысловатые устройства заключают летучие пылинки в энергетические поля, направляя их в специальные зоны удержания под землей, где возможны их стабилизация и сбор."
+ building_biogas_extractors:0 "Колодцы для добычи газа"
+ building_biogas_extractors_desc:0 "Эти громоздкие колодцы устремляются вглубь мантии планеты, давая доступ к полостям с экзотическим газом."
+
+
+
+ mod_starbase_buildings_alloys_cost_mult:0 "Стоимость строительства звездной базы в сплавах"
+ mod_starbase_buildings_food_cost_add:0 "Стоимость строительства звездной базы в пище"
+ mod_starbase_modules_alloys_cost_mult:0 "Стоимость модуля звездной базы в сплавах"
+ mod_starbase_modules_food_cost_add:0 "Стоимость модуля звездной базы в пище"
+
+ mod_planet_districts_minerals_cost_mult:0 "Стоимость районов в минералах"
+ mod_planet_districts_food_cost_add:0 "Стоимость районов в пище"
+ mod_planet_buildings_minerals_cost_mult:0 "Стоимость планетарных зданий в минералах"
+ mod_planet_buildings_food_cost_add:0 "Стоимость планетарных зданий в пище"
+
+ mod_stations_minerals_cost_mult:0 "Стоимость космической станции в минералах"
+ mod_stations_food_cost_add:0 "Стоимость космической станции в пище"
+
+ mod_station_gatherers_minerals_cost_mult:0 "Стоимость добывающей станции в минералах"
+ mod_station_gatherers_food_cost_add:0 "Стоимость добывающей станции в пище"
+ mod_station_gatherers_energy_upkeep_mult:0 "Содержание добывающей станции в энергии"
+ mod_station_gatherers_food_upkeep_add:0 "Содержание добывающей станции в пище"
+ mod_station_researchers_minerals_cost_mult:0 "Стоимость научной станции в минералах"
+ mod_station_researchers_food_cost_add:0 "Стоимость научной станции в пище"
+ mod_station_researchers_energy_upkeep_mult:0 "Содержание научной станции в энергии"
+ mod_station_researchers_food_upkeep_add:0 "Содержание научной станции в пище"
+ mod_station_observers_minerals_cost_mult:0 "Стоимость станции наблюдения в минералах"
+ mod_station_observers_food_cost_add:0 "Стоимость станции наблюдения в пище"
+ mod_station_observers_energy_upkeep_mult:0 "Содержание станции наблюдения в энергии"
+ mod_station_observers_food_upkeep_add:0 "Содержание станции наблюдения в пище"
+
+ mod_ship_science_alloys_cost_mult:0 "Стоимость научного корабля в сплавах"
+ mod_ship_science_food_cost_add:0 "Стоимость научного корабля в пище"
+ mod_ship_science_alloys_upkeep_mult:0 "Содержание научного корабля в сплавах"
+ mod_ship_science_food_upkeep_add:0 "Содержание научного корабля в пище"
+ mod_ship_science_minerals_cost_add:0 "Стоимость научного корабля в минералах"
+ mod_ship_colonizer_alloys_cost_mult:0 "Стоимость колониального корабля в сплавах"
+ mod_ship_colonizer_food_cost_add:0 "Стоимость колониального корабля в пище"
+ mod_ship_colonizer_alloys_upkeep_mult:0 "Содержание колониального корабля в сплавах"
+ mod_ship_colonizer_food_upkeep_add:0 "Содержание колониального корабля в пище"
+ mod_ship_constructor_alloys_cost_mult:0 "Стоимость строительного корабля в сплавах"
+ mod_ship_constructor_food_cost_add:0 "Стоимость строительного корабля в пище"
+ mod_ship_constructor_alloys_upkeep_mult:0 "Содержание строительного корабля в сплавах"
+ mod_ship_constructor_food_upkeep_add:0 "Содержание строительного корабля в пище"
+ mod_ship_constructor_minerals_cost_add:0 "Содержание строительного корабля в минералах"
+ mod_ship_corvette_alloys_cost_mult:0 "Стоимость корвета в сплавах"
+ mod_ship_corvette_food_cost_add:0 "Стоимость корвета в пище"
+ mod_ship_corvette_minerals_cost_add:0 "Стоимость корвета в минералах"
+ mod_ship_destroyer_alloys_cost_mult:0 "Стоимость эсминца в сплавах"
+ mod_ship_destroyer_food_cost_add:0 "Стоимость эсминца в пище"
+ mod_ship_destroyer_minerals_cost_add:0 "Стоимость эсминца в минералах"
+ mod_ship_cruiser_alloys_cost_mult:0 "Стоимость крейсера в сплавах"
+ mod_ship_cruiser_food_cost_add:0 "Стоимость крейсера в пище"
+ mod_ship_cruiser_minerals_cost_add:0 "Стоимость крейсера в минералах"
+ mod_ship_battleship_alloys_cost_mult:0 "Стоимость линкора в сплавах"
+ mod_ship_battleship_food_cost_add:0 "Стоимость линкора в пище"
+ mod_ship_battleship_minerals_cost_add:0 "Стоимость линкора в минералах"
+ mod_ship_titan_alloys_cost_mult:0 "Стоимость титана в сплавах"
+ mod_ship_titan_food_cost_add:0 "Стоимость титана в пище"
+ mod_ship_titan_minerals_cost_add:0 "Стоимость титана в минералах"
+ mod_ship_military_station_small_alloys_cost_mult:0 "Стоимость оборонительной платформы в сплавах"
+ mod_ship_military_station_small_food_cost_add:0 "Стоимость оборонительной платформы в пище"
+ mod_ship_military_station_small_minerals_cost_add:0 "Стоимость оборонительной платформы в минералах"
+ mod_ship_corvette_alloys_upkeep_mult:0 "Содержание корвета в сплавах"
+ mod_ship_corvette_food_upkeep_add:0 "Содержание корвета в пище"
+ mod_ship_destroyer_alloys_upkeep_mult:0 "Содержание эсминца в сплавах"
+ mod_ship_destroyer_food_upkeep_add:0 "Содержание эсминца в пище"
+ mod_ship_cruiser_alloys_upkeep_mult:0 "Содержание крейсера в сплавах"
+ mod_ship_cruiser_food_upkeep_add:0 "Содержание крейсера в пище"
+ mod_ship_battleship_alloys_upkeep_mult:0 "Содержание линкора в сплавах"
+ mod_ship_battleship_food_upkeep_add:0 "Содержание линкора в пище"
+ mod_ship_titan_alloys_upkeep_mult:0 "Содержание титана в сплавах"
+ mod_ship_titan_food_upkeep_add:0 "Содержание титана в пище"
+ 
+ mod_colonies_minerals_cost_add:0 "Стоимость колониального корабля в минералах"
+ mod_ship_colossus_minerals_cost_add:0 "Стоимость колосса в минералах"
+ mod_ship_juggernaut_minerals_cost_add:0 "Стоимость джаггернаута в минералах"
+ mod_ship_juggernaut_energy_upkeep_mult:0 "Содержание джаггернаута в энергии"
+ mod_ship_juggernaut_minerals_upkeep_add:0 "Содержание джаггернаута в энергии"
+ mod_starbase_ion_cannon_minerals_cost_add:0 "Стоимость ионной пушки в минералах"

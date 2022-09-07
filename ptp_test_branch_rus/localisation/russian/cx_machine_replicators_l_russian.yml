@@ -1,0 +1,14 @@
+﻿l_russian:
+
+ civic_machine_replicators: "Репликаторы"
+ civic_machine_replicators_desc: "Разработанная для создания копий своих органических создателей, эта машина стремится продолжить свою основную функцию вне своих прежних создателей."
+ civic_tooltip_machine_replicators_effects: "Начните игру как §Y$trait_machine_central$§!, все поселения - §Yреплики§! с §Y$citizenship_full$§! и  уровнем жизни - §Y$living_standard_hive_mind$§!.\n\n§E§HОсновной вид§! будет заменён §Hрепликами§!§!\n§EМожет всегда §Hпоглощать§! биологические поселения§!\n\n§RПредставители§! §Yосновного вида§! §Rабстрактны и не представлены в игре.§!"
+
+ civic_machine_replicators_secondary_species: "Реплики"
+ trait_machine_central: "Главный машинный блок"
+ trait_machine_central_desc: "Основанная на искусственных нейронных сетях система сознательного группового разума, которая служит ядром империи машин."
+ trait_machine_replica: "Реплика"
+ trait_machine_replica_desc: "Является почти точной копией органического поселения"
+
+ TRAIT_REPLICA_EFFECT: ""
+ TRAIT_MACHINE_CENTRAL_EFFECT: ""
